@@ -16,9 +16,9 @@ Wenn Sie sich für weitere Details zu Produktzugriffsgruppen interessieren, lese
 ??? example
     Stellen Sie sich ein Unternehmen vor, **3D-Drucker GmbH**. Sie produzieren und vermarkten 3D-Drucker für den industriellen Markt. Sie nutzen KNOWRON für ihre umfangreichen Dokumentations- und Informationsbereitstellungsbedürfnisse. 3D-Drucker GmbH hat zwei regionale Abteilungen: **EMEA** und **Americas**. Beide Abteilungen stehen unter **Global Management**, mit Sitz in München.
 
-    Florian ist Global Service Manager und verantwortlich für die Koordination aller Service-Operationen weltweit. Maximilian und Werner, die Leiter des Servicebereichs für EMEA bzw. Americas, berichten an ihn.
+    Chandler ist Global Service Manager und verantwortlich für die Koordination aller Service-Operationen weltweit. Joey und Ross, die Leiter des Servicebereichs für EMEA bzw. Americas, berichten an ihn.
 
-    Es gibt zwei Arten von Dokumenten, auf die Florian über KNOWRON zugreifen möchte:
+    Es gibt zwei Arten von Dokumenten, auf die Chandler über KNOWRON zugreifen möchte:
 
     - 3D-Drucker (Montageanleitungen, Schaltpläne, Serviceanleitungen usw.)
     - Vertriebsdokumente (Broschüren, Preislisten, Kataloge)
@@ -27,13 +27,13 @@ Wenn Sie sich für weitere Details zu Produktzugriffsgruppen interessieren, lese
     Die Vertriebsdokumente variieren je nach Region: Europäische Unternehmen zahlen aufgrund der Lohnkosten mehr als südamerikanische Unternehmen. Die 3D-Drucker selbst sind jedoch überall identisch.
 
     ### Lösung
-    Um die Service-Teams für jede Region nicht durcheinander zu bringen, beschließt Florian, die Vertriebsdokumente in **Vertriebsdokumente (EMEA)** und **Vertriebsdokumente (Americas)** aufzuteilen.
+    Um die Service-Teams für jede Region nicht durcheinander zu bringen, beschließt Chandler, die Vertriebsdokumente in **Vertriebsdokumente (EMEA)** und **Vertriebsdokumente (Americas)** aufzuteilen.
 
     Er möchte immer noch, dass alle Benutzer Zugang zur 3D-Drucker-Dokumentation haben, aber den Zugriff auf die Vertriebsdokumente nach Region beschränken.
 
-    Hier können **Produktzugriffsgruppen** helfen: Mit der Hilfe von KNOWRON erstellt Florian drei verschiedene Zugriffsgruppen:
+    Hier können **Produktzugriffsgruppen** helfen: Mit der Hilfe von KNOWRON erstellt Chandler drei verschiedene Zugriffsgruppen:
 
-    - **Globale Produktgruppe** für Florian und sein Team in München
+    - **Globale Produktgruppe** für Chandler und sein Team in München
     - **EMEA Produktgruppe** für alle im EMEA-Team
     - **Americas Produktgruppe** für alle im Americas-Team
 
@@ -47,8 +47,8 @@ Wenn Sie sich für weitere Details zu Produktzugriffsgruppen interessieren, lese
 
     ![Head of Service EMEA](https://i.imgur.com/B7JMtGo.png)
 
-    Maximilian kann zwei Produktlinien sehen, nämlich diejenigen, die für seine Arbeit relevant sind.
+    Joey kann zwei Produktlinien sehen, nämlich diejenigen, die für seine Arbeit relevant sind.
 
-    Florian kann alle Produktlinien sehen, da alle Produktlinien zur Produktgruppe Global gehören.
+    Chandler kann alle Produktlinien sehen, da alle Produktlinien zur Produktgruppe Global gehören.
 
     ![Globaler Serviceleiter](https://i.imgur.com/L4rfLfc.png)
