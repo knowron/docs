@@ -37,4 +37,18 @@ Wenn Sie sich für weitere Details zu Produktzugriffsgruppen interessieren, lese
     - **EMEA Produktgruppe** für alle im EMEA-Team
     - **Americas Produktgruppe** für alle im Americas-Team
 
-    ![Status Quo](https://i.imgur.com/xq4Lbn4)
+    ![Status Quo](https://i.imgur.com/xq4Lbn4.png)
+
+    ### Was bedeutet das?
+
+    Ganz einfach: Die Benutzer können nur die Produktlinien sehen, die der Produktzugangsgruppe zugeordnet sind, der sie angehören.
+
+    Für Maximilian, Serviceleiter für EMEA, sieht das so aus:
+
+    ![Head of Service EMEA](https://i.imgur.com/B7JMtGo.png)
+
+    Maximilian kann zwei Produktlinien sehen, nämlich diejenigen, die für seine Arbeit relevant sind.
+
+    Florian kann alle Produktlinien sehen, da alle Produktlinien zur Produktgruppe Global gehören.
+
+    ![Globaler Serviceleiter](https://i.imgur.com/L4rfLfc.png)
