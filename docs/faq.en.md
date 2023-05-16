@@ -1,5 +1,53 @@
 # Frequently Asked Questions
 
+## How do I get a quick start on the platform?
+You can simply follow our quick start guides for the [Native Assistant](./Getting%20Started/quick-start-guide-assistant.md) and [Control Suite](./Getting%20Started/quick-start-guide-cs.md)
+
+## How does the API work? 
+
+At the moment, there is no public API. If you are interested in building integrations, please get in contact with ou team for the enterprise package. 
+
+## How do I search the uploaded documents?
+
+To view all the documents that have been uploaded in the system, you can go to the tools selection after choosing a product and selecting documents:
+
+Then, you can search through all the files you have available, change their name and also download them for a more thorough read
+
+## Why does my keyword search not work? 
+
+KNOWRON is a software product optimized for natural language queries, allowing you to ask questions in a conversational manner for more accurate answers. The system is designed to provide more contextual information, resulting in more precise answers when you ask detailed questions. Unlike traditional keyword search systems, KNOWRON uses special notations to locate exact matches of desired keywords, such as "keyword." This feature ensures that you get the most relevant answers to your queries.
+
+The system still supports keyword search, but asking detailed questions provides the most precise answers. If you have a specific document you want to download, you can use the documents screen to locate it. This feature enables you to easily access the information you need, without having to spend time searching for it.
+
+## How do I change the language on the platform?
+
+There are two options you can use to change the language on our platform. For desktop, you can change the language of the complete platform in the product selection page, by selecting language option in the top right corner.
+
+Another option is to perform the search in a different language than the system settings, by selecting the language you want in the search bar configuration panel.
+
+For mobile, you have to go to the settings of the application on th bootom right and then select the language you want to use.
+
+## How do I download a document I have uploaded? Subheader from documentation
+
+You need to create a product, where the documents you upload will be linked.
+
+Once it is created, the tools bar will be expanded with the various functions we offer at KNOWRON. 
+
+To upload the files you want to extract, go to documents and upload the files you want to work with.
+
+## What functions are available in the platform?
+
+See [our documentation](./index.md).
+
+## I forgot my password, how do I retrieve it?
+
+In case you forgot your password, please select the option for this case on the login menu. 
+ 
+Here, please put the email from the account you want to recover, and we will send a one-time password for you to gain access to your account again and set a new password.
+
+
+---
+
 ## What is KNOWRON?
 
 Knowron is a personal assistant for deskless workers that boost their productivity from their first day on the job and which practically eliminates the tedious work of information search and report creation. Service organizations receive actionable insights about their products and processes to remove the guesswork from their after-sales operations.
