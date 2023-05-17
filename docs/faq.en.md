@@ -4,8 +4,7 @@
 
 The first step is to go to [suite.knowron.com](https://suite.knowron.com/productLines) and put the credentials you received via email. 
 
-![Log In Screen](https://i.imgur.com/8Amh15G.png)
-<p align="center"><img src="https://i.imgur.com/8Amh15G.png" width="70%"></p>
+<p align="center"><img src="https://i.imgur.com/8Amh15G.png" width="60%"></p>
 
 After successfully logging in, you will be taken to the products page. You need to create a product, where the documents you upload will be linked.
 
@@ -13,7 +12,7 @@ After successfully logging in, you will be taken to the products page. You need 
 
 Once it is created, the tools bar will be expanded with the various functions we offer at KNOWRON. 
 
-![Menu](https://i.imgur.com/SySqsCQ.png)
+<p align="center"><img src="https://i.imgur.com/8Amh15G.png" width="60%"></p>
 
 To upload the files you want to extract, go to documents and upload the files you want to work with.
 
