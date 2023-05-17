@@ -2,7 +2,7 @@
 
 ## How do I get a quick start on the platform?
 
-The first step is to go to suite.knowron.com and put the credentials you received via email. 
+The first step is to go to [suite.knowron.com](https://suite.knowron.com/productLines) and put the credentials you received via email. 
 
 ![Log In Screen](https://i.imgur.com/8Amh15G.png)
 
