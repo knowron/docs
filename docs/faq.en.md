@@ -12,7 +12,7 @@ After successfully logging in, you will be taken to the products page. You need 
 
 Once it is created, the tools bar will be expanded with the various functions we offer at KNOWRON. 
 
-<p align="center"><img src="https://i.imgur.com/8Amh15G.png" width="60%"></p>
+<p align="center"><img src="https://i.imgur.com/Gmz2GAq.png" width="60%"></p>
 
 To upload the files you want to extract, go to documents and upload the files you want to work with.
 
@@ -32,11 +32,11 @@ At the moment, there is no public API. If you are interested in building integra
 
 To view all the documents that have been uploaded in the system, you can go to the tools selection after choosing a product and selecting documents:
 
-<p align="center"><img src="https://i.imgur.com/8Amh15G.png" width="60%"></p>
+<p align="center"><img src="https://i.imgur.com/Gmz2GAq.png" width="60%"></p>
 
 Then, you can search through all the files you have available, change their name and also download them for a more thorough read
 
-<p align="center"><img src="https://i.imgur.com/XcjnFkg.png" width="70%"></p>
+<p align="center"><img src="https://i.imgur.com/XcjnFkg.png" width="90%"></p>
 
 ## Why does my keyword search not work? 
 
@@ -48,9 +48,15 @@ The system still supports keyword search, but asking detailed questions provides
 
 There are two options you can use to change the language on our platform. For desktop, you can change the language of the complete platform in the product selection page, by selecting language option in the top right corner.
 
+![Language Header](https://i.imgur.com/39xEobq.png)
+
 Another option is to perform the search in a different language than the system settings, by selecting the language you want in the search bar configuration panel.
 
+<p align="center"><img src="https://i.imgur.com/zbH56TU.png" width="90%"></p>
+
 For mobile, you have to go to the settings of the application on th bootom right and then select the language you want to use.
+
+<p align="center"><img src="https://i.imgur.com/CLHcaIs.png" width="60%"></p>
 
 ## How do I download a document I have uploaded? Subheader from documentation
 
