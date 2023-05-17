@@ -62,9 +62,15 @@ For mobile, you have to go to the settings of the application on th bootom right
 
 You need to create a product, where the documents you upload will be linked.
 
+![Machine Selection](https://i.imgur.com/x1TJRP4.png)
+
 Once it is created, the tools bar will be expanded with the various functions we offer at KNOWRON. 
 
+<p align="center"><img src="https://i.imgur.com/Gmz2GAq.png" width="60%"></p>
+
 To upload the files you want to extract, go to documents and upload the files you want to work with.
+
+![Document Selection](https://i.imgur.com/ox3LmDQ.png)
 
 ## What functions are available in the platform?
 
