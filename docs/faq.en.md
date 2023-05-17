@@ -1,7 +1,28 @@
 # Frequently Asked Questions
 
 ## How do I get a quick start on the platform?
-You can simply follow our quick start guides for the [Native Assistant](./Getting%20Started/quick-start-guide-assistant.md) and [Control Suite](./Getting%20Started/quick-start-guide-cs.md)
+
+The first step is to go to suite.knowron.com and put the credentials you received via email. 
+
+![Log In Screen](https://i.imgur.com/8Amh15G.png)
+
+After successfully logging in, you will be taken to the products page. You need to create a product, where the documents you upload will be linked.
+
+![Machine Selection](https://i.imgur.com/x1TJRP4.png)
+
+Once it is created, the tools bar will be expanded with the various functions we offer at KNOWRON. 
+
+[Menu](https://i.imgur.com/SySqsCQ.png)
+
+To upload the files you want to extract, go to documents and upload the files you want to work with.
+
+[Document Selection](https://i.imgur.com/ox3LmDQ.png)
+
+Once they are uploaded, you can proceed to the search tool and ask any questions you have related to the documents you uploaded. 
+
+[Question Screen](https://i.imgur.com/8NWkO8w.png)
+
+For a more detailed description, you can simply follow our quick start guides for the [Native Assistant](./Getting%20Started/quick-start-guide-assistant.md) and [Control Suite](./Getting%20Started/quick-start-guide-cs.md)
 
 ## How does the API work? 
 
