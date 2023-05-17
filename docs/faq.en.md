@@ -32,7 +32,11 @@ At the moment, there is no public API. If you are interested in building integra
 
 To view all the documents that have been uploaded in the system, you can go to the tools selection after choosing a product and selecting documents:
 
+<p align="center"><img src="https://i.imgur.com/8Amh15G.png" width="60%"></p>
+
 Then, you can search through all the files you have available, change their name and also download them for a more thorough read
+
+<p align="center"><img src="https://i.imgur.com/XcjnFkg.png" width="70%"></p>
 
 ## Why does my keyword search not work? 
 
