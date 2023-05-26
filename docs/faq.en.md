@@ -12,7 +12,7 @@ After successfully logging in, you will be taken to the products page. You need 
 
 Once it is created, the tools bar will be expanded with the various functions we offer at KNOWRON. 
 
-<p align="center"><img src="https://i.imgur.com/Gmz2GAq.png" width="30%"></p>
+<p align="center"><img src="https://i.imgur.com/GvtkZM1.png" width="30%"></p>
 
 To upload the files you want to extract, go to documents and upload the files you want to work with.
 
@@ -32,7 +32,7 @@ At the moment, there is no public API. If you are interested in building integra
 
 To view all the documents that have been uploaded in the system, you can go to the tools selection after choosing a product and selecting documents:
 
-<p align="center"><img src="https://i.imgur.com/Gmz2GAq.png" width="30%"></p>
+<p align="center"><img src="https://i.imgur.com/GvtkZM1.png" width="30%"></p>
 
 Then, you can search through all the files you have available, change their name and also download them for a more thorough read
 
@@ -66,7 +66,7 @@ You need to create a product, where the documents you upload will be linked.
 
 Once it is created, the tools bar will be expanded with the various functions we offer at KNOWRON. 
 
-<p align="center"><img src="https://i.imgur.com/Gmz2GAq.png" width="30%"></p>
+<p align="center"><img src="https://i.imgur.com/GvtkZM1.png" width="30%"></p>
 
 To upload the files you want to extract, go to documents and upload the files you want to work with.
 
