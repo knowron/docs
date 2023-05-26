@@ -4,7 +4,7 @@
 
 The first step is to go to [suite.knowron.com](https://suite.knowron.com/productLines) and put the credentials you received via email. 
 
-<p align="center"><img src="https://i.imgur.com/8Amh15G.png" width="60%"></p>
+<p align="center"><img src="https://i.imgur.com/EpY9U3v.png" width="60%"></p>
 
 After successfully logging in, you will be taken to the products page. You need to create a product, where the documents you upload will be linked.
 
