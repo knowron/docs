@@ -26,7 +26,7 @@ For a more detailed description, you can simply follow our quick start guides fo
 
 ## How does the API work? 
 
-At the moment, there is no public API. If you are interested in building integrations, please get in contact with ou team for the enterprise package. 
+At the moment, there is no public API. If you are interested in building integrations, please get in contact with our team for the enterprise package.
 
 ## How do I search the uploaded documents?
 
