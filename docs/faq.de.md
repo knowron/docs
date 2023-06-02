@@ -20,7 +20,7 @@ Um die Dokumente hochzuladen, die durchsucht werden sollen, navigieren Sie zu �
 
 Sobald die Dokumente hochgeladen sind, können Sie die Suchfunktion aufrufen und Fragen zu den hochgeladenen Dokumenten stellen.
 
-![Question Screen](https://i.imgur.com/8NWkO8w.png)
+![Question Screen](https://i.imgur.com/IvGFNxm.png)
 
 Eine detailreichere Anleitung für den virtuellen Assistenten finden Sie hier [Anleitung: virtueller Assistent](./Getting%20Started/quick-start-guide-assistant.md) und für die Control Suite hier [Anleitung: Control Suite](./Getting%20Started/quick-start-guide-cs.md)
 
