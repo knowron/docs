@@ -57,7 +57,7 @@ Eine weitere Möglichkeit ist, die Sprache bei der Suche anzupassen.
 
 Auf dem Handy müssen Sie die Einstellungen der Anwendung oben rechts aufrufen. Dann klicken Sie auf “Sprache ändern” und wählen die gewünschte Sprache.
 
-<p align="center"><img src="https://i.imgur.com/CLHcaIs.png" width="30%"></p>
+<p align="center"><img src="https://i.imgur.com/clmKZ7S.jpg" width="30%"></p>
 
 ## Wie lade ich ein Dokument herunter, das ich hochgeladen habe?
 
