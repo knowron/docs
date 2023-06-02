@@ -16,7 +16,7 @@ Nach der Erstellung wird die Symbolleiste mit den verschiedenen Funktionen, die 
 
 Um die Dokumente hochzuladen, die durchsucht werden sollen, navigieren Sie zu “Dokumente” und laden Sie die Dateien hoch.
 
-![Document Selection](https://i.imgur.com/riFJe6F.png)
+![Document Selection](https://i.imgur.com/okzAxNS.png)
 
 Sobald die Dokumente hochgeladen sind, können Sie die Suchfunktion aufrufen und Fragen zu den hochgeladenen Dokumenten stellen.
 
