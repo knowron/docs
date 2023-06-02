@@ -54,7 +54,7 @@ Another option is to perform the search in a different language than the system 
 
 <p align="center"><img src="https://i.imgur.com/zbH56TU.png" width="90%"></p>
 
-For mobile, you have to go to the settings of the application on th bootom right and then select the language you want to use.
+For mobile, you have to go to the settings of the application on the top right, click on "change language" and then select the language you want to use.
 
 <p align="center"><img src="https://i.imgur.com/CLHcaIs.png" width="30%"></p>
 
