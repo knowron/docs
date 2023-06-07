@@ -8,6 +8,9 @@ theme:
   logo: logo.png
   favicon: icon.png
   extra:
+    analytics:
+      provider: google
+      property: G-STFEZM50FE
     alternate:
       - name: English
         link: /en/
@@ -18,10 +21,18 @@ theme:
   features:
     - navigation.indexes
     - navigation.sections
-    - toc.follow
+    - toc.follow 
 plugins:
   - search
   - glightbox
+  - tags:
+      tags_extra_files:
+        compatibility.md:
+          - compat 
+        web.md:
+          - html
+          - js
+          - css       
   - i18n:
       default_language: en
       languages:
