@@ -8,9 +8,6 @@ theme:
   logo: logo.png
   favicon: icon.png
   extra:
-    analytics:
-      provider: google
-      property: G-STFEZM50FE
     alternate:
       - name: English
         link: /en/
