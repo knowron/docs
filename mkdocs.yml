@@ -34,7 +34,7 @@ plugins:
           - js
           - css    
         gtag:
-          -G-STFEZM50FE   
+          - G-ZWQCQKMBGJ  
   - i18n:
       default_language: en
       languages:
