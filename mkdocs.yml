@@ -92,7 +92,6 @@ extra:
         name: Knowron on LinkedIn
       - icon: fontawesome/solid/paper-plane
         link: mailto:<ask@knowron.com>
-extra:
   consent:
     title: Cookie consent
     description: >- 
