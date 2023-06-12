@@ -102,10 +102,6 @@ extra:
         You can allow all or manage them individually.
         You can find further details of our cookies
         https://www.knowron.com/privacy-policy.
-extra:
-  analytics:
-    provider: google
-    property: G-ZWQCQKMBGJ
 
 
 
