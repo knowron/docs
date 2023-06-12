@@ -86,12 +86,6 @@ nav:
           - "Admin Documentation/Security and Access/data_security_and_privacy.en.md"
 copyright: Copyright &copy; 2020 - 2023 KNOWRON GmbH
 extra:
-    social:
-      - icon: fontawesome/brands/linkedin
-        link: https://www.linkedin.com/company/knowron/
-        name: Knowron on LinkedIn
-      - icon: fontawesome/solid/paper-plane
-        link: mailto:<ask@knowron.com>
   consent:
     title: Cookie consent
     description: >- 
@@ -101,6 +95,13 @@ extra:
         You can allow all or manage them individually.
         You can find further details of our cookies
         https://www.knowron.com/privacy-policy.
+        
+  social:
+        - icon: fontawesome/brands/linkedin
+          link: https://www.linkedin.com/company/knowron/
+          name: Knowron on LinkedIn
+        - icon: fontawesome/solid/paper-plane
+          link: mailto:<ask@knowron.com>
 
 
 
