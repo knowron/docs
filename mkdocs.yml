@@ -8,6 +8,12 @@ theme:
   logo: logo.png
   favicon: icon.png
   extra:
+    social:
+      - icon: fontawesome/brands/linkedin
+        link: https://www.linkedin.com/company/knowron/
+        name: Knowron on LinkedIn
+      - icon: fontawesome/solid/paper-plane
+        link: mailto:<ask@knowron.com>
     analytics:
       provider: google
       property: G-ZWQCQKMBGJ
@@ -99,3 +105,4 @@ nav:
           - "Admin Documentation/Security and Access/product_access_groups.md"
           - "Admin Documentation/Security and Access/roles_and_permissions.md"
           - "Admin Documentation/Security and Access/data_security_and_privacy.en.md"
+
