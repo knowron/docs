@@ -11,6 +11,19 @@ theme:
     analytics:
       provider: google
       property: G-ZWQCQKMBGJ
+    consent:
+      title: Cookie consent
+      description: >-
+        Our website uses cookies, which are small text files, 
+        to distinguish you from other users and provide you 
+        with a good experience when you browse our website:orange_heart: 
+        You can allow all or manage them individually.
+        You can find further details of our cookies
+        [here](https://www.knowron.com/privacy-policy).
+      actions:
+        - accept
+        - reject
+        - manage
     alternate:
       - name: English
         link: /en/
