@@ -11,6 +11,23 @@ theme:
     analytics:
       provider: google
       property: G-ZWQCQKMBGJ
+    consent:
+      title: Cookie consent
+      description: >-
+        Our website uses cookies, which are small text files, 
+        to distinguish you from other users and provide you 
+        with a good experience when you browse our website:orange_heart: 
+        You can allow all or manage them individually.
+        You can find further details of our cookies
+        [here](https://www.knowron.com/privacy-policy).
+      actions:
+        - accept
+        - reject
+        - manage
+      cookies:
+        - analytics:
+        - name: Google Analytics
+        - checked: false
     alternate:
       - name: English
         link: /en/
@@ -86,29 +103,11 @@ nav:
           - "Admin Documentation/Security and Access/data_security_and_privacy.en.md"
 copyright: Copyright &copy; 2020 - 2023 KNOWRON GmbH
 extra:
-    consent:
-          title: Cookie consent
-          description: >-
-            Our website uses cookies, which are small text files, 
-            to distinguish you from other users and provide you 
-            with a good experience when you browse our website:orange_heart: 
-            You can allow all or manage them individually.
-            You can find further details of our cookies
-            [here](https://www.knowron.com/privacy-policy).
-          actions:
-            - accept
-            - reject
-            - manage
-          cookies:
-            - analytics:
-            - name: Google Analytics
-            - checked: false
     social:
       - icon: fontawesome/brands/linkedin
         link: https://www.linkedin.com/company/knowron/
         name: Knowron on LinkedIn
       - icon: fontawesome/solid/paper-plane
         link: mailto:<ask@knowron.com>
-
 
 
