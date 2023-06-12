@@ -24,6 +24,8 @@ theme:
         - accept
         - reject
         - manage
+      cookies:
+        analytics: Google Analytics
     alternate:
       - name: English
         link: /en/
