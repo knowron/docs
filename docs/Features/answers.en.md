@@ -26,7 +26,13 @@ In some instances, it is possible that not all documents related to a specific p
 
 #### The documentation might be using a different name for the topic that you are looking for
 
-Coming soon!
+In some cases, it is possible that you may encounter a situation where you are searching for an abbreviation of a word that is not present in the knowledge base for a specific product or product line. This is evident in the provided example, where the search for the abbreviation `What is PLA?` does not yield any results:
+
+ <p align="center"><img src="https://i.imgur.com/sxsfxsH.png" width="100%"></p>
+
+ But when searching for the word itself `What is Polylactic acid?` the query yields in a generative answer:
+
+ <p align="center"><img src="https://i.imgur.com/hjy43O3.png" width="100%"></p>
 
 #### You were looking for something that is in an image
 
