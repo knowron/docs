@@ -1,4 +1,41 @@
 # AI-generated answers
 
-## Why was there no answer to my query?
+#### Why is my question not answered?
+
+If you haven't received a generative answer to your question, there are several possible explanations. It could be due to the question being too broad or lacking specific details, limitations in the knowledge base, or the ambiguity of the question. 
+Here are a few examples of why you didn't get the desired answer and how to fix it:
+
+
+#### Your query was asked too broadly and no answer can be formulated from the top results.
+
+ <p align="center"><img src="https://i.imgur.com/P5dffZP.png" width="100%"></p>
+
+To obtain accurate information, we recommend narrowing down your search by using more specific keywords or phrases related to your query. Refining your search criteria will help generate relevant results tailored to your needs.
+
+Formulating the query as a question and adding specific details will result in a generative answer:
+
+ <p align="center"><img src="https://i.imgur.com/ng1mKcs.png" width="100%"></p>
+
+
+#### The information you are looking for is not found in the documents provided
+
+In some instances, it is possible that not all documents related to a specific product or product line have been uploaded by your organization. If you come across missing documents, please click on the `Notify` button, and we will promptly make the requested documents available for you.
+ 
+ <p align="center"><img src="https://i.imgur.com/pVi2cKC.png" width="100%"></p>
+
+
+#### The documentation might be using a different name for the topic that you are looking for
+
 Coming soon!
+
+#### You were looking for something that is in an image
+
+Our current system does not support image recognition for extracting text from images. Our expertise lies in natural language processing and tasks centered around textual data. 
+
+ <p align="center"><img src="https://i.imgur.com/A5UQTgy.png" width="100%"></p>
+
+As it can be seen in this example the answer to the query `What is included in the basic support plan?` leads to a piece of text from an image. Since the system caannot indentity text in images, there is no generated answer provided for this query. 
+
+
+
+
