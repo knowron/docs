@@ -12,7 +12,7 @@ Here are a few examples of why you didn't get the desired answer and how to fix 
 
 To obtain accurate information, we recommend narrowing down your search by using more specific keywords or phrases related to your query. Refining your search criteria will help generate relevant results tailored to your needs.
 
-Formulating the query as a question and adding specific details will result in a generative answer:
+Formulating the query **as a question** and adding specific details will result in a generative answer:
 
  <p align="center"><img src="https://i.imgur.com/ng1mKcs.png" width="100%"></p>
 
