@@ -82,18 +82,24 @@ nav:
           - "Admin Documentation/Security and Access/product_access_groups.md"
           - "Admin Documentation/Security and Access/roles_and_permissions.md"
           - "Admin Documentation/Security and Access/data_security_and_privacy.en.md"
-copyright: Copyright &copy; 2023 @ KNOWRON GmbH
+copyright: Copyright &copy; 2023 @ KNOWRON GmbH - <a href="#__consent">Change cookie settings</a>
 extra:
   consent:
     title: Cookie consent
     description: >- 
       Our website uses cookies, which are small text files, 
-        to distinguish you from other users and provide you 
-        with a good experience when you browse our website 
-        You can allow all or manage them individually.
-        You can find further details of our cookies
-        https://www.knowron.com/privacy-policy.
-
+      to distinguish you from other users and provide you 
+      with a good experience when you browse our website. 
+      You can allow all or manage them individually.
+      You can find further details of our cookies here:
+      <a href="https://www.knowron.com/privacy-policy">Privacy policy</a>
+    actions:
+      - accept
+      - reject
+      - manage
+    cookies:
+      Imgur: Imgur
+    
   social:
         - icon: fontawesome/brands/linkedin
           link: https://www.linkedin.com/company/knowron/
