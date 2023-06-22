@@ -1,5 +1,7 @@
 # AI-generated answers
 
+Generative Question Answering leverages the power of artificial intelligence to generate dynamic, contextually appropriate responses. You can expect AI-generated answers to appear when asking a question. The system utilizes advanced algorithms to match the inputted question with the uploaded documents and extract the most relevant information. The accuracy and availability of the answers also depend on the quality of the uploaded documents.
+
 #### Why is my question not answered?
 
 If you haven't received a generative answer to your question, there are several possible explanations. It could be due to the question being too broad or lacking specific details, limitations in the knowledge base, or the ambiguity of the question. 
