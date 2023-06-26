@@ -42,7 +42,7 @@ Our current system does not support image recognition for extracting text from i
 
  <p align="center"><img src="https://i.imgur.com/A5UQTgy.png" width="100%"></p>
 
-As it can be seen in this example the answer to the query `What is included in the basic support plan?` leads to a piece of text from an image. Since the system caannot indentity text in images, there is no generated answer provided for this query. 
+As it can be seen in this example the answer to the query `What is included in the basic support plan?` leads to a piece of text from an image. Since the system cannot identify text in images, there is no generated answer provided for this query. 
 
 
 
