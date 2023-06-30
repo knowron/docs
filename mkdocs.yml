@@ -67,6 +67,7 @@ nav:
       - "Features/documents.md"
       - "Features/articles.md"
       - "Features/machineinventory.md"
+      - "Features/logbook.md"
       - "Features/searchfeedback.md"
       - "Features/partsinventory.md"
       - "Features/adminpanel.md"
