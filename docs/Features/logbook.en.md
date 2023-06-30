@@ -5,7 +5,7 @@ The digital logbook serves as a **historical record of a machine's lifecycle**. 
 The digital logbook allows users to **create entries specific to individual machines**, where they can share text and video content for all their colleagues in the shop floor.
 
 ## How to get started with the machine logbook
-First, scan the machine whose logbook you want to access. You can do this by scanning the QR code attached to it or typing in the serial number. Afterwards, simply tap on the "Logbook" icon under the product image!
+First, scan the machine whose logbook you want to access. You can do this by scanning the QR code attached to it or typing in the serial number. Afterwards, simply tap on the "Logbook" :material-history: icon under the product image!
 
 You **cannot** access the logbook from a Product Line.
 
@@ -17,7 +17,7 @@ You **cannot** access the logbook from a Product Line.
 
 ### Adding a logbook entry
 
-Simply tap on the "Add entry" button to add a new entry.
+Simply tap on the "Add entry" :material-plus: button to add a new entry.
 
 <p align="center"><img src="https://i.imgur.com/3NQ9e9X.gif" width="50%"></p>
 
