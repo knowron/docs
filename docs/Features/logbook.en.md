@@ -23,6 +23,14 @@ Simply tap on the "Add entry" button to add a new entry.
 
 Be sure to add a title and a category, as well as describe the work that was done on the machine. You can also attach images or videos you have previously taken. A picture is worth more than a thousand words!
 
+### Seeing logbook entries
+
+At any point, you can see all of the entries you and your colleagues have added for a specific machine. You can also see pictures and play the videos attached to them. 
+
+<p align="center"><img src="https://i.imgur.com/3NQ9e9X.gif" width="50%"></p>
+
+You can also use the filters to search for specific text or the date of the logbook entry to narrow things down.
+
 ## Who can see my machine's logbook?
 The logbook entries are visible to all colleagues from the same company who have access to the platform. **No outside users can see either your machines or your logbook entries.**
 
