@@ -1,4 +1,4 @@
-#  Machine inventory
+#  Machine Inventory
 
 ## What is the machine inventory?
 The Machine Inventory feature allows you to keep track of your product instances. Each machine has a unique serial number, configuration data, and maintenance history associated with it. With this feature, you can easily monitor and manage your products, ensuring their optimal performance and maintenance.
