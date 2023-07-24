@@ -70,6 +70,7 @@ nav:
       - "Features/searchfeedback.md"
       - "Features/partsinventory.md"
       - "Features/adminpanel.md"
+      - "Features/linksharing.md"
   - Native Assistant Features:
       - "Features/documents_na.md"
       - "Features/troubleshooting_na.md"
