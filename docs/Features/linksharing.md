@@ -4,13 +4,13 @@ Link Sharing is a powerful tool designed to streamline communication and foster 
 
 ## How to share a link on Control Suite?
 
-### Step 1: Navigate to the resource you wish to share, whether it's an **article**, **tutorial**, or **document**.
+### **Step 1:** Navigate to the resource you wish to share, whether it's an **article**, **tutorial**, or **document**.
 
-### Step 2: Look for the "Share" icon or option associated with the content you want to distribute.
+### **Step 2:** Look for the "Share" <img src="https://i.imgur.com/EMQaeuo.png" width="6%"></img> icon or option associated with the content you want to distribute.
 
-### Step 3: Click on the "Share" icon, and a dialog box will appear
+### **Step 3:** Click on the "Share" icon, and a dialog box will appear
 
-### Step 4: Click on "Copy Link" and distribute the link among your collegues 
+### **Step 4:** Click on "Copy Link" and distribute the link among your collegues 
 
 <p align="center"><img src="https://i.imgur.com/wwHhhe3.gif" width="90%"></p>
 
@@ -26,18 +26,17 @@ This ensures only authorized individuals can participate in knowledge-sharing, p
 
 ## How to share a link on the Native Assistant?
 
-### Step 1: Navigate to the resource you wish to share, whether it's an **article**, **tutorial**, or **document**.
+### **Step 1:** Navigate to the resource you wish to share, whether it's an **article**, **tutorial**, or **document**.
 
-### Step 2: 
-Click on the  <img src="https://i.imgur.com/eiLSxBv.jpg" width="6%"></img> icon, and distribute the link among your collegues.
+### **Step 2:** Click on the  <img src="https://i.imgur.com/eiLSxBv.jpg" width="6%"></img> icon, and distribute the link among your collegues.
 
-<p align="center"><img src="https://i.imgur.com/5Z71FC7.gif" width="30%"></p>
+<p align="center"><img src="https://i.imgur.com/5Z71FC7.gif" width="40%"></p>
 
 ## Sharing permissions 
 
  If you receive a link from a colleague and you don't have access to view it, the following screen will be displayed:
 
- <p align="center"><img src="" width="30%"></p>
+ <p align="center"><img src="https://i.imgur.com/8x1JXJP.png" width="40%"></p>
 
 
 
