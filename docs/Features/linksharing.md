@@ -29,7 +29,7 @@ This ensures only authorized individuals can participate in knowledge-sharing, p
 ### Step 1: Navigate to the resource you wish to share, whether it's an **article**, **tutorial**, or **document**.
 
 ### Step 2: 
-Click on the ![Add tag](https://i.imgur.com/ik3QJDO.jpg){ width="300" } "Share" icon, and distribute the link among your collegues
+Click on the  <img src="https://i.imgur.com/eiLSxBv.jpg" width="6%"></img> icon, and distribute the link among your collegues.
 
 <p align="center"><img src="https://i.imgur.com/5Z71FC7.gif" width="30%"></p>
 
