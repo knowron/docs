@@ -43,6 +43,7 @@ markdown_extensions:
   - pymdownx.superfences
   - attr_list
   - md_in_html
+  - attr_list
   - toc:
       permalink: ⚓︎
       permalink_title: Permalink

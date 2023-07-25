@@ -2,7 +2,7 @@
 
 Link Sharing is a powerful tool designed to streamline communication and foster teamwork. It allows you to share valuable resources with their colleagues effortlessly.
 
-## How to share a link?
+## How to share a link on Control Suite?
 
 ### Step 1: Navigate to the resource you wish to share, whether it's an **article**, **tutorial**, or **document**.
 
@@ -12,6 +12,8 @@ Link Sharing is a powerful tool designed to streamline communication and foster 
 
 ### Step 4: Click on "Copy Link" and distribute the link among your collegues 
 
+<p align="center"><img src="https://i.imgur.com/wwHhhe3.gif" width="90%"></p>
+
 
 ## Sharing permissions 
 
@@ -20,6 +22,23 @@ Our platform operates on a role-based access system, meaning that each team memb
 This ensures only authorized individuals can participate in knowledge-sharing, preventing unauthorized access. If you receive a link from a colleague and you don't have access to view it, the following screen will be displayed:
 
 <p align="center"><img src="https://i.imgur.com/5cCT2eY.png" width="90%"></p>
+
+
+## How to share a link on the Native Assistant?
+
+### Step 1: Navigate to the resource you wish to share, whether it's an **article**, **tutorial**, or **document**.
+
+### Step 2: 
+Click on the ![Add tag](https://i.imgur.com/ik3QJDO.jpg){ width="300" } "Share" icon, and distribute the link among your collegues
+
+<p align="center"><img src="https://i.imgur.com/5Z71FC7.gif" width="30%"></p>
+
+## Sharing permissions 
+
+ If you receive a link from a colleague and you don't have access to view it, the following screen will be displayed:
+
+ <p align="center"><img src="" width="30%"></p>
+
 
 
 
