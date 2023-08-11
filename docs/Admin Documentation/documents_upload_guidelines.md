@@ -11,6 +11,8 @@ There are several common factors that could contribute to documents not being ac
 
 #### 1. Uploading Scanned Documents or Images
 
+<p align="center"><img src="https://i.imgur.com/PDefh45.png" width="100%"></p>
+
 When you're uploading scanned documents or images, especially those that are older or contain historical information:
     * Our platform is equipped with Optical Character Recognition (OCR) technology. This feature allows us to extract text from scanned documents and images, making them searchable and analyzable.
     * Please note that OCR functionality is available as part of our premium upgrade. If you're interested in experiencing the benefits of OCR, don't hesitate to reach out to our support team. They'll be more than happy to provide you with details and assist you in enabling this feature. 
