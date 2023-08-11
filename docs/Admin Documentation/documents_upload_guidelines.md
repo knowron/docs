@@ -25,12 +25,12 @@ We understand that documents containing numerous tables, such as lists of spare 
 <p align="center"><img src="https://i.imgur.com/XHqKg6H.png" width="100%"></p>
 
 
-#### 3. Text-Scant Sources: Technical Drawings and More
+#### 3. Text-Scant Sources: Drawings, Diagrams and More
 
 Documents like technical drawings and circuit diagrams often fall on the text-scarce end of the spectrum. These documents predominantly consist of graphical representations and visual elements, leaving minimal room for textual content.
 
 
-<p align="center"><img src="https://i.imgur.com/6QtYZyS.png" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/GLYvzWC.png" width="100%"></p>
 
 Additionally, due to the intricacies of the software used to create such documents, text might be positioned in unconventional ways, which can affect extraction.
 We're committed to refining our system to better accommodate these unique document types. 
