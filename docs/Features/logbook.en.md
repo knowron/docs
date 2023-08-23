@@ -9,7 +9,7 @@ First, scan the machine whose logbook you want to access. You can do this by sca
 
 You **cannot** access the logbook from a Product Line.
 
-<p align="center"><img src="https://i.imgur.com/BKE7IV9.gif" width="50%"></p>
+<p align="center"><img src="https://i.imgur.com/BKE7IV9.gif" width="30%"></p>
 
 !!! note
 
