@@ -1,13 +1,17 @@
 # Document Upload Guidelines
 
+!!! success
+
+    We are always working on better ways to read and understand your documents and data. Do not hesitate to [reach out to our sales and support team](mailto:ask@knowron.com) in order to explore possibilities like **Optical Character Recognition (OCR)**, **Table Parsing** and other similar improvements.
+
 
 ## How KNOWRON Utilizes NLP to Analyze Documents
 
-At KNOWRON, our primary focus revolves around the utilization of Natural Language Processing (NLP) to comprehensively analyze documents. This involves working extensively with textual information, making text-rich data our particular area of expertise.
+At KNOWRON, our primary focus revolves around the utilization of Natural Language Processing (NLP) to comprehensively analyze documents. This involves working extensively with textual information, making **text-rich data our particular area of expertise**.
 
 NLP forms the backbone of our document analysis process, enabling us to extract valuable insights and information from a wide range of textual documents. However, while we are actively working on expanding our capabilities to encompass various data types beyond text, it's important to note that there might be instances where our system might not fully support certain types of documents. This could potentially impact the effectiveness of your search experience within our platform.
 
-There are several common factors that could contribute to documents not being accurately extracted and analyzed by our system. Here, you'll find a list of the most frequent reasons why your document extraction might not achieve the desired accuracy:
+There are several common factors that could contribute to documents not being accurately extracted and analyzed by our system without premium add-ons. **Here, you'll find a list of the most frequent reasons why your document extraction might not achieve the desired accuracy**:
 
 #### 1. Uploading Scanned Documents or Images
 
@@ -16,7 +20,7 @@ There are several common factors that could contribute to documents not being ac
 When you're uploading scanned documents or images, especially those that are older or contain historical information:
     
 * Our platform is equipped with **Optical Character Recognition (OCR) technology**. This feature allows us to extract text from scanned documents and images, making them searchable and analyzable.
-* Please note that OCR functionality is available as part of our premium upgrade. If you're interested in experiencing the benefits of OCR, don't hesitate to reach out to our support team mailto:ask@knowron.com . They'll be more than happy to provide you with details and assist you in enabling this feature. 
+* Please note that OCR functionality is available as part of our premium upgrade. If you're interested in experiencing the benefits of OCR, don't hesitate to [reach out to our support team](mailto:ask@knowron.com). They'll be more than happy to provide you with details and assist you in enabling this feature. 
 
 
 #### 2. Handling Documents with many tables
@@ -36,5 +40,3 @@ Documents like technical drawings and circuit diagrams often fall on the text-sc
 Additionally, due to the intricacies of the software used to create such documents, text might be positioned in unconventional ways, which can affect extraction.
 We're committed to refining our system to better accommodate these unique document types. 
 Your feedback is valuable to us as we work on optimizing our approach to handling such content.
-
-
