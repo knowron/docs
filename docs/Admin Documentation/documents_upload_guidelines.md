@@ -13,7 +13,7 @@ NLP forms the backbone of our document analysis process, enabling us to extract 
 
 There are several common factors that could contribute to documents not being accurately extracted and analyzed by our system without premium add-ons. **Here, you'll find a list of the most frequent reasons why your document extraction might not achieve the desired accuracy**:
 
-#### 1. Uploading Scanned Documents or Images
+### 1. Uploading Scanned Documents or Images
 
 <p align="center"><img src="https://i.imgur.com/PDefh45.png" width="100%"></p>
 
@@ -23,14 +23,14 @@ When you're uploading scanned documents or images, especially those that are old
 * Please note that OCR functionality is available as part of our premium upgrade. If you're interested in experiencing the benefits of OCR, don't hesitate to [reach out to our support team](mailto:ask@knowron.com). They'll be more than happy to provide you with details and assist you in enabling this feature. 
 
 
-#### 2. Handling Documents with many tables
+### 2. Handling Documents with many tables
 
 We understand that documents containing numerous tables, such as lists of spare parts or tables filled with values, may present challenges in terms of extraction and analysis. Our team is actively working to improve our system's handling of these table-heavy documents. While we're refining our capabilities, please be patient with us as we strive to enhance the accuracy and effectiveness of processing such content.
 
 <p align="center"><img src="https://i.imgur.com/XHqKg6H.png" width="100%"></p>
 
 
-#### 3. Text-Scant Sources: Drawings, Diagrams and More
+### 3. Text-Scant Sources: Drawings, Diagrams and More
 
 Documents like technical drawings and circuit diagrams often fall on the text-scarce end of the spectrum. These documents predominantly consist of graphical representations and visual elements, leaving minimal room for textual content.
 
@@ -40,3 +40,7 @@ Documents like technical drawings and circuit diagrams often fall on the text-sc
 Additionally, due to the intricacies of the software used to create such documents, text might be positioned in unconventional ways, which can affect extraction.
 We're committed to refining our system to better accommodate these unique document types. 
 Your feedback is valuable to us as we work on optimizing our approach to handling such content.
+
+### 4. Non-pdf documents
+
+We currently support non-pdf documents after previous agreement with our support team. Once again, please reach out to [our sales team](mailto:ask@knowron.com) for more information. 
