@@ -69,7 +69,7 @@ nav:
       - "Features/documents.md"
       - "Features/articles.md"
       - "Features/machineinventory.md"
-      - "Features/searchfeedback.md"
+      - "Features/searchdashboard.md"
       - "Features/partsinventory.md"
       - "Features/adminpanel.md"
   - Native Assistant Features:
