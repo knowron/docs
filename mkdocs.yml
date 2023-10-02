@@ -70,6 +70,7 @@ nav:
       - "Features/articles.md"
       - "Features/machineinventory.md"
       - "Features/searchdashboard.md"
+      - "Features/searchfeedback.md"
       - "Features/partsinventory.md"
       - "Features/adminpanel.md"
   - Native Assistant Features:
