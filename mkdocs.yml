@@ -62,15 +62,12 @@ nav:
       - "Features/answers.md"
       - "Features/linksharing.md"
   - Control Suite Features:
-      - "Features/charts.md"
-      - "Features/searchhistory.md"
+      - "Features/insights.md"
       - "Features/search.md"
       - "Features/tutorials.md"
       - "Features/documents.md"
       - "Features/articles.md"
       - "Features/machineinventory.md"
-      - "Features/searchdashboard.md"
-      - "Features/searchfeedback.md"
       - "Features/partsinventory.md"
       - "Features/adminpanel.md"
   - Native Assistant Features:
