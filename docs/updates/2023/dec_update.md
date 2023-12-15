@@ -53,11 +53,11 @@ Expert answers behave much like articles: you can quickly write information and 
 
 Expert answers can also contain sources, which refer the user to other articles or documents which might help them look up a specific value or data point. Please note that the public visibility of an expert answer might change based on the sources attached: expert answers with private sources are automatically private!
 
-### Informing users
+## Informing users
 
 Whenever an editor answers a users' open feedback, Virtual Assist will automatically generate an email informing them that their query has been answered.
 
-<p align="center"><img src=""></p>
+<p align="center"><img src="https://i.imgur.com/bgsj6OF.png"></p>
 
 ## Chinese is now available for Virtual Assist (15.12.)
 
