@@ -1,5 +1,7 @@
 # Product Update December 2023
 
+[comment]: KNOWRON-ONLY-START
+
 !!! warning "This page is under construction"
 
     This page is under construction.
@@ -8,6 +10,8 @@
 Welcome to our December update page! As always, this page is simply a summary of the features released from the [Roadmap](https://trello.com/b/UjCoUgke/knowron-roadmap). You can always check the roadmap page for the most up-to-date information on the product.
 
 ---
+
+[comment]: KNOWRON-ONLY-END
 
 ## Insights Dashboard makes it easier to close knowledge gaps (available immediately)
 
