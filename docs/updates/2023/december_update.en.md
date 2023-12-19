@@ -1,6 +1,11 @@
-# Product Update December 2023: Insight dashboard, expert answers and new tag system
+# Product Update December 2023: Insights dashboard, expert answers and new tag system
 
-Hello! Welcome to the KNOWRON product update for December 2023. We have quite a few updates to share with you before the year is over, which we are sure will help you and your colleagues have a happier and more productive 2024. As always, [please tell us what you think](mailto:feedback@knowron.com).
+
+Hello! Welcome to the KNOWRON product update for December 2023. We're thrilled to share some exciting updates with you before the year comes to a close, aiming to enhance your experience and contribute to a joyful and productive 2024 for you and your colleagues. 
+
+In the spirit of celebration, we extend warm holiday wishes to everyone, embracing the diversity of festivities and traditions that make this season special. As always, we invite you to share your thoughts with us at [feedback@knowron.com](mailto:feedback@knowron.com). 
+Cheers to a wonderful end of the year and a promising start to 2024! 🥂
+
 
 The updates include:
 
