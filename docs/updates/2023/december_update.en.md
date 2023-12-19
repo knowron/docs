@@ -1,19 +1,19 @@
-# Product Update December 2023
+# Product Update December 2023: Insight dashboard, expert answers and new tag system
 
-[comment]: KNOWRON-ONLY-START
+Hello! Welcome to the KNOWRON product update for December 2023. We have quite a few updates to share with you before the year is over, which we are sure will help you and your colleagues have a happier and more productive 2024. As always, [please tell us what you think](mailto:feedback@knowron.com).
 
-!!! warning "This page is under construction"
+The updates include:
 
-    This page is under construction.
+- [A new insights dashboard to understand how your knowledge base is doing and how to make it work better](#insights-dashboard-makes-it-easier-to-close-knowledge-gaps)
+- [An Expert Answers feature to finally close the loop on those frequently asked questions for good](#expert-answers-say-goodbye-to-answering-the-same-question-over-and-over)
+- [A new hierarchical tag system stretching across documents, articles and search](#new-tag-system-is-now-available-for-documents-articles-and-search)
+- [A lightbox feature to more easily see images in the Control Suite](#pictures-can-be-explored-more-easily)
+- [Article drafts for saving your progress without your work appearing on search until you're ready](#article-drafts)
+- [An easier way to submit and collect feedback about the search](#new-user-feedback-collection-for-control-suite)
 
+We would also like to take this opportunity to wish everybody and their loved ones a very happy holidays and a happy new year!
 
-Welcome to our December update page! As always, this page is simply a summary of the features released from the [Roadmap](https://trello.com/b/UjCoUgke/knowron-roadmap). You can always check the roadmap page for the most up-to-date information on the product.
-
----
-
-[comment]: KNOWRON-ONLY-END
-
-## Insights Dashboard makes it easier to close knowledge gaps (available immediately)
+## Insights Dashboard makes it easier to close knowledge gaps
 
 One of the main goals for this quarter was to make sure that editors and admins could understand how well their system was performing and were empowered to close the knowledge gaps in their organization.
 
@@ -41,7 +41,7 @@ Finally, the most **frequently asked questions** are shown. These can be an impo
 
 The **Search History** and **Feedback** screens have now been moved to be under the Insights Dashboard.
 
-## Expert Answers makes closing knowledge gaps easier than ever (available immediately)
+## Expert Answers: say goodbye to answering the same question over and over
 
 One of the main changes we have introduced is an all-new way to directly and simply answer users' questions.
 
@@ -63,18 +63,7 @@ Whenever an editor answers a users' open feedback, Virtual Assist will automatic
 
 <p align="center"><img src="https://i.imgur.com/bgsj6OF.png"></p>
 
-## Chinese is now available for Virtual Assist (15.12.)
-
-The Virtual Assist is now available in Chinese and in the People's Republic of China.
-
-Users can upload Chinese documents, ask questions in Chinese and get answers in Chinese, even from documents that are not Chinese themselves.
-
-This update includes a full localization of the user interface of both the Control Suite and the Application.
-
-<p align="center"><img src="https://i.imgur.com/MxkHupO.png"></p>
-
-
-## New tag system is now available for documents, articles and search (15 Dec)
+## New tag system is now available for documents, articles and search
 
 As part of this update, we have released a reworked tag system that is available across content units (currently documents, articles and search). 
 
@@ -87,13 +76,13 @@ We will slowly continue to add content units to this system (e.g. expert answers
 
 <p align="center"><img src="https://i.imgur.com/R3ZQZPM.png"></p>
 
-## Pictures can be explored more easily (available immediately)
+## Pictures can be explored more easily
 
 We have now added a [Lightbox](https://en.wikipedia.org/wiki/Lightbox_(JavaScript)) component to the product, making it easier to zoom into small images appearing on e.g. articles.
 
 <p align="center"><img src="https://i.imgur.com/W25B2OT.gif" width="100%"></p>
 
-## Article drafts (available immediately)
+## Article drafts
 
 Previously, articles could only be immediately published for everyone to see, making it harder to work on longer, more complex articles.
 
@@ -101,16 +90,10 @@ Editors can now simply save an article as a draft. This means that it will not a
 
 <p align="center"><img src="https://i.imgur.com/Dumfa1e.gif" width="100%"></p>
 
-## New user feedback collection for Control Suite (15 Dec)
+## New user feedback collection for Control Suite
 
 As part of our drive to make it easier for users to provide their feedback, we have reworked the feedback-collecting elements on Control Suite search. 
 
 Users will now be able to select from among pre-defined categories for giving feedback on results which aren't helpful, instead of having to elaborate much. 
 
-Users can now also submit feedback (positive and negative) to extracted answers.
-
-## Multiple languages in articles (22 Dec)
-
-Previously, articles were only available in the language in which they were initially written. This led to single-language knowledge areas cut off to the rest. 
-
-Now, editors can create a version of all articles in any of the languages available for their organization in the same way that they can for tutorials. This update also includes the same auto-translation interaction as tutorials.
+Users can now also submit feedback (positive and negative) to extracted answers. Of course, this doesn't only help your colleagues close knowledge or information gaps, it also allows us to keep improving our models and product. 
