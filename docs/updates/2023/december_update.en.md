@@ -67,7 +67,7 @@ Whenever an editor answers a users' open feedback, Virtual Assist will automatic
 
 As part of this update, we have released a reworked tag system that is available across content units (currently documents, articles and search). 
 
-Tags can be used to easily narrow down search results or relevant documents in the documents and articles screens. They now conform to existing data structures within ASMPT (e.g. Inspection vs. Printing) and will be immediately recognizable to most users. 
+Tags can be used to easily narrow down search results or relevant documents in the documents and articles screens. They now conform to existing data structures within your organization (e.g. Commissioning vs. Repair) and will be immediately recognizable to most users. 
 
 <p align="center"><img src="https://i.imgur.com/xPuCYPj.gif" width="100%"></p>
 
