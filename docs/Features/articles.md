@@ -2,34 +2,50 @@
 
 Articles allow you, editors and admins, to create free-form content. While Tutorials are structured and have a specific purpose to their own, Articles allow you to write anything from a frequently asked question to a problem-solution piece for commonly encountered issues. Articles can be linked to any other content in the knowledge base.
 
-## What do create, edit or delete Articles?
+## How to create an Article?
 
 
 As an user with the **Admin** or **Editor** role you can create, edit or delete Articles.
 
-### **Create**
+To create an Article, all you have to do is click on the `Create` button and the Articles dialog will be prompted open. 
 
-To create an Article, all you have to do is click on the `Create an article` button and the Articles dialog will be prompted open. 
+<p align="center"><img src="https://i.imgur.com/Q4M8Ufs.gif" width="100%"></p>
 
-<p align="center"><img src="https://i.imgur.com/69qg47i.gif" width="100%"></p>
+We offer two options for creating your content. You can either use our pre-made template, called the `Error/Solution Template`, or create your own content from scratch.
 
-We offer two options for creating your content. You can either use our pre-made template, called the Error/Solution Template, or create your own content from scratch.
-
-Our `Error/Solution Template` is designed to simplify the process of creating error documentation. It includes different sections for specifying the machine type and error number, and it also provides an inbuilt editor that allows you to easily create tables, lists, and more.
+Our `Error/Solution Template` is designed to simplify the process of creating error documentation. It includes different sections for specifying the machine type and error number, and it also provides an inbuilt editor that allows you to easily create lists and add images.
 
 
-<p align="center"><img src="https://i.imgur.com/vAC4MTV.gif" width="80%"></p>
-
+<p align="center"><img src="" width="80%"></p>
 
 
 !!! tip Visibility of your Articles
      The visibility of a newly created Article is private by default. This means that only people from your organization are able to see **private** Articles. Changing the visibility to Public makes the Article visible to any user with access to the product line the Article falls under.
 
 
-### **Edit or Delete** 
+## Actions
 
-In the `ACTIONS` pannel, you can choose to either edit :pencil2: or delete :wastebasket: Artciles created by you or users in your organisaiton. 
+In the `ACTIONS` pannel, you can choose to preview, edit, delete and share articles.
 
-<p align="center"><img src="https://i.imgur.com/trkKEyG.png" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/Djfon62.png" width="100%"></p>
 
-       
+### 1. Preview
+
+This function simplifies article access by opening it in a sliding tab. This feature allows you to conveniently preview and read the article. 
+
+<p align="center"><img src="https://i.imgur.com/wwKD05L.gif" width="100%"></p>
+
+### 2. Edit
+
+This function prompts a dialog where you can edit the Article's text, change the visibility and add tags.
+
+### 3. Delete
+
+This function removes the article from your system
+
+### 4. Share
+
+This function facilitates collaboration by allowing you to easily share articles with your colleagues. 
+
+<p align="center"><img src="https://i.imgur.com/AVBDSLs.png" width="100%"></p>
+
