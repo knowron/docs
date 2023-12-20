@@ -2,14 +2,14 @@
 
 Documents related to your product or product line represent one of the content units forming the product's knowledge base. As an Editor or Admin, you can upload one single document or an entire folder.
 
-![Documents Diagram](https://i.imgur.com/eJN4itO.png)
+![Documents Diagram](https://i.imgur.com/Y5GOTyu.png)
 
 
 !!! tip 
     Documents can be uploaded as a single file or an entire folder. Additionally you can search for your uploaded documents based on name or title.
 
 
-Clicking on **Upload** prompts a dialog where you can edit the Document's title, change the visibility or add tags. 
+Clicking on `Actions → Edit` prompts a dialog where you can edit the Document's title, change the visibility or add tags. 
 
 ![Documents](https://i.imgur.com/YwcPATo.png)
 
@@ -18,7 +18,7 @@ Clicking on **Upload** prompts a dialog where you can edit the Document's title,
 You can edit the document's **Title**, which will be displayed in the search results, although the original **File name** will also be shown in the Documents table. 
 
 
-![Table](https://i.imgur.com/2v3uLe4.png)
+![Table](https://i.imgur.com/m28R6Pj.png)
 
 ### **Date created**
 
