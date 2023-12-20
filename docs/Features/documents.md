@@ -10,14 +10,20 @@ Documents related to your product or product line represent one of the content u
 
 ## Actions
 
-### 1. `Preview` function simplifies document access by opening it in a sliding tab. This feature allows you to conveniently preview and read the document. 
+### 1. Preview 
+
+This function simplifies document access by opening it in a sliding tab. This feature allows you to conveniently preview and read the document. 
 
 <p align="center"><img src="https://i.imgur.com/h0sXFpE.gif" width="80%"></p>
 
 
-### 2. `Download` function enables you to save documents directly to your devices
+### 2. Download 
 
-### 3. `Edit` function prompts a dialog where you can edit the Document's title, change the visibility or add tags.
+This function enables you to save documents directly to your devices
+
+### 3. Edit 
+
+This function prompts a dialog where you can edit the Document's title, change the visibility or add tags.
 
 
 <p align="center"><img src="https://i.imgur.com/rl3dY4M.png" width="80%"></p>
@@ -55,9 +61,13 @@ Once tags have been added to documents, users can filter their search results by
 
 ---
 
-### 4. `Delete` function removes the document from your system
+### 4. Delete 
 
-### 5. `Share` function facilitates collaboration by allowing you to easily share documents with your colleagues. 
+This function removes the document from your system
+
+### 5. Share 
+
+This function facilitates collaboration by allowing you to easily share documents with your colleagues. 
 
 <p align="center"><img src="https://i.imgur.com/1ns9qVC.png" width="80%"></p>
 
