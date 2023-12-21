@@ -38,11 +38,13 @@ This function simplifies article access by opening it in a sliding tab. This fea
 
 This function prompts a dialog where you can edit the Article's text, change the visibility and add tags.
 
-<p align="center"><img src="https://i.imgur.com/h0Hg8Q5.png" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/QiQcfjQ.png" width="100%"></p>
 
 ### 3. Delete
 
 This function removes the article from your system
+
+<p align="center"><img src="https://i.imgur.com/0qmI1d2.png" width="100%"></p>
 
 ### 4. Share
 
