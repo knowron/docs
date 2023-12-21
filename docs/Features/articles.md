@@ -15,8 +15,7 @@ We offer two options for creating your content. You can either use our pre-made 
 
 Our `Error/Solution Template` is designed to simplify the process of creating error documentation. It includes different sections for specifying the machine type and error number, and it also provides an inbuilt editor that allows you to easily create lists and add images.
 
-
-<p align="center"><img src="" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/NqV0zII.gif" width="100%"></p>
 
 
 !!! tip Visibility of your Articles
@@ -38,6 +37,8 @@ This function simplifies article access by opening it in a sliding tab. This fea
 ### 2. Edit
 
 This function prompts a dialog where you can edit the Article's text, change the visibility and add tags.
+
+<p align="center"><img src="https://i.imgur.com/h0Hg8Q5.png" width="100%"></p>
 
 ### 3. Delete
 
