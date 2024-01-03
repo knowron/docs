@@ -1,6 +1,6 @@
 #  Search - UNDER CONSTRUCTION
 
-The search function allows you to ask questions about an entire product line or a particular machine in all content units created or uploaded by you or other users. These content units come in the shape of [documents](documents), [tutorials](tutorials) or [articles](articles) so we can get you the most valuable result for your query.
+The search function allows you to ask questions about an entire product line or a particular machine in all content units created or uploaded by you or other users. These content units come in the shape of [documents](documents.md), [tutorials](tutorials.md) or [articles](articles.md) so we can get you the most valuable result for your query.
 
 <p align="center"><img src="https://i.imgur.com/depHqSZ.png" width="80%"></p>
 
@@ -52,15 +52,17 @@ Tags can help you filter for specific types of documents, such as `Software` or 
  <p align="center"><img src="" width="80%"></p>
 
 --- 
-## Results not helpful?
+## Feedback
 
-We take your feedback seriously. If you think the results you received for a specific query are not correct or helpful, we invite you to offer us feedback through the Results not helpful channel.
+We take your feedback seriously. If you think the results you received for a specific query are not correct or helpful, we invite you to offer us feedback through two different channels.
 
-![Results not helpful](https://i.imgur.com/UFzgbTV.png)
+1. Results not helpful
+
+![Results not helpful]()
 
 Clicking on **Results not helpful** prompts a window where you can add your thoughts about the results to your query and how we can improve them.
 
-![Feedback box](https://i.imgur.com/XDwSOdu.png)
+![Feedback box]()
 
 Our team will get back to you as soon as possible with a solution.
 
