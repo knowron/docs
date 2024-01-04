@@ -36,7 +36,7 @@ You can filter based on the existing languages supported by your organization. T
 
 Selecting the tag “All Languages“ will provide results in all languages that are listed in the filter dropdown. Choosing only one Language will show you results in that Language and documents that have been translated from their original Language to your selected filter.
 
-IIf you wish for the system to support a language other than our default options(`English`,`German`, `Spanish`, `Chinese`), please reach out to our [sales team](sales@knowron.com).
+IIf you wish for the system to support a language other than our default options(`English`,`German`, `Spanish`, `Chinese`), please reach out to our [sales team](mailto:sales@knowron.com).
 
 
 <p align="center"><img src="https://i.imgur.com/XP1Rjzt.png" width="80%"></p>
