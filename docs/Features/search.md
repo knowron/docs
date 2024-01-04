@@ -58,7 +58,7 @@ You can refine your search by using tags as filters, ensuring that you receive r
 
 We take your feedback seriously. If you think the results you received for a specific query are not correct or helpful, we invite you to offer us feedback through two different channels.
 
-1. **Results not helpful**
+**Results not helpful**
 
 Clicking on `Results not helpful` will trigger a window that allows you to specify the reason you believe the provided Generative Answer is incorrect.
 
@@ -70,7 +70,7 @@ You have the option to choose from the checkboxes provided by our team and/or ad
  <p align="center"><img src="https://i.imgur.com/dAcToeD.png" width="80%"></p>
 
 
-2. **Downvoting the Generative Answer**
+**Downvoting the Generative Answer**
 
 Downvoting the Generative Answer will prompt a window that enables you to choose reasons from a list provided by our team, or you can submit your own explanation for why you believe the answer is not correct.
 
