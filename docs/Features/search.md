@@ -11,9 +11,7 @@ Wanna learn more about [AI Generated Answers](answers.md)?
 <p align="center"><img src="" width="80%"></p>
 
 !!! tip "Improve your results!"
-        If you formulate your question as a complete sentence 
-        with "?" at the end, the search results 
-        improve compared to a simple query.
+        If you formulate your question as a complete sentence with "?" at the end, the search results improve compared to a simple query.
 
 ---
 ##  **Search Results**
@@ -37,6 +35,9 @@ Filters can help you narrow your search based on **tags**–depending on the sel
 You can filter based on the existing languages supported by your organization. The Language that is selected by default is the Language of your system. 
 
 Selecting the tag “All Languages“ will provide results in all languages that are listed in the filter dropdown. Choosing only one Language will show you results in that Language and documents that have been translated from their original Language to your selected filter.
+
+IIf you wish for the system to support a language other than our default options(`English`,`German`, `Spanish`, `Chinese`), please reach out to our [sales team](sales@knowron.com).
+
 
 <p align="center"><img src="https://i.imgur.com/XP1Rjzt.png" width="80%"></p>
 
