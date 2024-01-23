@@ -6,8 +6,7 @@
 
 <p align="center"><img src="https://i.imgur.com/UX8V7XZ.png" width="40%"></p>
 
-2. After successfully logging in, you will be taken to the products page.
-You need to create a product, where the documents you upload will be linked.
+2. After successfully logging in, you will be taken to the products page. You need to create a product, where the documents you upload will be linked.
 
 ![Machine Selection](https://i.imgur.com/yKOvFFR.png)
 
