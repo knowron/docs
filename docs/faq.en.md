@@ -1,24 +1,18 @@
 # Frequently Asked Questions
 
 ## How do I get a quick start on the platform?
-
 1. The first step is to go to [suite.knowron.com](https://suite.knowron.com/productLines) and put the credentials you received via email. 
 
 <p align="center"><img src="https://i.imgur.com/UX8V7XZ.png" width="40%"></p>
-
 2. After successfully logging in, you will be taken to the products page. You need to create a product, where the documents you upload will be linked.
 
 ![Machine Selection](https://i.imgur.com/yKOvFFR.png)
-
 3. Once it is created, you will be redirected to the [Search Page](search.md) and all of the KNOWRON functionalities will be available to you. 
 
 <p align="center"><img src="https://i.imgur.com/7CEiZF8.png" width="80%"></p>
-
 4. To upload the files you want to extract, go to documents and upload the files you want to work with.
 
 <p align="center"><img src="https://i.imgur.com/UEWdM88.png" width="80%"></p>
-
-
 5. Once they are uploaded, you can proceed to the search tool and ask any questions you have related to the documents you uploaded. 
 
 <p align="center"><img src="https://i.imgur.com/sSzwMzB.png" width="80%"></p>
@@ -56,7 +50,7 @@ Do not hesitate to reach out to our [sales and support team](mailto:ask@knowron.
 
 There are two options you can use to change the language on our platform. For desktop, you can change the language of the complete platform in the product selection page, by selecting language option in the top right corner.
 
-<p align="center"><img src="https://i.imgur.com/5VxkZGp.png" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/5VxkZGp.png" width="60%"></p>
 
 Another option is to perform the search in a different language than the system settings, by selecting the language you want in the search bar configuration panel.
 
