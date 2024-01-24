@@ -1,79 +1,85 @@
-# Frequently Asked Questions
+# Häufig gestellte Fragen
 
-## Wie starte ich auf der Plattform?
+## Wie starte ich schnell auf der Plattform?
+ - Der erste Schritt besteht darin, zu [suite.knowron.com](https://suite.knowron.com/productLines) zu gehen und die Anmeldedaten einzugeben, die Sie per E-Mail erhalten haben.
 
-Der erste Schritt besteht darin, die Seite [suite.knowron.com](https://suite.knowron.com/productLines)  zu öffnen und die Anmeldedaten einzugeben, die Sie per E-Mail erhalten haben.
+<p align="center"><img src="https://i.imgur.com/UX8V7XZ.png" width="40%"></p>
 
-<p align="center"><img src="https://i.imgur.com/EpY9U3v.png" width="60%"></p>
+ - Nach erfolgreichem Login gelangen Sie zur Produktseite. Dort müssen Sie ein Produkt erstellen, zu dem die von Ihnen hochgeladenen Dokumente verknüpft werden.
 
-Nachdem Sie sich erfolgreich angemeldet haben, gelangen Sie zur Produktseite. Sie müssen ein Produkt erstellen, mit dem die von Ihnen hochgeladenen Dokumente verknüpft werden sollen.
+![Machine Selection](https://i.imgur.com/yKOvFFR.png)
 
-![Machine Selection](https://i.imgur.com/x1TJRP4.png)
+- Sobald es erstellt ist, werden Sie zur [Suchseite](search.md) weitergeleitet, und alle Funktionen von KNOWRON stehen Ihnen zur Verfügung.
 
-Nach der Erstellung wird die Symbolleiste mit den verschiedenen Funktionen, die wir bei KNOWRON anbieten, erweitert.  
+<p align="center"><img src="https://i.imgur.com/7CEiZF8.png" width="80%"></p>
 
-<p align="center"><img src="https://i.imgur.com/PgBvXQo.png" width="30%"></p>
+ - Um die Dateien hochzuladen, die Sie extrahieren möchten, gehen Sie zu Dokumente und laden Sie die Dateien hoch, mit denen Sie arbeiten möchten.
 
-Um die Dokumente hochzuladen, die durchsucht werden sollen, navigieren Sie zu “Dokumente” und laden Sie die Dateien hoch.
+<p align="center"><img src="https://i.imgur.com/UEWdM88.png" width="80%"></p>
 
-![Document Selection](https://i.imgur.com/okzAxNS.png)
+- Nach dem Hochladen können Sie zur Suchfunktion gehen und alle Fragen stellen, die Sie zu den hochgeladenen Dokumenten haben.
 
-Sobald die Dokumente hochgeladen sind, können Sie die Suchfunktion aufrufen und Fragen zu den hochgeladenen Dokumenten stellen.
+<p align="center"><img src="https://i.imgur.com/sSzwMzB.png" width="80%"></p>
 
-![Question Screen](https://i.imgur.com/IvGFNxm.png)
+Für eine detailliertere Beschreibung können Sie einfach unseren Schnellstartanleitungen für den [Native Assistant](./Getting%20Started/quick-start-guide-assistant.md) und [Control Suite](./Getting%20Started/quick-start-guide-cs.md) folgen.
 
-Eine detailreichere Anleitung für den virtuellen Assistenten finden Sie hier [Anleitung: virtueller Assistent](./Getting%20Started/quick-start-guide-assistant.md) und für die Control Suite hier [Anleitung: Control Suite](./Getting%20Started/quick-start-guide-cs.md)
+## Wie funktioniert die API?
 
+Derzeit gibt es keine öffentliche API. Wenn Sie daran interessiert sind, Integrationen zu erstellen, setzen Sie sich bitte mit unserem Team für das Unternehmenspaket in Verbindung.
 
-## Wie funktioniert die Programmierschnittstelle (API)?
+## Wie durchsuche ich die hochgeladenen Dokumente?
 
-Im Moment gibt es keine öffentliche API. Wenn Sie an der Erstellung von Integrationen interessiert sind, setzen Sie sich bitte mit unserem Team für das Enterprise-Paket in Verbindung.
+Um alle hochgeladenen Dokumente im System anzuzeigen, können Sie nach der Auswahl eines Produkts und der Auswahl von `Alle Dokumente:` die Tools-Auswahl aufrufen.
 
-## Wie kann ich die hochgeladenen Dokumente einsehen?
+<p align="center"><img src="https://i.imgur.com/fF703fJ.png" width="80%"></p>
 
-Um alle hochgeladenen Dokumente einzusehen, können Sie, nachdem Sie ein Produkt ausgewählt haben, in der Tool-Menüleiste zu “Dokumente” navigieren.
+## Warum funktioniert meine Stichwortsuche nicht?
 
-<p align="center"><img src="https://i.imgur.com/PgBvXQo.png" width="30%"></p>
+KNOWRON ist ein Softwareprodukt, das für natürliche Sprachabfragen optimiert ist. Sie können Fragen in einer konversationellen Art stellen, um genauere Antworten zu erhalten. Das System ist darauf ausgelegt, mehr Kontextinformationen bereitzustellen, was zu präziseren Antworten führt, wenn Sie detaillierte Fragen stellen. Im Gegensatz zu herkömmlichen Stichwortsuchsystemen verwendet KNOWRON spezielle Notationen, um genaue Übereinstimmungen gewünschter Schlüsselwörter zu finden, wie zum Beispiel "Schlüsselwort". Diese Funktion stellt sicher, dass Sie die relevantesten Antworten auf Ihre Anfragen erhalten.
 
-Hier können Sie alle verfügbaren Dateien durchsuchen, ihre Namen ändern und sie auch herunterladen.
+Das System unterstützt immer noch die Stichwortsuche, aber das Stellen von detaillierten Fragen liefert die präzisesten Antworten. Wenn Sie ein bestimmtes Dokument herunterladen möchten, können Sie den Dokumentenbildschirm verwenden, um es zu finden. Diese Funktion ermöglicht es Ihnen, schnell auf die benötigten Informationen zuzugreifen, ohne lange danach suchen zu müssen.
 
-<p align="center"><img src="https://i.imgur.com/TqrS5mw.png" width="90%"></p>
+Für weitere Details lesen Sie unsere Dokumentation zu [künstlich generierten Antworten](answers.md).
 
-## Warum funktioniert meine Keywordsuche nicht?
+## Warum wird der Inhalt meines Dokuments vom System nicht korrekt gelesen?
 
-NOWRON ist ein Softwareprodukt, das für Abfragen in natürlicher Sprache optimiert ist und es Ihnen ermöglicht, Fragen in einer dialogorientierten Art und Weise zu stellen, um genauere Antworten zu erhalten. Das System ist so konzipiert, dass es kontextbezogene Informationen liefert, was zu präziseren Antworten führt, wenn Sie detaillierte Fragen stellen. Im Gegensatz zur herkömmlichen Keyword-basierten Suche verwendet KNOWRON spezielle Schreibweisen, um genaue Übereinstimmungen mit den gewünschten Schlüsselwörtern zu finden, z. B. "Schlüsselwort". Diese Funktion gewährleistet, dass Sie die relevantesten Antworten auf Ihre Anfragen erhalten.
+Bei KNOWRON liegt unser Hauptaugenmerk darauf, Natural Language Processing (NLP) umfassend zur Analyse von Dokumenten einzusetzen. Dies beinhaltet eine umfangreiche Arbeit mit textuellen Informationen, wodurch **textreiche Daten unser spezielles Fachgebiet** sind.
 
-Das System unterstützt nach wie vor die Suche nach Schlüsselwörtern, aber wenn Sie detaillierte Fragen stellen, erhalten Sie die präzisesten Antworten. Bestimmte Dokumenten können Sie über den Menüpunkt “Dokumente” herunterladen. Mit dieser Funktion können Sie leicht auf die benötigten Informationen zugreifen, ohne lange danach suchen zu müssen.
+Textarme Daten wie Bilder, Tabellen und Schaltpläne sind herausfordernder zu verarbeiten. Lesen Sie unsere [Seite zu den Richtlinien für das Hochladen von Dokumenten](./Admin%20Documentation/documents_upload_guidelines.md), um mehr zu erfahren.
 
-## Wie kann ich die Sprache auf der Plattform ändern?
+Zögern Sie nicht, sich an unser [Verkaufs- und Supportteam](mailto:ask@knowron.com) zu wenden, um Funktionen wie **OCR** (optische Zeichenerkennung), **Tabellenauswertung** und ähnliche Funktionen zu aktivieren, die in unseren Premium-Paketen verfügbar sind.
 
-Es gibt zwei Möglichkeiten, die Sprache auf unserer Plattform zu ändern. Für den Desktop können Sie die Sprache der gesamten Plattform auf der Produktauswahlseite ändern, indem Sie die Sprachoption in der oberen rechten Ecke auswählen.
+## Wie ändere ich die Sprache auf der Plattform?
 
-![Language Header](https://i.imgur.com/39xEobq.png)
+Es gibt zwei Möglichkeiten, die Sprache auf unserer Plattform zu ändern. Für den Desktop können Sie die Sprache der gesamten Plattform auf der Produkt-Auswahlseite ändern, indem Sie die Sprachoption in der oberen rechten Ecke auswählen.
 
-Eine weitere Möglichkeit ist, die Sprache bei der Suche anzupassen.
+<p align="center"><img src="https://i.imgur.com/5VxkZGp.png" width="60%"></p>
 
-<p align="center"><img src="https://i.imgur.com/7DbllS5.png" width="90%"></p>
+Eine andere Möglichkeit besteht darin, die Suche in einer anderen Sprache als den Systemspracheinstellungen durchzuführen, indem Sie die gewünschte Sprache in der Konfigurationsleiste der Suchleiste auswählen.
 
-Auf dem Handy müssen Sie die Einstellungen der Anwendung oben rechts aufrufen. Dann klicken Sie auf “Sprache ändern” und wählen die gewünschte Sprache.
+<p align="center"><img src="https://i.imgur.com/NYOlzKn.png" width="80%"></p>
 
-<p align="center"><img src="https://i.imgur.com/clmKZ7S.jpg" width="30%"></p>
+Für mobile Geräte müssen Sie in den Einstellungen der Anwendung oben rechts auf "Sprache ändern" klicken und dann die gewünschte Sprache auswählen.
+
+<p align="center"><img src="https://i.imgur.com/CLHcaIs.png" width="30%"></p>
 
 ## Wie lade ich ein Dokument herunter, das ich hochgeladen habe?
 
-Wähle das entsprechende Produkt aus, dessen Dokumente Sie herunterladen möchten. Dann navigieren Sie zu dem Menüpunkt “Dokumente”, worüber Sie zu dem relevanten Fenster kommen. Hier können Sie nun das gewünschte Dokument ansehen, bearbeiten und herunterladen.
+Das Herunterladen eines Dokuments kann durch Zugriff auf das Aktionsfeld innerhalb der Tabelle und Auswahl der Option **Herunterladen** erfolgen, sowohl im Tab `Alle Dokumente` als auch im Tab `Dokumente`.
 
-## Welche Funktionen sind auf der Plattform verfügbar?
+<p align="center"><img src="https://i.imgur.com/NkcdoSV.png" width="80%"></p>
 
-Siehe [Dokumentation](./index.md).
+
+## Welche Funktionen stehen auf der Plattform zur Verfügung?
+
+Siehe [unsere Dokumentation](./index.md).
 
 ## Ich habe mein Passwort vergessen, wie kann ich es wiederherstellen?
 
-Falls Sie Ihr Passwort vergessen haben, wählen Sie bitte die entsprechende Option im Login-Menü.
+Wenn Sie Ihr Passwort vergessen haben, wählen Sie bitte die Option für diesen Fall im Anmeldefenster aus.
 
-<p align="center"><img src="https://i.imgur.com/OZ9vmEm.png" width="70%"></p>
+<p align="center"><img src="https://i.imgur.com/OZ9vmEm.png" width="50%"></p>
  
-Geben Sie hier die E-Mail-Adresse des Kontos ein, das Sie wiederherstellen möchten, und wir senden Ihnen einen Code zu, mit dem Sie wieder Zugang zu Ihrem Konto erhalten und ein neues Passwort festlegen können.
+Geben Sie hier bitte die E-Mail-Adresse des Kontos ein, das Sie wiederherstellen möchten, und wir senden Ihnen ein Einmalpasswort zu, damit Sie wieder Zugriff auf Ihr Konto erhalten und ein neues Passwort festlegen können.
 
-<p align="center"><img src="https://i.imgur.com/puiD8Wa.png" width="70%"></p>
-
+<p align="center"><
