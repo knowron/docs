@@ -2,7 +2,7 @@
 
 Diese Seite führt Sie durch alles, was Sie wissen müssen, um den **KNOWRON Assistant** zu benutzen. Wenn Sie Fragen haben oder Unterstützung benötigen, [wenden Sie sich bitte direkt an uns](mailto:arturo@knowron.com)!
 
-<p align="center"><img src="https://i.imgur.com/EAaxESg.png" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/EAaxESg.png" width="70%"></p>
 
 ---
 
