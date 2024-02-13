@@ -2,7 +2,7 @@
 
 Diese Seite führt Sie durch alles, was Sie wissen müssen, um die **KNOWRON Control Suite** zu verwenden. Wenn Sie Fragen haben oder Unterstützung benötigen, [kontaktieren Sie uns bitte direkt](mailto:arturo@knowron.com)!
 
-<p align="center"><img src="https://i.imgur.com/EAaxESg.png" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/EAaxESg.png" width="70%"></p>
 
 ---
 
