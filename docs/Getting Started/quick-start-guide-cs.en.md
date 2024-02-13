@@ -55,7 +55,7 @@ We can show you results from the following resources:
 - [Documents](documents.md)
 - [Tutorials](tutorials.md)
 - [Articles](articles.md)
-- [Expert Answers](insights.md#expert-answers) 
+- [Expert Answers](Feautures/insights.md#expert-answers) 
 
 In the future, we will also be able to show you results from your machine's logbook and much more!
 
