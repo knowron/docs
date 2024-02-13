@@ -1,28 +1,28 @@
-# Kurzanleitung: Control Suite (Web)
+# Schnellstartanleitung: Control Suite (Web)
 
-Diese Seite führt Sie durch alles, was Sie wissen müssen, um die **Control Suite** zu benutzen. Wenn Sie Fragen haben oder Unterstützung benötigen, [kontaktieren Sie uns bitte direkt](mailto:arturo@knowron.com)!
+Diese Seite führt Sie durch alles, was Sie wissen müssen, um die **KNOWRON Control Suite** zu verwenden. Wenn Sie Fragen haben oder Unterstützung benötigen, [kontaktieren Sie uns bitte direkt](mailto:arturo@knowron.com)!
 
 <p align="center"><img src="https://i.imgur.com/EAaxESg.png" width="100%"></p>
 
 ---
 
-## Schritt 1. Sich in die Control Suite einloggen
+## Schritt 1. Melden Sie sich bei der Control Suite an
 
 Die Control Suite ist unter [suite.knowron.com](https://suite.knowron.com) erreichbar.
 
-[Control Suite besuchen](https://suite.knowron.com){ .md-button }
+[Besuchen Sie die Control Suite](https://suite.knowron.com){ .md-button }
 
-Sie brauchen nur Ihre E-Mail und Ihr KNOWRON-Passwort, um sich in das System einzuloggen. Ihre **E-Mail** ist normalerweise Ihre Arbeits-E-Mail. Ihr **Passwort** finden Sie in der E-Mail, die Sie erhalten haben, um Ihrer Organisation auf KNOWRON beizutreten (siehe unten).
+Sie benötigen nur Ihre E-Mail-Adresse und Ihr KNOWRON-Passwort, um sich im System anzumelden. Ihre **E-Mail-Adresse** ist normalerweise Ihre Arbeits-E-Mail. Ihr **Passwort** finden Sie in der E-Mail, die Sie erhalten haben, um Sie zur Teilnahme an Ihrer Organisation auf KNOWRON einzuladen (siehe unten).
 
-??? info "Finden Sie Ihr Passwort oder Ihre E-Mail nicht?"
+??? info "Hilfe beim Finden Ihres Passworts oder Einladungs-E-Mails benötigt?"
 
     <p align="center"><img src="https://i.imgur.com/gXh9xJt.png" width="100%"><figcaption>Hier finden Sie Ihr Passwort in der Einladungs-E-Mail.</figcaption></p>
 
-    Wenn Sie Ihr Passwort vergessen haben, können Sie es direkt auf [suite.knowron.com](https://suite.knowron.com) zurücksetzen. Klicken Sie einfach auf "Forgot password" und folgen Sie den Anweisungen auf dem Bildschirm.
+    Wenn Sie sich nicht an Ihr Passwort erinnern, können Sie es direkt auf [suite.knowron.com](https://suite.knowron.com) zurücksetzen. Klicken Sie einfach auf "Passwort vergessen" und folgen Sie den Anweisungen auf dem Bildschirm.
 
-    Wenn Sie keine E-Mail erhalten haben, in der Sie zu KNOWRON eingeladen werden, wenden Sie sich bitte an Ihre Kollegen, die damit arbeiten, oder [schreiben Sie uns an](mailto:ali@knowron.com?subject=Request for Access&body=Hi,%0D%0A%0D%0A Ich habe keinen Zugriff auf dem System. Schalten Sie mich bitte frei. %0D%0A%0D%0ADanke!).
+    Wenn Sie keine E-Mail erhalten haben, die Sie zur Nutzung von KNOWRON einlädt, wenden Sie sich bitte an Ihre Kollegen, die damit arbeiten, oder [fordern Sie hier Zugang an](mailto:ali@knowron.com?subject=Anfrage für Zugang&body=Hallo,%0D%0A%0D%0AIch kann nicht auf das System zugreifen. Bitte um Unterstützung.%0D%0A%0D%0ADanke!).
 
-Wenn Sie Ihre E-Mail und Ihr Passwort haben, geben Sie sie einfach ein und melden Sie sich an!
+Nachdem Sie Ihre E-Mail-Adresse und Ihr Passwort haben, geben Sie sie einfach ein und melden Sie sich an!
 
 <p align="center">
     <img src="https://i.imgur.com/h3OoieE.png" width="70%">
@@ -30,68 +30,65 @@ Wenn Sie Ihre E-Mail und Ihr Passwort haben, geben Sie sie einfach ein und melde
 
 ---
 
-## Schritt 2. Eine Produktlinie auswählen
+## Schritt 2. Wählen Sie eine Produktlinie aus
 
-Sobald Sie eingeloggt sind, sehen Sie eine Übersicht über die Produktlinien, die Ihre Kollegen erstellt haben.
+Nach dem Anmelden sehen Sie eine Übersicht über die Produktlinien, die Ihre Kollegen erstellt haben.
 
-**Produktlinien** stehen für die Maschinen, Anlagen oder Prozesse, die Ihr Unternehmen betreibt und mit denen Sie jeden Tag arbeiten. Produktlinien sind dazu da, dem KNOWRON System einen Kontext zu geben - d.h. worüber stellen Sie Fragen?
+**Produktlinien** repräsentieren die Maschinen, Anlagen oder Prozesse, die Ihre Organisation unterstützt und mit denen Sie täglich arbeiten. Produktlinien dienen dazu, dem KNOWRON-System Kontext zu geben - d.h. worum geht es bei Ihren Fragen?
 
-Bevor Sie fortfahren, müssen Sie die Produktlinie auswählen, die für Sie relevant ist. Klicken Sie einfach darauf, und das Kontextmenü auf der linken Seite Ihres Bildschirms wird geöffnet und Sie gelangen zur Suchseite.
+Bevor Sie fortfahren können, müssen Sie auswählen, an welcher Produktlinie Sie interessiert sind. Sie müssen einfach darauf klicken, und das Kontextmenü auf der linken Seite Ihres Bildschirms wird sich entfalten, und Sie werden zum Suchbildschirm geleitet.
 
-<p align="center"><img src="https://i.imgur.com/TfkKWZ3.gif" width="100%"></p>
-
+<p align="center"><img src="https://i.imgur.com/HMIItzO.png" width="80%"></p>
 
 ---
 
-## Schritt 3. Eine Frage stellen
+## Schritt 3. Stellen Sie eine Frage
 
-Jetzt brauchen Sie nur noch zu fragen, was Sie wissen wollen. Tippen Sie in die Suchleiste und drücken Sie die Eingabetaste. KNOWRON durchsucht dann Ihre gesamte Wissensdatenbank und zeigt Ihnen die relevantesten Ergebnisse an.
+Jetzt müssen Sie nur noch fragen, was Sie wissen möchten. Geben Sie etwas in die Suchleiste ein und drücken Sie die Eingabetaste. KNOWRON wird dann Ihre gesamte Wissensdatenbank durchsuchen und Ihnen die relevantesten Ergebnisse anzeigen.
 
-Nachfolgend finden Sie ein Beispiel für eine Suchinteraktion für die Frage `Wie lange ist die Lebensdauer der Bauplatte?`
+Unten finden Sie eine Beispiel-Interaktion für die Suche nach der Frage `Bei welcher Luftfeuchtigkeit kann der Drucker verwendet werden?`
 
-<p align="center"><img src="https://i.imgur.com/HI3nVYq.gif
-" width="70%"></p>
+<p align="center"><img src="https://i.imgur.com/depHqSZ.png" width="70%"></p>
 
-Wir können Ihnen Ergebnisse aus den folgenden Quellen zeigen:
+Wir können Ihnen Ergebnisse aus folgenden Ressourcen anzeigen:
 
-- Dokumente
-- Tutorials
-- Artikel
+- [Dokumenten](documents.md)
+- [Tutorials](tutorials.md)
+- [Artikeln](articles.md)
+- [Expertenantworten](insights.md#expert-answers) 
 
-In Zukunft werden wir Ihnen auch Ergebnisse aus dem Logbuch Ihrer Maschine und vieles mehr zeigen können!
+In Zukunft werden wir Ihnen auch Ergebnisse aus dem Logbuch Ihrer Maschine und vielem mehr anzeigen können!
 
 !!! tip "Durch das Stellen von Fragen erhalten Sie bessere Ergebnisse"
 
-    KNOWRON nutzt modernstes NLP, um zu verstehen, wonach Sie suchen, und um Ihnen die relevantesten Ergebnisse zu liefern. Wenn Sie Ihre Anfrage als **Frage** formulieren, werden Sie **bessere Ergebnisse** erhalten.
+    KNOWRON verwendet modernste NLP, um zu verstehen, wonach Sie suchen, und die relevantesten Ergebnisse anzuzeigen. Wenn Sie Ihre Anfrage als **Frage** formulieren, erhalten Sie **bessere Ergebnisse**.
 
     > Beispiel
 
-    Anstatt `Bauplatte Lebensdauer` zu suchen, fragen Sie `Wie lange ist die Lebensdauer der Bauplatte?`
+    Statt `Drucker Luftfeuchtigkeit` fragen Sie `Bei welcher Luftfeuchtigkeit kann der Drucker verwendet werden?`
 
 ---
 
 ## Schritt 4. Feedback geben
 
-KNOWRON kann nur besser werden, wenn Sie uns Feedback geben! Das Feedback wird für den Suchalgorithmus berücksichtigt und hilft sogar Ihren Kollegen, bessere Inhalte für alle in Ihrer Organisation zu erstellen.
+KNOWRON kann nur besser werden, wenn Sie Feedback geben! Feedback wird beim Suchalgorithmus berücksichtigt und hilft sogar Ihren Kollegen, bessere Inhalte für alle in Ihrer Organisation zu erstellen.
 
-Sie können Ihr Feedback auf zwei Arten abgeben:
+Sie können Feedback auf zwei Arten geben:
 
-### Verwenden Sie "Daumen hoch", um hilfreiche Ergebnisse zu markieren
+**Ergebnisse nicht hilfreich**
 
-Wenn Sie ein Ergebnis gefunden haben, das Ihnen geholfen hat, können Sie es mit einem Daumen hoch bewerten (siehe unten).
+Durch Klicken auf `Ergebnisse nicht hilfreich` wird ein Fenster ausgelöst, das es Ihnen ermöglicht, den Grund anzugeben, warum Sie glauben, dass die bereitgestellte Generative Antwort falsch ist.
 
-<p align="center"><img src="https://imgur.com/t2tkFxe.gif
-" width="70%"></p>
+ <p align="center"><img src="https://i.imgur.com/nImrevY.png" width="80%"></p>
 
-Ein "Daumen hoch" dauert weniger als eine Sekunde und lässt Ihre Kollegen wissen, dass dies auch für sie hilfreich sein wird, wenn sie eine ähnliche Frage haben. Der Algorithmus von KNOWRON wird dies ebenfalls berücksichtigen: mehr "Daumen hoch"-Reaktionen bedeuten, dass dieses Ergebnis in Zukunft weiter oben in den Suchergebnissen erscheinen wird.
 
-### Melden Sie Ihren Kollegen alle fehlenden Daten, damit sie die Wissenslücke schließen können.
+Sie haben die Möglichkeit, aus den von unserem Team bereitgestellten Kontrollkästchen auszuwählen und/oder Ihre eigenen Gedanken zu den Ergebnissen Ihrer Abfrage hinzuzufügen und Verbesserungsvorschläge zu machen. Unser Team wird sich so schnell wie möglich mit einer Lösung bei Ihnen melden.
 
-Es kann vorkommen, dass KNOWRON keine passende Antwort findet - oder dass die Antwort leicht daneben liegt. Dies kann vor allem durch eine sehr breite Abfrage oder fehlende Daten geschehen.
+ <p align="center"><img src="https://i.imgur.com/dAcToeD.png" width="80%"></p>
 
-Wenn Sie feststellen, dass die Suchergebnisse Ihnen nicht so weiterhelfen, wie Sie es brauchen, können Sie oben in den Suchergebnissen auf "ERGEBNISSE NICHT HILFREICH" klicken und uns mitteilen, was Sie erwartet haben (siehe unten).
 
-<p align="center"><img src="https://i.imgur.com/i44sdhx.gif
-" width="70%"></p>
+**Herabstufen der Generativen Antwort**
 
-Ihre Kollegen mit Editor-Rolle, meist aus dem First-Level-Support oder dem Hotlinedienst, werden auf Ihr Feedback reagieren und dafür sorgen, dass die von Ihnen benötigten Informationen für Sie und Ihre Kollegen verfügbar sind.
+Das Herabstufen der Generativen Antwort löst ein Fenster aus, das es Ihnen ermöglicht, Gründe aus einer von unserem Team bereitgestellten Liste auszuwählen, oder Sie können Ihre eigene Erklärung dafür abgeben, warum Sie glauben, dass die Antwort nicht korrekt ist.
+
+ <p align="center"><img src="https://i.imgur.com/eGD8ZVd.png" width="80%"></p>
