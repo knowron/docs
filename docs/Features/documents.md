@@ -10,24 +10,24 @@ Documents related to your product or product line represent one of the content u
 
 ## Actions
 
-### 1. Preview 
+### 1. **Preview** 
 
 This function simplifies document access by opening it in a sliding tab. This feature allows you to conveniently preview and read the document. 
 
 <p align="center"><img src="https://i.imgur.com/h0sXFpE.gif" width="80%"></p>
 
 
-### 2. Download 
+### 2. **Download**
 
 This function enables you to save documents directly to your devices
 
 <p align="center"><img src="https://i.imgur.com/dVBtEsD.png" width="80%"></p>
 
-### 3. Edit 
+### 3. **Edit**
 
 This function prompts a dialog where you can edit the Document's title, change the visibility or add tags.
 
-<p align="center"><img src="https://i.imgur.com/rl3dY4M.png" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/rl3dY4M.png" width="0%"></p>
 
 #### **Title**
 
@@ -49,11 +49,14 @@ Setting the Documents' visibility to **Private** would make them visible to user
 
 Adding tags to a document is a way to categorize or label it with relevant keywords or phrases that describe its content. Tags make it easier to find specific documents by filtering their search based on those tags. Editors and Admins can create tags by typing in the name of the tag you wish to create in the Tags bar from the `Edit Metadata` dialog.
 
-![Tags](https://i.imgur.com/AzOobeD.png)
+
+<p align="center"><img src="https://i.imgur.com/AzOobeD.png" width="80%"></p>
+
 
 If a tag already exists, either previously created by you or your collegues it will be displyed in the list and can be selected and added to the document's tags. 
 
-![Add tag](https://i.imgur.com/riFMvsH.jpg)
+
+<p align="center"><img src="https://i.imgur.com/riFMvsH.jpg" width="80%"></p>
 
 Once tags have been added to documents, users can filter their search results by selecting one or more tags. This will show them only the documents that match the selected tags, making it easier to find what they are looking for. Tags can also be used to group similar documents together, providing a more organized and efficient way to access information.
 
@@ -62,7 +65,7 @@ Once tags have been added to documents, users can filter their search results by
 
 ---
 
-### 4. Delete 
+### 4. **Delete**
 
 This function removes the document from your system
 
@@ -81,11 +84,104 @@ This function facilitates collaboration by allowing you to easily share document
 
 There are three Statuses a document can have:
 
-|Status|Description| 
-|:---|:---- | 
-| <span style="color:#818589">**PROCESSING**</span> |The document(s) have been uploaded and extracted to the knowledge base| 
-| <span style="color:darkgreen">**EXTRACTED**</span>  | The document(s) are currently being uploaded     |
-|  <span style="color:red">**FAILED**</span>  | The documents have failed to upload        |
+|Status|Description|
+|:---|:----|
+|<span style="color:#818589">**PROCESSING**</span>|The documents are currently being uploaded.|
+|<span style="color:#00008B">**UPLOADED**</span>|The documents have been uploaded.|
+|<span style="color:darkgreen">**EXTRACTED**</span>|The documents have been uploaded and extracted into the knowledge database.|
+|<span style="color:red">**ERROR**</span>|The documents could not be uploaded.|
+
+## **File Types** 
+
+We've expanded our system to support a wide range of file types for upload. Take a look at the list below to see which types are now supported:
+
+
+|Extension|File type|
+|-------|----------|
+|.aac|AAC audio|
+|.apng|Animated Portable Network Graphics (APNG) image|
+|.arc|Archive document (multiple files embedded)|
+|.avif|AVIF image|
+|.avi|AVI: Audio Video Interleave|
+|.azw|Amazon Kindle eBook format|
+|.bmp|Windows OS/2 Bitmap Graphics|
+|.css| Cascading Style Sheets (CSS)|
+|.csv|Comma-separated values (CSV)|
+|.doc|Microsoft Word|
+|.docx|Microsoft Word (OpenXML)|
+|.eot|MS Embedded OpenType fonts|
+|.epub|Electronic publication (EPUB)|
+|.gif|Graphics Interchange Format (GIF)|
+|.htm, .html|HyperText Markup Language (HTML)|
+|.ico|Icon format|
+|.jar|Java Archive (JAR)|
+|.jpeg, .jpg|JPEG images|
+|.jsonld|JSON-LD format|
+|.mid, .midi|Musical Instrument Digital Interface (MIDI)|
+|.mp3|MP3 audio|
+|.mp4|MP4 video|
+|.mpeg|MPEG Video|
+|.mpkg, .pkg|Apple Installer Package|
+|.odp|OpenDocument presentation document|
+|.ods|OpenDocument spreadsheet document|
+|.odt|OpenDocument text document|
+|.oga|OGG audio|
+|.ogv|OGG video|
+|.ogx|OGG|
+|.opus|Opus audio|
+|.otf|OpenType font|
+|.png|Portable Network Graphics|
+|.pdf|Adobe Portable Document Format (PDF)|
+|.ppt|Microsoft PowerPoint|
+|.pptx|Microsoft PowerPoint (OpenXML)|
+|.rtf|Rich Text Format (RTF)|
+|.svg|Scalable Vector Graphics (SVG)|
+|.tif, .tiff|Tagged Image File Format (TIFF)|
+|.ts|MPEG transport stream|
+|.ttf|TrueType Font|
+|.txt|Text, (generally ASCII or ISO 8859-n)|
+|.vsd, .vsdx|Microsoft Visio|
+|.wav|Waveform Audio Format|
+|.weba|WEBM audio|
+|.webm|WEBM video|
+|.webp|WEBP image|
+|.woff|Web Open Font Format (WOFF)|
+|.woff2|Web Open Font Format (WOFF)|
+|.xhtml|XHTML|
+|.xls|Microsoft Excel|
+|.xlsx|Microsoft Excel (OpenXML)|
+|.xml|XML|
+|.3gp|3GPPaudio/video container|
+|.3g2|3GPP2audio/video container|
+|.zip|winrar, 7zip|
+|.rar|winrar, 7zip|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
