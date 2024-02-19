@@ -47,7 +47,6 @@ markdown_extensions:
   - toc:
       permalink: ⚓︎
       permalink_title: Permalink
-      permalink: "#"
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
