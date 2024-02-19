@@ -6,7 +6,7 @@ This page will guide you through all you need to know to start using the **KNOWR
 
 ---
 
-## Step 1. Download the Assistant
+## **Step 1. Download the Assistant**
 
 The assistant is available for both Android and Apple devices in their respective app stores. They are free of charge to download. Simply click on the links below or scan them with your phone.
 
@@ -16,7 +16,7 @@ The assistant is available for both Android and Apple devices in their respectiv
 
 Once you've downloaded the app, simply open it.
 
-## Step 2. Log into the Assistant
+## **Step 2. Log into the Assistant**
 
 Once you open the Assistant, you will see the log in screen (see below).
 
@@ -40,7 +40,7 @@ Note you how you can request access if you have not yet received access to the a
 
 ---
 
-## Step 3. Select a product line
+## **Step 3. Select a product line**
 
 Once logged in, you will see our homescreen, prompting you to scan a machine or type the serial number of the machine in front of you.
 
@@ -68,7 +68,7 @@ If you have a serial number or a machine QR code, things are easier. See below.
 
 ---
 
-## Step 4. Ask a question
+## **Step 4. Ask a question**
 
 You now have access to the entire documentation for the product line you have selected. Next is to actually ask a question.
 
@@ -83,7 +83,7 @@ The results are illustrated below.
 
 ---
 
-## Step 5. Use the Search Screen
+## **Step 5. Use the Search Screen**
 
 Whenever we can, we will show you answers straight from your documentation. If you want to delve deeper, you can use filters and other features, available on the **Search Screen**. Tap on "See more Results" on the Assistant Panel or select the "Search" icon from the homescreen.
 
@@ -108,7 +108,7 @@ In the future, we will also be able to show you results from your machine's logb
 
 ---
 
-## Step 6. Give feedback
+## **Step 6. Give feedback**
 
 KNOWRON can only get better if you give feedback! Feedback will be taken into account for the search algorithm and will even help your colleagues create better content for everyone in your organization.
 
@@ -130,6 +130,6 @@ Sometimes, KNOWRON will not find a suitable answer - or the answer might be slig
 If you find that the search results are not helping you in the way that you need, you can click on `Results not helpful` at the top of the search results and give us details on what you were expecting (see below).
 
 <p align="center"><img src="https://i.imgur.com/9rXj4j9.gif
-" width="70%"></p>
+"width="50%"></p>
 
 Your colleagues with an editor role, mostly from first-level support or hotline duty will act on your feedback and make sure that the information you need is available to you and your colleagues.
