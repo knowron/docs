@@ -4,6 +4,10 @@ Hello! In this page, we try to keep you up-to-date for all the features and chan
 
 Visit the child pages to learn more!
 
+## 2024
+
+- [Product Update v1.18.0](2024/v1.19.0.en.md)
+
 ## 2023
 
 - [Product Update V1.18.0](2023/v1.18.0.en.md)
@@ -14,3 +18,5 @@ Visit the child pages to learn more!
 
 - [Update for late December](2022/2022-late-dec-update.md)
 - [Update for early December](2022/2022-early_dec_updated.md)
+
+
