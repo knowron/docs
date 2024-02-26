@@ -1,6 +1,6 @@
 ## Produktupdate für Native Assistant: Hierarchische Tags & Fehlerbehebungen
 
-Wir freuen uns, einige fantastische Updates und Funktionen zu teilen, an denen wir bei KNOWRON gearbeitet haben! Diese Verbesserungen sollen Ihren Workflow optimieren und Ihr Erlebnis in Control Suite verbessern.
+Wir freuen uns, einige fantastische Updates und Funktionen zu teilen, an denen wir bei KNOWRON gearbeitet haben! Diese Verbesserungen sollen Ihren Workflow optimieren und Ihr Erlebnis in Native Assistant verbessern.
 
 ### 🏷️ **Vorstellung von Hierarchischen Tags**
 
@@ -14,7 +14,7 @@ Um Ihr Erlebnis zu optimieren, haben wir Fähigkeiten auf ihren eigenen Bildschi
 
 <p align="center"><img src="https://hs-8974650.f.hubspotemail.net/hub/8974650/hubfs/skills_panel.gif?upscale=true&width=470&upscale=true&name=skills_panel.gif" width="30%"></p>
 
-### Was ist noch neu?
+### **Was ist noch neu?**
 
 * Genießen Sie eine nahtlose Benutzererfahrung, während wir die Leistung optimieren, um Ihre Interaktionen mit unserer App effizienter und angenehmer zu gestalten.
 * Wir haben kleinere Fehler behoben, um die Stabilität zu verbessern und ein reibungsloses Erlebnis für unsere Benutzer zu gewährleisten.

@@ -14,7 +14,7 @@ To optimize your experience, we've relocated skills to their dedicated screen, f
 
  <p align="center"><img src="https://hs-8974650.f.hubspotemail.net/hub/8974650/hubfs/skills_panel.gif?upscale=true&width=470&upscale=true&name=skills_panel.gif" width="30%"></p>
 
- ### What else is new?
+### **What else is new?**
 
 * Enjoy a seamless user experience as we optimize performance to make your interactions with our app more efficient and enjoyable.
 * We've addressed minor bugs to enhance stability and ensure a seamless experience for our users.
