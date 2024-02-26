@@ -6,7 +6,7 @@ Here at KNOWRON we've been working on a couple of features and improvements we t
 
  We're thrilled to announce a brand-new feature: Tutorial Previews! Now, you can quickly preview tutorials or enjoy them in full-screen mode. Take advantage of our multilingual functionality, allowing you to effortlessly switch between language tabs for a seamless experience.
 
- <p align="center"><img src="https://i.imgur.com/SvE5GgE.gif" width="70%"></p>
+ <p align="center"><img src="https://i.imgur.com/SvE5GgE.gif" width="80%"></p>
 
 ### 🇮🇹 **Benvenuto Italiano!**
 
