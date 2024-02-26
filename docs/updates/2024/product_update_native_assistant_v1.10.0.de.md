@@ -1,16 +1,18 @@
 ## Produktupdate für Native Assistant: Hierarchische Tags & Fehlerbehebungen
 
+Wir freuen uns, einige fantastische Updates und Funktionen zu teilen, an denen wir bei KNOWRON gearbeitet haben! Diese Verbesserungen sollen Ihren Workflow optimieren und Ihr Erlebnis in Control Suite verbessern.
+
 ### 🏷️ **Vorstellung von Hierarchischen Tags**
 
 Wir freuen uns, bekannt zu geben, dass die Leistung von Hierarchischen Tags jetzt in der Suche, Dokumenten und Artikeln verfügbar ist. Navigieren Sie durch Ihre Inhalte einfach und genießen Sie eine zugänglichere Möglichkeit, Informationen zu filtern. Organisieren und optimieren Sie Ihre Suchvorgänge effizient mit unserem fortschrittlichen Tagging-System.
 
-<p align="center"><img src="https://hs-8974650.f.hubspotemail.net/hub/8974650/hubfs/tags.gif?upscale=true&width=500&upscale=true&name=tags.gif" width="50%"></p>
+<p align="center"><img src="https://hs-8974650.f.hubspotemail.net/hub/8974650/hubfs/tags.gif?upscale=true&width=500&upscale=true&name=tags.gif" width="30%"></p>
 
 ### 📲 **Vorstellung des dedizierten Skills-Bildschirms**
 
 Um Ihr Erlebnis zu optimieren, haben wir Fähigkeiten auf ihren eigenen Bildschirm verschoben, um das Assistentenpanel freizugeben und einen einfacheren Zugriff auf Tutorials und Fehlerbehebungsressourcen zu ermöglichen.
 
-<p align="center"><img src="https://hs-8974650.f.hubspotemail.net/hub/8974650/hubfs/skills_panel.gif?upscale=true&width=470&upscale=true&name=skills_panel.gif" width="50%"></p>
+<p align="center"><img src="https://hs-8974650.f.hubspotemail.net/hub/8974650/hubfs/skills_panel.gif?upscale=true&width=470&upscale=true&name=skills_panel.gif" width="30%"></p>
 
 ### Was ist noch neu?
 
