@@ -1,4 +1,4 @@
-# Update-Index
+# Updates 
 
 Hallo! Auf dieser Seite versuchen wir, Sie über alle neuen Funktionen und Änderungen im KNOWRON Assistant und in der Control Suite auf dem Laufenden zu halten.
 
@@ -6,8 +6,8 @@ Besuchen Sie die Unterseiten, um mehr zu erfahren!
 
 ## 2024
 
-- [Product Update Control Suite v1.18.0](2024/product_update_control_suite_v1.19.0.de.md)
-- [Product Update Native Assistant v1.10.0](2024/product_update_native_assistant_v1.10.0.de.md)
+- [Produktupdate Control Suite v1.18.0](2024/product_update_control_suite_v1.19.0.de.md)
+- [Produktupdate Native Assistant v1.10.0](2024/product_update_native_assistant_v1.10.0.de.md)
 
 ## 2023
 
