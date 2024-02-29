@@ -9,7 +9,7 @@
 
 ![Machine Selection](https://i.imgur.com/yKOvFFR.png)
 
-- Sobald es erstellt ist, werden Sie zur [Suchseite](search.md) weitergeleitet, und alle Funktionen von KNOWRON stehen Ihnen zur Verfügung.
+- Sobald es erstellt ist, werden Sie zur [Suchseite](./Features/search.de.md) weitergeleitet, und alle Funktionen von KNOWRON stehen Ihnen zur Verfügung.
 
 <p align="center"><img src="https://i.imgur.com/7CEiZF8.png" width="80%"></p>
 

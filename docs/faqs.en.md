@@ -9,7 +9,7 @@
 
 ![Machine Selection](https://i.imgur.com/yKOvFFR.png)
 
-- Once it is created, you will be redirected to the [Search Page](search.md) and all of the KNOWRON functionalities will be available to you. 
+- Once it is created, you will be redirected to the [Search Page](./Features/search.md) and all of the KNOWRON functionalities will be available to you. 
 
 <p align="center"><img src="https://i.imgur.com/7CEiZF8.png" width="80%"></p>
 
