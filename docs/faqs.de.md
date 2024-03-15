@@ -39,7 +39,7 @@ KNOWRON ist ein Softwareprodukt, das für natürliche Sprachabfragen optimiert i
 
 Das System unterstützt immer noch die Stichwortsuche, aber das Stellen von detaillierten Fragen liefert die präzisesten Antworten. Wenn Sie ein bestimmtes Dokument herunterladen möchten, können Sie den Dokumentenbildschirm verwenden, um es zu finden. Diese Funktion ermöglicht es Ihnen, schnell auf die benötigten Informationen zuzugreifen, ohne lange danach suchen zu müssen.
 
-Für weitere Details lesen Sie unsere Dokumentation zu [künstlich generierten Antworten](answers.md).
+Für weitere Details lesen Sie unsere Dokumentation zu [KI-generierten Antworten](Features/answers.md).
 
 ## Warum wird der Inhalt meines Dokuments vom System nicht korrekt gelesen?
 

@@ -78,8 +78,7 @@ Jetzt brauchen Sie nur noch zu fragen, was Sie wissen wollen. KNOWRON durchsucht
 
 Die Ergebnisse sind unten dargestellt.
 
-<p align="center"><img src="https://i.imgur.com/1G2skdh.gif
-" width="300"></p>
+<p align="center"><img src="https://i.imgur.com/1G2skdh.gif" width="300"></p>
 
 ---
 

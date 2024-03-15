@@ -78,8 +78,7 @@ Now all you have to do is ask what you want to know. KNOWRON will then go throug
 
 The results are illustrated below.
 
-<p align="center"><img src="https://i.imgur.com/1G2skdh.gif
-" width="300"></p>
+<p align="center"><img src="https://i.imgur.com/1G2skdh.gif" width="300"></p>
 
 ---
 

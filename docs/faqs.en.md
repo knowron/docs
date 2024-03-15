@@ -40,7 +40,7 @@ KNOWRON is a software product optimized for natural language queries, allowing y
 
 The system still supports keyword search, but asking detailed questions provides the most precise answers. If you have a specific document you want to download, you can use the documents screen to locate it. This feature enables you to easily access the information you need, without having to spend time searching for it.
 
-For my details, read on our documentation on [AI-generated answers](answers.md)
+For my details, read on our documentation on [AI-generated answers](Features/answers.md)
 
 ## Why is the content in my document not being read correctly by the system?
 
