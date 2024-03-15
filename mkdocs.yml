@@ -68,7 +68,6 @@ nav:
       - "Features/linksharing.md"
   - Control Suite Features:
       - "Features/insights.md"
-      - "Features/search.md"
       - "Features/tutorials.md"
       - "Features/documents.md"
       - "Features/articles.md"
@@ -82,6 +81,9 @@ nav:
       - "Features/supportscreen.md"
       - "Features/pushnotifications.md"
       - "Features/inventory_na.md"
+  - Search: 
+      - "Features/search.md"
+      - "Features/language_priority_in_search.md"
   - Admin:
       - "Admin Documentation/subtenancy.md"
       - Security and Access:
