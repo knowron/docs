@@ -1,0 +1,87 @@
+# Domande frequenti
+
+## Come posso iniziare rapidamente la piattaforma?
+ - Il primo passo è andare su [suite.knowron.com](https://suite.knowron.com/productLines) e inserire le credenziali ricevute via e-mail. 
+
+<p align="center"><img src="https://i.imgur.com/UX8V7XZ.png" width="40%"></p>
+
+ - Dopo aver effettuato correttamente l'accesso, verrai indirizzato alla pagina dei prodotti. Devi creare un prodotto, in cui i documenti caricati saranno collegati.
+
+![Machine Selection](https://i.imgur.com/yKOvFFR.png)
+
+- Una volta creato, verrai reindirizzato alla [Pagina di ricerca](./Features/search.md) e tutte le funzionalità di KNOWRON saranno disponibili per te. 
+
+<p align="center"><img src="https://i.imgur.com/7CEiZF8.png" width="80%"></p>
+
+ - Per caricare i file che desideri estrarre, vai su documenti e carica i file con cui desideri lavorare.
+
+<p align="center"><img src="https://i.imgur.com/UEWdM88.png" width="80%"></p>
+
+- Una volta caricati, puoi procedere allo strumento di ricerca e porre tutte le domande relative ai documenti che hai caricato. 
+
+<p align="center"><img src="https://i.imgur.com/sSzwMzB.png" width="80%"></p>
+
+Per una descrizione più dettagliata, puoi semplicemente seguire le nostre guide rapide per [Native Assistant](./Getting%20Started/quick-start-guide-assistant.md) e [Control Suite](./Getting%20Started/quick-start-guide-cs.md)
+
+## Come funziona l'API? 
+
+Al momento, non esiste un'API pubblica. Se sei interessato a creare integrazioni, contatta il nostro team per il pacchetto enterprise.
+
+## Come faccio a cercare i documenti caricati?
+
+Per visualizzare tutti i documenti che sono stati caricati nel sistema, è possibile accedere alla selezione degli strumenti dopo aver scelto un prodotto e aver selezionato "Tutti i documenti":
+
+<p align="center"><img src="https://i.imgur.com/fF703fJ.png" width="80%"></p>
+
+
+## Perché la mia ricerca per parole chiave non funziona? 
+
+KNOWRON è un prodotto software ottimizzato per le query in linguaggio naturale, che consente di porre domande in modo colloquiale per ottenere risposte più accurate. Il sistema è progettato per fornire informazioni più contestuali, con il risultato di risposte più precise quando si pongono domande dettagliate. A differenza dei tradizionali sistemi di ricerca per parole chiave, KNOWRON utilizza notazioni speciali per individuare le corrispondenze esatte delle parole chiave desiderate, come "parola chiave". Questa funzione ti assicura di ottenere le risposte più pertinenti alle tue domande.
+
+Il sistema supporta ancora la ricerca per parole chiave, ma porre domande dettagliate fornisce le risposte più precise. Se si desidera scaricare un documento specifico, è possibile utilizzare la schermata dei documenti per individuarlo. Questa funzione ti consente di accedere facilmente alle informazioni di cui hai bisogno, senza dover perdere tempo a cercarle.
+
+Per i miei dettagli, leggi la nostra documentazione su [Risposte generate dall'intelligenza artificiale](Features/answers.md)
+
+## Perché il contenuto del mio documento non viene letto correttamente dal sistema?
+
+In KNOWRON, il nostro obiettivo principale ruota attorno all'utilizzo dell'elaborazione del linguaggio naturale (NLP) per analizzare in modo completo i documenti. Ciò comporta un ampio lavoro con le informazioni testuali, rendendo i **dati ricchi di testo la nostra particolare area di competenza**.
+
+I dati di scarsa qualità, come immagini, tabelle e schemi elettrici, sono più difficili da elaborare. Leggi la nostra [pagina sulle linee guida per il caricamento dei documenti](./Admin%20Documentation/documents_upload_guidelines.md) per saperne di più.
+
+Non esitare a contattare il nostro [team](mailto:ask@knowron.com di vendita e supporto) per attivare funzionalità come **OCR** (riconoscimento ottico dei caratteri), **analisi delle tabelle** e altre funzionalità simili, disponibili come parte dei nostri pacchetti premium.
+
+## Come faccio a cambiare la lingua sulla piattaforma?
+
+Ci sono due opzioni che puoi utilizzare per cambiare la lingua sulla nostra piattaforma. Per desktop, è possibile modificare la lingua dell'intera piattaforma nella pagina di selezione del prodotto, selezionando l'opzione della lingua nell'angolo in alto a destra.
+
+<p align="center"><img src="https://i.imgur.com/5VxkZGp.png" width="60%"></p>
+
+Un'altra opzione è quella di eseguire la ricerca in una lingua diversa da quella delle impostazioni di sistema, selezionando la lingua desiderata nel pannello di configurazione della barra di ricerca.
+
+<p align="center"><img src="https://i.imgur.com/NYOlzKn.png" width="80%"></p>
+
+Per i dispositivi mobili, devi andare nelle impostazioni dell'applicazione in alto a destra, fare clic su "Cambia lingua" e quindi selezionare la lingua che desideri utilizzare.
+
+<p align="center"><img src="https://i.imgur.com/CLHcaIs.png" width="30%"></p>
+
+## Come faccio a scaricare un documento che ho caricato?
+
+Il download di un documento può essere effettuato accedendo al pannello Azioni all'interno della tabella e selezionando l'opzione **Scarica**, sia dalla scheda "Tutti i documenti" che dalla scheda "Documenti".
+
+<p align="center"><img src="https://i.imgur.com/NkcdoSV.png" width="80%"></p>
+
+
+## Quali funzioni sono disponibili nella piattaforma?
+
+Vedere [la nostra documentazione](./index.md).
+
+## Ho dimenticato la password, come posso recuperarla?
+
+Nel caso in cui si sia dimenticata la password, selezionare l'opzione per questo caso nel menu di accesso. 
+
+<p align="center"><img src="https://i.imgur.com/OZ9vmEm.png" width="50%"></p>
+ 
+Qui, inserisci l'e-mail dell'account che desideri recuperare e ti invieremo una password monouso per consentirti di accedere nuovamente al tuo account e impostare una nuova password.
+
+<p align="center"><img src="https://i.imgur.com/puiD8Wa.png" width="50%"></p>
+
