@@ -4,32 +4,10 @@ El libro de registro digital sirve como un **registro histórico del ciclo de vi
 
 El libro de registro digital permite a los usuarios **crear entradas específicas para máquinas individuales**, donde pueden compartir contenido de texto y video para todos sus colegas en el taller.
 
+<p align="center"><img src="https://i.imgur.com/anQCIgh.png" width="80%"></p>
+
 ## Cómo empezar con el libro de registro de la máquina
-Primero, escanee la máquina a cuyo libro de registro desea acceder. Puede hacerlo escaneando el código QR adjunto o escribiendo el número de serie. A continuación, basta con pulsar el icono "Cuaderno de bitácora" :material-history: debajo de la imagen del producto.
-
-**No puede** acceder al libro de registro desde una línea de productos.
-
-<p align="center"><img src="https://i.imgur.com/BKE7IV9.gif" width="30%"></p>
-
-!!! nota
-
-    ¿No puede encontrar el número de serie de la máquina que está frente a usted? Asegúrese de que la máquina se haya creado en su [Control Suite](./machineinventory.md)!
-
-### Adición de una entrada en el libro de registro
-
-Simplemente toque el botón "Agregar entrada" :material-plus: para agregar una nueva entrada.
-
-<p align="center"><img src="https://i.imgur.com/3NQ9e9X.gif" width="50%"></p>
-
-Asegúrese de agregar un título y una categoría, así como describir el trabajo que se realizó en la máquina. También puedes adjuntar imágenes o vídeos que hayas tomado previamente. ¡Una imagen vale más que mil palabras!
-
-### Visualización de las entradas del libro de registro
-
-En cualquier momento, puede ver todas las entradas que usted y sus colegas han agregado para una máquina específica. También puede ver imágenes y reproducir los videos adjuntos a ellas. 
-
-<p align="center"><img src="https://i.imgur.com/NETD64k.gif" width="50%"></p>
-
-También puede usar los filtros para buscar texto específico o la fecha de la entrada del libro de registro para reducir las cosas.
+El libro de registro está disponible tanto para [web](./logbook_cs.md) como para [aplicación móvil](./logbook_na.md). Puede visitar las páginas correspondientes para obtener una visión más profunda de cómo usarlos.
 
 ## ¿Quién puede ver el libro de registro de mi máquina?
 Las entradas del libro de registro son visibles para todos los compañeros de la misma empresa que tengan acceso a la plataforma. **Ningún usuario externo puede ver sus máquinas ni las entradas de su libro de registro.**
