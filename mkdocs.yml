@@ -77,6 +77,8 @@ nav:
   - Search: 
       - "Features/search.md"
       - "Features/language_priority_in_search.md"
+  - Features:
+      - "Features/logbook.md"
   - Control Suite Features:
       - "Features/insights.md"
       - "Features/tutorials.md"
@@ -88,7 +90,7 @@ nav:
   - Native Assistant Features:
       - "Features/documents_na.md"
       - "Features/troubleshooting_na.md"
-      - "Features/logbook.md"
+      - "Features/logbook_na.md"
       - "Features/supportscreen.md"
       - "Features/pushnotifications.md"
       - "Features/inventory_na.md"
