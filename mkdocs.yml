@@ -79,6 +79,7 @@ nav:
       - "Features/language_priority_in_search.md"
   - Features:
       - "Features/logbook.md"
+      - "Features/ai_powered_reports.md"
   - Control Suite Features:
       - "Features/insights.md"
       - "Features/tutorials.md"
