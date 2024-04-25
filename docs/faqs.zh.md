@@ -1,14 +1,14 @@
 # 常见问题
 
 ## 如何快速上手平台？
-- 第一步是转到 [suite.knowron.com]（https://suite.knowron.com/productLines） 并输入您通过电子邮件收到的凭据。
+- 第一步是转到 [suite.knowron.com](https://suite.knowron.com/productLines) 并输入您通过电子邮件收到的凭据。
 <p align="center"><img src="https://i.imgur.com/UX8V7XZ.png" width="40%"></p>
 
 - 成功登录后，您将被带到产品页面。您需要创建一个产品，其中将链接您上传的文档。
 
 ![Machine Selection](https://i.imgur.com/yKOvFFR.png)
 
-- 创建后，您将被重定向到 [搜索页面]（./Features/search.md），所有 KNOWRON 功能都将可供您使用。
+- 创建后，您将被重定向到 [搜索页面](./Features/search.md)，所有 KNOWRON 功能都将可供您使用。
 <p align="center"><img src="https://i.imgur.com/7CEiZF8.png" width="80%"></p>
 
 - 要上传要提取的文件，请转到文档并上传要处理的文件。
@@ -18,7 +18,7 @@
 - 上传后，您可以进入搜索工具并询问与您上传的文档相关的任何问题。
 <p align="center"><img src="https://i.imgur.com/sSzwMzB.png" width="80%"></p>
 
-有关更详细的描述，您可以简单地按照我们的 [Native Assistant]（./Getting%20Started/quick-start-guide-assistant.md） 和 [Control Suite]（./Getting%20Started/quick-start-guide-cs.md） 的快速入门指南进行操作
+有关更详细的描述，您可以简单地按照我们的 [Native Assistant](./Getting%20Started/quick-start-guide-assistant.md) 和 [Control Suite](./Getting%20Started/quick-start-guide-cs.md) 的快速入门指南进行操作
 
 ## API 是如何工作的？
 目前，没有公共 API。如果您有兴趣构建集成，请与我们的团队联系以获取企业软件包。
@@ -31,19 +31,19 @@
 
 
 ## 为什么我的关键字搜索不起作用？
-KNOWRON是一款针对自然语言查询进行优化的软件产品，允许您以对话方式提出问题以获得更准确的答案。该系统旨在提供更多上下文信息，从而在您提出详细问题时提供更准确的答案。与传统的关键字搜索系统不同，KNOWRON使用特殊符号来定位所需关键字（例如“关键字”）的完全匹配项。此功能可确保您获得与查询最相关的答案。
+KNOWRON是一款针对自然语言查询进行优化的软件产品，允许您以对话方式提出问题以获得更准确的答案。该系统旨在提供更多上下文信息，从而在您提出详细问题时提供更准确的答案。与传统的关键字搜索系统不同，KNOWRON使用特殊符号来定位所需关键字(例如“关键字”)的完全匹配项。此功能可确保您获得与查询最相关的答案。
 
 该系统仍然支持关键字搜索，但提出详细的问题可以提供最准确的答案。如果您有要下载的特定文档，可以使用文档屏幕找到它。此功能使您能够轻松访问所需的信息，而无需花时间搜索它。
 
-有关详细信息，请阅读我们关于 [AI 生成的答案]（Features/answers.md） 的文档
+有关详细信息，请阅读我们关于 [AI 生成的答案](Features/answers.md) 的文档
 
 ## 为什么系统无法正确读取文档中的内容？
 
-在KNOWRON，我们的主要关注点是利用自然语言处理（NLP）来全面分析文档。这涉及广泛地处理文本信息，使**文本丰富的数据成为我们的特定专业领域**。
+在KNOWRON，我们的主要关注点是利用自然语言处理(NLP)来全面分析文档。这涉及广泛地处理文本信息，使**文本丰富的数据成为我们的特定专业领域**。
 
-文本较差的数据，如图像、表格和电路图，处理起来更具挑战性。阅读我们的 [文档上传指南页面]（./Admin%20Documentation/documents_upload_guidelines.md） 以了解更多信息。
+文本较差的数据，如图像、表格和电路图，处理起来更具挑战性。阅读我们的 [文档上传指南页面](./Admin%20Documentation/documents_upload_guidelines.md) 以了解更多信息。
 
-请随时联系我们的 [销售和支持 team](mailto:ask@knowron.com） 以激活 **OCR**（光学字符识别）、**表格解析** 和其他类似功能，这些功能作为我们高级套餐的一部分提供。
+请随时联系我们的 [销售和支持 team](mailto:ask@knowron.com) 以激活 **OCR**(光学字符识别)、**表格解析** 和其他类似功能，这些功能作为我们高级套餐的一部分提供。
 
 ## 如何更改平台上的语言？
 
@@ -68,13 +68,15 @@ KNOWRON是一款针对自然语言查询进行优化的软件产品，允许您�
 
 ## 平台有哪些功能？
 
-请参阅 [我们的文档]（./index.md）。
+请参阅 [我们的文档](./index.md)。
 
 ## 我忘记了密码，如何找回密码？
 
-如果您忘记了密码，请在登录菜单上选择这种情况的选项。
-<p align="center"><img src="https://i.imgur.com/OZ9vmEm.png" width="50%"></p>
-在这里，请输入您要恢复的帐户的电子邮件，我们将发送一次性密码，以便您再次访问您的帐户并设置新密码。
+如果您忘记了密码，请在登录菜单上选择这种情况的选项。在这里，请输入您要恢复的帐户的电子邮件，我们将发送一次性密码，以便您再次访问您的帐户并设置新密码。
 
-<p align="center"><img src="https://i.imgur.com/puiD8Wa.png" width="50%"></p>
+<p align="center"><img src="https://i.imgur.com/pNODVOv.gif" width="100%"></p>
+
+这里有一个视频指导你完成它：
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/b8c1a93065294bb38513e0f4e623db04?sid=684b7475-6c4c-4e7d-aa3d-78de4ee8e23d" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 

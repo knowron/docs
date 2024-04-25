@@ -77,11 +77,11 @@ Consulte [nuestra documentación](./index.md).
 
 ## Olvidé mi contraseña, ¿cómo la recupero?
 
-En caso de que haya olvidado su contraseña, seleccione la opción para este caso en el menú de inicio de sesión. 
+En caso de que haya olvidado su contraseña, seleccione la opción para este caso en el [menú de inicio de sesión de la Control Suite](https://suite.knowron.com). Aquí, ingrese el correo electrónico de la cuenta que desea recuperar y le enviaremos una contraseña de un solo uso para que pueda acceder a su cuenta nuevamente y establecer una nueva contraseña.
 
-<p align="center"><img src="https://i.imgur.com/OZ9vmEm.png" width="50%"></p>
- 
-Aquí, ingrese el correo electrónico de la cuenta que desea recuperar y le enviaremos una contraseña de un solo uso para que pueda acceder a su cuenta nuevamente y establecer una nueva contraseña.
+<p align="center"><img src="https://i.imgur.com/pNODVOv.gif" width="100%"></p>
 
-<p align="center"><img src="https://i.imgur.com/puiD8Wa.png" width="50%"></p>
+Aquí hay un video que lo guía a través de él:
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/b8c1a93065294bb38513e0f4e623db04?sid=684b7475-6c4c-4e7d-aa3d-78de4ee8e23d" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 

@@ -77,11 +77,11 @@ See [our documentation](./index.md).
 
 ## I forgot my password, how do I retrieve it?
 
-In case you forgot your password, please select the option for this case on the login menu. 
+In case you forgot your password, please select the option for this case on the [login menu of the Control Suite](https://suite.knowron.com). Here, please put the email from the account you want to recover, and we will send a one-time password for you to gain access to your account again and set a new password.
 
-<p align="center"><img src="https://i.imgur.com/OZ9vmEm.png" width="50%"></p>
- 
-Here, please put the email from the account you want to recover, and we will send a one-time password for you to gain access to your account again and set a new password.
+<p align="center"><img src="https://i.imgur.com/pNODVOv.gif" width="100%"></p>
 
-<p align="center"><img src="https://i.imgur.com/puiD8Wa.png" width="50%"></p>
+Here's a video guiding you through it:
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/b8c1a93065294bb38513e0f4e623db04?sid=684b7475-6c4c-4e7d-aa3d-78de4ee8e23d" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 

@@ -77,11 +77,11 @@ Vedere [la nostra documentazione](./index.md).
 
 ## Ho dimenticato la password, come posso recuperarla?
 
-Nel caso in cui si sia dimenticata la password, selezionare l'opzione per questo caso nel menu di accesso. 
+Nel caso in cui si sia dimenticata la password, selezionare l'opzione per questo caso nel [menu di accesso di la Control Suite](https://suite.knowron.com). Qui, inserisci l'e-mail dell'account che desideri recuperare e ti invieremo una password monouso per consentirti di accedere nuovamente al tuo account e impostare una nuova password.
 
-<p align="center"><img src="https://i.imgur.com/OZ9vmEm.png" width="50%"></p>
- 
-Qui, inserisci l'e-mail dell'account che desideri recuperare e ti invieremo una password monouso per consentirti di accedere nuovamente al tuo account e impostare una nuova password.
+<p align="center"><img src="https://i.imgur.com/pNODVOv.gif" width="100%"></p>
 
-<p align="center"><img src="https://i.imgur.com/puiD8Wa.png" width="50%"></p>
+Ecco un video che ti guida attraverso di esso:
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/b8c1a93065294bb38513e0f4e623db04?sid=684b7475-6c4c-4e7d-aa3d-78de4ee8e23d" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 

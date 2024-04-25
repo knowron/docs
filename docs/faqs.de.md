@@ -1,15 +1,15 @@
 # Häufig gestellte Fragen
 
-## Wie starte ich schnell auf der Plattform?
- - Der erste Schritt besteht darin, zu [suite.knowron.com](https://suite.knowron.com/productLines) zu gehen und die Anmeldedaten einzugeben, die Sie per E-Mail erhalten haben.
+## Wie bekomme ich einen schnellen Start auf der Plattform?
+ - Der erste Schritt besteht darin, zu [suite.knowron.com](https://suite.knowron.com/productLines) zu gehen und die Anmeldeinformationen einzugeben, die Sie per E-Mail erhalten haben. 
 
 <p align="center"><img src="https://i.imgur.com/UX8V7XZ.png" width="40%"></p>
 
- - Nach erfolgreichem Login gelangen Sie zur Produktseite. Dort müssen Sie ein Produkt erstellen, zu dem die von Ihnen hochgeladenen Dokumente verknüpft werden.
+ - Nach erfolgreichem Einloggen werden Sie auf die Produktseite weitergeleitet. Sie müssen ein Produkt erstellen, in dem die von Ihnen hochgeladenen Dokumente verlinkt werden.
 
 ![Machine Selection](https://i.imgur.com/yKOvFFR.png)
 
-- Sobald es erstellt ist, werden Sie zur [Suchseite](./Features/search.de.md) weitergeleitet, und alle Funktionen von KNOWRON stehen Ihnen zur Verfügung.
+- Sobald es erstellt ist, werden Sie auf die [Suchseite](./Features/search.md) weitergeleitet und alle KNOWRON-Funktionen stehen Ihnen zur Verfügung. 
 
 <p align="center"><img src="https://i.imgur.com/7CEiZF8.png" width="80%"></p>
 
@@ -17,69 +17,71 @@
 
 <p align="center"><img src="https://i.imgur.com/UEWdM88.png" width="80%"></p>
 
-- Nach dem Hochladen können Sie zur Suchfunktion gehen und alle Fragen stellen, die Sie zu den hochgeladenen Dokumenten haben.
+- Sobald sie hochgeladen sind, können Sie mit der Suchfunktion fortfahren und alle Fragen stellen, die Sie zu den von Ihnen hochgeladenen Dokumenten haben. 
 
 <p align="center"><img src="https://i.imgur.com/sSzwMzB.png" width="80%"></p>
 
-Für eine detailliertere Beschreibung können Sie einfach unseren Schnellstartanleitungen für den [Native Assistant](./Getting%20Started/quick-start-guide-assistant.md) und [Control Suite](./Getting%20Started/quick-start-guide-cs.md) folgen.
+Für eine detailliertere Beschreibung können Sie einfach unseren Schnellstartanleitungen für [Native Assistant](./Getting%20Started/quick-start-guide-assistant.md) und [Control Suite](./Getting%20Started/quick-start-guide-cs.md) folgen
 
-## Wie funktioniert die API?
+## Wie funktioniert die API? 
 
-Derzeit gibt es keine öffentliche API. Wenn Sie daran interessiert sind, Integrationen zu erstellen, setzen Sie sich bitte mit unserem Team für das Unternehmenspaket in Verbindung.
+Im Moment gibt es keine öffentliche API. Wenn Sie daran interessiert sind, Integrationen zu erstellen, wenden Sie sich bitte an unser Team für das Enterprise-Paket.
 
-## Wie durchsuche ich die hochgeladenen Dokumente?
+## Wie suche ich die hochgeladenen Dokumente?
 
-Um alle hochgeladenen Dokumente im System anzuzeigen, können Sie nach der Auswahl eines Produkts und der Auswahl von `Alle Dokumente:` die Tools-Auswahl aufrufen.
+Um alle Dokumente anzuzeigen, die in das System hochgeladen wurden, können Sie zur Auswahl der Tools gehen, nachdem Sie ein Produkt ausgewählt und "Alle Dokumente" ausgewählt haben:
 
 <p align="center"><img src="https://i.imgur.com/fF703fJ.png" width="80%"></p>
 
-## Warum funktioniert meine Stichwortsuche nicht?
 
-KNOWRON ist ein Softwareprodukt, das für natürliche Sprachabfragen optimiert ist. Sie können Fragen in einer konversationellen Art stellen, um genauere Antworten zu erhalten. Das System ist darauf ausgelegt, mehr Kontextinformationen bereitzustellen, was zu präziseren Antworten führt, wenn Sie detaillierte Fragen stellen. Im Gegensatz zu herkömmlichen Stichwortsuchsystemen verwendet KNOWRON spezielle Notationen, um genaue Übereinstimmungen gewünschter Schlüsselwörter zu finden, wie zum Beispiel "Schlüsselwort". Diese Funktion stellt sicher, dass Sie die relevantesten Antworten auf Ihre Anfragen erhalten.
+## Warum funktioniert meine Stichwortsuche nicht? 
 
-Das System unterstützt immer noch die Stichwortsuche, aber das Stellen von detaillierten Fragen liefert die präzisesten Antworten. Wenn Sie ein bestimmtes Dokument herunterladen möchten, können Sie den Dokumentenbildschirm verwenden, um es zu finden. Diese Funktion ermöglicht es Ihnen, schnell auf die benötigten Informationen zuzugreifen, ohne lange danach suchen zu müssen.
+KNOWRON ist ein Softwareprodukt, das für Abfragen in natürlicher Sprache optimiert ist und es Ihnen ermöglicht, Fragen in einer dialogischen Art und Weise zu stellen, um genauere Antworten zu erhalten. Das System ist so konzipiert, dass es mehr Kontextinformationen liefert, was zu präziseren Antworten führt, wenn Sie detaillierte Fragen stellen. Im Gegensatz zu herkömmlichen Keyword-Suchsystemen verwendet KNOWRON spezielle Notationen, um genaue Übereinstimmungen mit gewünschten Keywords wie "Keyword" zu finden. Diese Funktion stellt sicher, dass Sie die relevantesten Antworten auf Ihre Fragen erhalten.
 
-Für weitere Details lesen Sie unsere Dokumentation zu [KI-generierten Antworten](Features/answers.md).
+Das System unterstützt immer noch die Stichwortsuche, aber das Stellen detaillierter Fragen liefert die präzisesten Antworten. Wenn Sie ein bestimmtes Dokument herunterladen möchten, können Sie es auf dem Bildschirm "Dokumente" suchen. Mit dieser Funktion können Sie ganz einfach auf die benötigten Informationen zugreifen, ohne Zeit damit verbringen zu müssen, danach zu suchen.
+
+Weitere Informationen finden Sie in unserer Dokumentation zu [KI-generierten Antworten](Features/answers.md)
 
 ## Warum wird der Inhalt meines Dokuments vom System nicht korrekt gelesen?
 
-Bei KNOWRON liegt unser Hauptaugenmerk darauf, Natural Language Processing (NLP) umfassend zur Analyse von Dokumenten einzusetzen. Dies beinhaltet eine umfangreiche Arbeit mit textuellen Informationen, wodurch **textreiche Daten unser spezielles Fachgebiet** sind.
+Bei KNOWRON liegt unser Hauptaugenmerk auf dem Einsatz von Natural Language Processing (NLP) zur umfassenden Analyse von Dokumenten. Dies beinhaltet die intensive Arbeit mit textuellen Informationen, was **textreiche Daten** zu unserem besonderen Fachgebiet macht.
 
-Textarme Daten wie Bilder, Tabellen und Schaltpläne sind herausfordernder zu verarbeiten. Lesen Sie unsere [Seite zu den Richtlinien für das Hochladen von Dokumenten](./Admin%20Documentation/documents_upload_guidelines.md), um mehr zu erfahren.
+Textarme Daten wie Bilder, Tabellen und Schaltpläne sind schwieriger zu verarbeiten. Lesen Sie unsere [Seite zu Richtlinien zum Hochladen von Dokumenten](./Admin%20Documentation/documents_upload_guidelines.md), um mehr zu erfahren.
 
-Zögern Sie nicht, sich an unser [Verkaufs- und Supportteam](mailto:ask@knowron.com) zu wenden, um Funktionen wie **OCR** (optische Zeichenerkennung), **Tabellenauswertung** und ähnliche Funktionen zu aktivieren, die in unseren Premium-Paketen verfügbar sind.
+Zögern Sie nicht, sich an unsere [Vertriebs- und Support-team](mailto:ask@knowron.com) zu wenden, um Funktionen wie **OCR** (optische Zeichenerkennung), **Tabellen-Parsing** und andere ähnliche Funktionen zu aktivieren, die als Teil unserer Premium-Pakete verfügbar sind.
 
 ## Wie ändere ich die Sprache auf der Plattform?
 
-Es gibt zwei Möglichkeiten, die Sprache auf unserer Plattform zu ändern. Für den Desktop können Sie die Sprache der gesamten Plattform auf der Produkt-Auswahlseite ändern, indem Sie die Sprachoption in der oberen rechten Ecke auswählen.
+Es gibt zwei Möglichkeiten, mit denen Sie die Sprache auf unserer Plattform ändern können. Für den Desktop können Sie die Sprache der gesamten Plattform auf der Produktauswahlseite ändern, indem Sie die Sprachoption in der oberen rechten Ecke auswählen.
 
 <p align="center"><img src="https://i.imgur.com/5VxkZGp.png" width="60%"></p>
 
-Eine andere Möglichkeit besteht darin, die Suche in einer anderen Sprache als den Systemspracheinstellungen durchzuführen, indem Sie die gewünschte Sprache in der Konfigurationsleiste der Suchleiste auswählen.
+Eine andere Möglichkeit besteht darin, die Suche in einer anderen Sprache als den Systemeinstellungen durchzuführen, indem Sie die gewünschte Sprache im Konfigurationsfenster der Suchleiste auswählen.
 
 <p align="center"><img src="https://i.imgur.com/NYOlzKn.png" width="80%"></p>
 
-Für mobile Geräte müssen Sie in den Einstellungen der Anwendung oben rechts auf "Sprache ändern" klicken und dann die gewünschte Sprache auswählen.
+Für Mobilgeräte müssen Sie oben rechts in die Einstellungen der Anwendung gehen, auf "Sprache ändern" klicken und dann die Sprache auswählen, die Sie verwenden möchten.
 
 <p align="center"><img src="https://i.imgur.com/CLHcaIs.png" width="30%"></p>
 
 ## Wie lade ich ein Dokument herunter, das ich hochgeladen habe?
 
-Das Herunterladen eines Dokuments kann durch Zugriff auf das Aktionsfeld innerhalb der Tabelle und Auswahl der Option **Herunterladen** erfolgen, sowohl im Tab `Alle Dokumente` als auch im Tab `Dokumente`.
+Sie können ein Dokument herunterladen, indem Sie auf das Bedienfeld "Aktionen" in der Tabelle zugreifen und die Option "Herunterladen" auswählen, unabhängig davon, ob Sie auf der Registerkarte "Alle Dokumente" oder auf der Registerkarte "Dokumente" klicken.
 
 <p align="center"><img src="https://i.imgur.com/NkcdoSV.png" width="80%"></p>
 
 
-## Welche Funktionen stehen auf der Plattform zur Verfügung?
+## Welche Funktionen stehen in der Plattform zur Verfügung?
 
-Siehe [unsere Dokumentation](./index.md).
+Weitere Informationen finden Sie in [unserer Dokumentation](./index.md).
 
 ## Ich habe mein Passwort vergessen, wie kann ich es wiederherstellen?
 
-Wenn Sie Ihr Passwort vergessen haben, wählen Sie bitte die Option für diesen Fall im Anmeldefenster aus.
+Falls Sie Ihr Passwort vergessen haben, wählen Sie bitte die Option für diesen Fall im [Login-Menü der Control Suite](https://suite.knowron.com). Geben Sie hier bitte die E-Mail-Adresse des Kontos ein, das Sie wiederherstellen möchten, und wir senden Ihnen ein Einmalpasswort, damit Sie wieder Zugriff auf Ihr Konto erhalten und ein neues Passwort festlegen können.
 
-<p align="center"><img src="https://i.imgur.com/OZ9vmEm.png" width="50%"></p>
- 
-Geben Sie hier bitte die E-Mail-Adresse des Kontos ein, das Sie wiederherstellen möchten, und wir senden Ihnen ein Einmalpasswort zu, damit Sie wieder Zugriff auf Ihr Konto erhalten und ein neues Passwort festlegen können.
+<p align="center"><img src="https://i.imgur.com/pNODVOv.gif" width="100%"></p>
 
-<p align="center"><
+Hier ist ein Video, das Sie durch den Prozess führt:
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/b8c1a93065294bb38513e0f4e623db04?sid=684b7475-6c4c-4e7d-aa3d-78de4ee8e23d" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
