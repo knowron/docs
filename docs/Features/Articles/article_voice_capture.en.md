@@ -25,7 +25,7 @@ You can access the Voice Input feature in the same way you can create any new ar
 
 ## Walkthrough
 
-### Video Walkthrough
+### Video Walkthrough (only available in English)
 
 <div style="position: relative; padding-bottom: 63.23185011709602%; height: 0;"><iframe src="https://www.loom.com/embed/7c74e263f8164e6c9107860419c4d4f7?sid=718634ae-1b23-4c65-86c4-73ed101c4182" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
