@@ -14,7 +14,7 @@ Alternativamente, puede acceder a las entradas del libro de registro de una máq
 
 ### Visualización de las entradas del libro de registro
 
-Basta con hacer clic en una de las entradas del libro de registro para verla. Se abrirá en un panel lateral, de forma similar a como funciona [articles](./articles.md).
+Basta con hacer clic en una de las entradas del libro de registro para verla. Se abrirá en un panel lateral, de forma similar a como funciona [articles](./Articles/index.md).
 
 También puede usar los filtros para buscar texto específico o la fecha de la entrada del libro de registro para reducir las cosas.
 

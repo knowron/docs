@@ -1,7 +1,7 @@
 # Ricerca
 
 Le linee di prodotto rappresentano le macchine, gli impianti o i processi supportati dalla tua organizzazione con cui lavori ogni giorno. Le linee di prodotti servono a contestualizzare il sistema KNOWRON, ovvero su cosa stai facendo domande? Prima di iniziare la ricerca, è necessario selezionare la linea di prodotti che ti interessa. Devi semplicemente fare clic su di esso e il menu contestuale a sinistra dello schermo si aprirà e verrai indirizzato alla schermata di ricerca. \
-La funzione di ricerca consente di porre domande su un'intera linea di prodotti o su una particolare macchina in tutte le unità di contenuto create o caricate dall'utente o da altri utenti. Queste unità di contenuto sono disponibili sotto forma di [documenti](documents.md), [esercitazioni](tutorials.md), [articoli](articles.md) o [risposte esperte](insights.md#expert-answers) in modo da poterti ottenere il risultato più prezioso per la tua query.
+La funzione di ricerca consente di porre domande su un'intera linea di prodotti o su una particolare macchina in tutte le unità di contenuto create o caricate dall'utente o da altri utenti. Queste unità di contenuto sono disponibili sotto forma di [documenti](documents.md), [esercitazioni](tutorials.md), [articoli](./Articles/index.md) o [risposte esperte](insights.md#expert-answers) in modo da poterti ottenere il risultato più prezioso per la tua query.
 
 <p align="center"><img src="https://i.imgur.com/depHqSZ.png" width="80%"></p>
 
@@ -48,7 +48,7 @@ Inoltre, è possibile filtrare i documenti in base alla **data di pubblicazione*
 Puoi perfezionare la tua ricerca utilizzando i tag come filtri, assicurandoti di ricevere risposte esclusivamente da articoli o documenti associati al tag o ai tag specifici che hai scelto. Inoltre, i tag sono organizzati in una struttura gerarchica, consentendo l'uso di più livelli di categorie di tag come "Software" o "Manuali utente".
 
 !!! information "**Dove posso aggiungere i tag?** "
-      Scopri come aggiungere tag a [Documenti](documents.md) o [Articoli](articles.md)
+      Scopri come aggiungere tag a [Documenti](documents.md) o [Articoli](./Articles/index.md)
 
  <p align="center"><img src="https://i.imgur.com/2EeYDkB.png" width="80%"></p>
 

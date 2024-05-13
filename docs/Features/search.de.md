@@ -1,7 +1,7 @@
 # Suche
 
 Produktlinien repräsentieren die Maschinen, Anlagen oder Prozesse, die Ihre Organisation unterstützt, mit denen Sie täglich arbeiten. Produktlinien dienen dazu, dem KNOWRON-System Kontext zu geben - d.h. worum geht es bei Ihren Fragen? Bevor Sie mit Ihrer Suche beginnen, müssen Sie auswählen, an welcher Produktlinie Sie interessiert sind. Sie müssen einfach darauf klicken, und das Kontextmenü auf der linken Seite Ihres Bildschirms wird sich entfalten, und Sie werden zum Suchbildschirm geleitet.
-Die Suchfunktion ermöglicht es Ihnen, Fragen zu einer gesamten Produktlinie oder zu einer bestimmten Maschine in allen von Ihnen oder anderen Benutzern erstellten oder hochgeladenen Inhaltseinheiten zu stellen. Diese Inhalteinheiten sind in Form von [Dokumenten](documents.de.md), [Tutorials](tutorials.de.md), [Artikeln](articles.de.md) oder [Expertenantworten](insights.de.md#expertenantworten) verfügbar, damit wir das wertvollste Ergebnis für Ihre Anfrage liefern können.
+Die Suchfunktion ermöglicht es Ihnen, Fragen zu einer gesamten Produktlinie oder zu einer bestimmten Maschine in allen von Ihnen oder anderen Benutzern erstellten oder hochgeladenen Inhaltseinheiten zu stellen. Diese Inhalteinheiten sind in Form von [Dokumenten](documents.de.md), [Tutorials](tutorials.de.md), [Artikeln](./Articles/index.md) oder [Expertenantworten](insights.de.md#expertenantworten) verfügbar, damit wir das wertvollste Ergebnis für Ihre Anfrage liefern können.
 
 <p align="center"><img src="https://i.imgur.com/depHqSZ.png" width="80%"></p>
 
@@ -46,7 +46,7 @@ Zusätzlich können Sie die Dokumente basierend auf dem **Veröffentlichungsdatu
 Sie können Ihre Suche durch Verwendung von Tags als Filter verfeinern, um sicherzustellen, dass Sie ausschließlich Antworten aus Artikeln oder Dokumenten erhalten, die mit den von Ihnen gewählten Tags oder Tags verbunden sind. Tags sind auch hierarchisch organisiert und ermöglichen die Verwendung mehrerer Ebenen von Tagkategorien wie `Software` oder `Benutzerhandbücher`.
 
 !!! Information "**Wo kann ich Tags hinzufügen?** "
-     Sehen Sie sich an, wie Sie Tags zu [Dokumenten](documents.md) oder [Artikeln](articles.md) hinzufügen können.
+     Sehen Sie sich an, wie Sie Tags zu [Dokumenten](documents.md) oder [Artikeln](./Articles/index.md) hinzufügen können.
 
 <p align="center"><img src="https://i.imgur.com/2EeYDkB.png" width="80%"></p>
 

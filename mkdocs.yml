@@ -85,7 +85,9 @@ nav:
       - "Features/tutorials.md"
       - "Features/documents.md"
       - "Features/logbook_cs.md"
-      - "Features/articles.md"
+      - Articles:
+        - "Features/Articles/index.md"
+        - "Features/Articles/article_voice_capture.md"
       - "Features/machineinventory.md"
       - "Features/partsinventory.md"
       - "Features/adminpanel.md"

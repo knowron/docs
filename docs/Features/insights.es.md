@@ -50,7 +50,7 @@ La función de comentarios ayuda a los editores a responder a los comentarios de
 <p align="center"><img src="https://i.imgur.com/IAJ3PDe.png" width="100%"></p>
 
 
-La página de edición permite la inclusión de respuestas detalladas y también facilita la adjunción de fuentes relevantes como [artículos](articles.md), [documentos](documents.md) y [tutoriales](tutorials.md) para mejorar la credibilidad de la respuesta.
+La página de edición permite la inclusión de respuestas detalladas y también facilita la adjunción de fuentes relevantes como [artículos](./Articles/index.md), [documentos](documents.md) y [tutoriales](tutorials.md) para mejorar la credibilidad de la respuesta.
 
 El "Estado" indica si se ha agregado una respuesta a los comentarios del usuario. 
 

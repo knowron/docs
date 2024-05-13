@@ -50,10 +50,10 @@ Below is a sample search interaction for the question `In what humidity can the 
 
 We can show you results from the following resources:
 
-- Documents
-- Tutorials
-- Articles
-- Expert Answers
+- Documents(documents.md)
+- [Tutorials](tutorials.md)
+- [Articles](../Features/Articles/index.md)
+- [Expert Answers](insights.md#expert-answers) 
 
 In the future, we will also be able to show you results from your machine's logbook and much more!
 

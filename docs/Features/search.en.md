@@ -1,7 +1,7 @@
 #  Search
 
 Product lines represent the machines, plants or processes your organization supports which you work with every day. Product lines are there to give the KNOWRON system context - i.e. what are you asking questions about? Before you start with your search, you have to select what product line you are interested in. You simply have to click on it and the context menu on the left of your screen will unfurl and you will be taken to the search screen. \
-The search function allows you to ask questions about an entire product line or a particular machine in all content units created or uploaded by you or other users. These content units come in the shape of [documents](documents.md), [tutorials](tutorials.md), [articles](articles.md) or [expert answers](insights.md#expert-answers) so we can get you the most valuable result for your query.
+The search function allows you to ask questions about an entire product line or a particular machine in all content units created or uploaded by you or other users. These content units come in the shape of [documents](documents.md), [tutorials](tutorials.md), [articles](./Articles/index.md) or [expert answers](insights.md#expert-answers) so we can get you the most valuable result for your query.
 
 <p align="center"><img src="https://i.imgur.com/depHqSZ.png" width="80%"></p>
 
@@ -48,7 +48,7 @@ Additionally, you can filter the documents based on the **publication date** of 
 You can refine your search by using tags as filters, ensuring that you receive responses exclusively from articles or documents associated with the specific tag or tags you've chosen. Additionally, tags are organized in a hierarchical structure, enabling the use of multiple levels of tag categories such as `Software` or `User Manuals`.
 
 !!! information "**Where can I add tags?** "
-      Check out how to add tags to [Documents](documents.md) or [Articles](articles.md)
+      Check out how to add tags to [Documents](documents.md) or [Articles](./Articles/index.md)
 
  <p align="center"><img src="https://i.imgur.com/2EeYDkB.png" width="80%"></p>
 

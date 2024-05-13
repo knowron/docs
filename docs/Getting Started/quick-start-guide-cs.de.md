@@ -54,7 +54,7 @@ Wir können Ihnen Ergebnisse aus folgenden Ressourcen anzeigen:
 
 - [Dokumenten](documents.md)
 - [Tutorials](tutorials.md)
-- [Artikeln](articles.md)
+- [Artikeln](../Features/Articles/index.md)
 - [Expertenantworten](insights.md#expert-answers) 
 
 In Zukunft werden wir Ihnen auch Ergebnisse aus dem Logbuch Ihrer Maschine und vielem mehr anzeigen können!

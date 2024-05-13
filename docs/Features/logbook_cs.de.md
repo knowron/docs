@@ -14,7 +14,7 @@ Alternativ können Sie auf die Logbucheinträge einer bestimmten Maschine zugrei
 
 ### Logbucheinträge einsehen
 
-Klicken Sie einfach auf einen der Logbucheinträge, um ihn zu sehen. Es wird in einem Seitenbereich geöffnet, ähnlich wie [articles](./articles.md).
+Klicken Sie einfach auf einen der Logbucheinträge, um ihn zu sehen. Es wird in einem Seitenbereich geöffnet, ähnlich wie [articles](./Articles/index.md).
 
 Sie können die Filter auch verwenden, um nach einem bestimmten Text oder dem Datum des Logbucheintrags zu suchen, um die Dinge einzugrenzen.
 

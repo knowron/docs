@@ -50,7 +50,7 @@ La funzione di feedback aiuta gli editor a rispondere al feedback degli utenti e
 <p align="center"><img src="https://i.imgur.com/IAJ3PDe.png" width="100%"></p>
 
 
-La pagina di modifica consente l'inclusione di risposte dettagliate e facilita anche l'allegato di fonti pertinenti come [articoli](articles.md), [documenti](documents.md) e [tutorial](tutorials.md) per migliorare la credibilità della risposta.
+La pagina di modifica consente l'inclusione di risposte dettagliate e facilita anche l'allegato di fonti pertinenti come [articoli](./Articles/index.md), [documenti](documents.md) e [tutorial](tutorials.md) per migliorare la credibilità della risposta.
 
 Lo "Stato" indica se è stata aggiunta una risposta al feedback dell'utente. 
 

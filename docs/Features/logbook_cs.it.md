@@ -14,7 +14,7 @@ In alternativa, è possibile accedere alle voci del registro di una macchina spe
 
 ### Visualizzazione delle voci del registro
 
-Basta fare clic su una delle voci del diario di bordo per visualizzarlo. Si aprirà su un pannello laterale, in modo simile a come funziona [articles](./articles.md).
+Basta fare clic su una delle voci del diario di bordo per visualizzarlo. Si aprirà su un pannello laterale, in modo simile a come funziona [articles](./Articles/index.md).
 
 È inoltre possibile utilizzare i filtri per cercare un testo specifico o la data della voce del registro per restringere il campo.
 

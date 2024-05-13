@@ -14,7 +14,7 @@ Alternatively, you can access a specific machine’s logbook entries or directly
 
 ### Viewing logbook entries
 
-Simply click on one of the logbook entries to see it. It will open on a side panel, similarly to how [articles](./articles.md) work.
+Simply click on one of the logbook entries to see it. It will open on a side panel, similarly to how [articles](./Articles/index.md) work.
 
 You can also use the filters to search for specific text or the date of the logbook entry to narrow things down.
 

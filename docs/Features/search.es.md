@@ -1,7 +1,7 @@
 # Buscar
 
 Las líneas de productos representan las máquinas, plantas o procesos que su organización soporta y con los que trabaja todos los días. Las líneas de productos están ahí para dar contexto al sistema KNOWRON, es decir, ¿sobre qué está haciendo preguntas? Antes de comenzar con su búsqueda, debe seleccionar qué línea de productos le interesa. Simplemente tienes que hacer clic en él y se desplegará el menú contextual a la izquierda de tu pantalla y serás llevado a la pantalla de búsqueda. \
-La función de búsqueda le permite hacer preguntas sobre una línea de productos completa o una máquina en particular en todas las unidades de contenido creadas o cargadas por usted u otros usuarios. Estas unidades de contenido vienen en forma de [documentos](documents.md), [tutoriales](tutorials.md), [artículos](articles.md) o [respuestas de expertos](insights.md#expert-answers) para que podamos obtener el resultado más valioso para su consulta.
+La función de búsqueda le permite hacer preguntas sobre una línea de productos completa o una máquina en particular en todas las unidades de contenido creadas o cargadas por usted u otros usuarios. Estas unidades de contenido vienen en forma de [documentos](documents.md), [tutoriales](tutorials.md), [artículos](./Articles/index.md) o [respuestas de expertos](insights.md#expert-answers) para que podamos obtener el resultado más valioso para su consulta.
 
 <p align="center"><img src="https://i.imgur.com/depHqSZ.png" width="80%"></p>
 
@@ -48,7 +48,7 @@ Además, puede filtrar los documentos en función de la **fecha de publicación*
 Puede refinar su búsqueda mediante el uso de etiquetas como filtros, asegurándose de recibir respuestas exclusivamente de artículos o documentos asociados con la etiqueta o etiquetas específicas que haya elegido. Además, las etiquetas se organizan en una estructura jerárquica, lo que permite el uso de múltiples niveles de categorías de etiquetas, como 'Software' o 'Manuales de usuario'.
 
 !!! información "**¿Dónde puedo añadir etiquetas?** "
-      Echa un vistazo a cómo añadir etiquetas a [Documentos](documents.md) o [Artículos](articles.md)
+      Echa un vistazo a cómo añadir etiquetas a [Documentos](documents.md) o [Artículos](./Articles/index.md)
 
  <p align="center"><img src="https://i.imgur.com/2EeYDkB.png" width="80%"></p>
 
