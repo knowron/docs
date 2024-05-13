@@ -3,6 +3,8 @@
 
     El libro de registro de la máquina también está disponible para [mobile](./logbook_na.md). Para obtener más información general sobre la función de libro de registro, visite nuestra [página de características](./logbook.md).
 
+<div style="position: relative; padding-bottom: 59.08096280087527%; height: 0;"><iframe src="https://www.loom.com/embed/bd49664e0da841b081df5fecf5495e2b?sid=0b8683e8-6499-4472-bf42-f8360e451105" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 ## Cómo empezar con el libro de registro de la máquina
 Puede comenzar simplemente navegando hasta el icono del "libro de registro" en su menú lateral. 
 

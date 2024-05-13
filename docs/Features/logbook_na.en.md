@@ -4,6 +4,11 @@
     The machine logbook is also available for the [web](./logbook_cs.md). For more general information on the logbook feature, visit our [feature page](./logbook.md).
 
 
+<div style="display: flex; justify-content: center; align-items: center;">
+    <iframe width="340" height="600" src="https://www.loom.com/embed/17772bd8e28b45b092d499f6e647c498?sid=ff39838d-0114-4f02-8516-360875222f02" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
+
 ## How to get started with the machine logbook
 First, scan the machine whose logbook you want to access. You can do this by scanning the QR code attached to it or typing in the serial number. Afterwards, simply tap on the "Logbook" :material-history: icon under the product image!
 
