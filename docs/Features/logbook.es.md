@@ -5,7 +5,7 @@ El libro de registro digital sirve como un **registro histórico del ciclo de vi
 El libro de registro digital permite a los usuarios **crear entradas específicas para máquinas individuales**, donde pueden compartir contenido de texto y video para todos sus colegas en el taller.
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <video width="80%" autoplay muted>
+    <video width="80%" autoplay loop muted>
         <source src="https://i.imgur.com/ZSVQ7Ja.mp4" type="video/mp4">
     </video>
 </div>

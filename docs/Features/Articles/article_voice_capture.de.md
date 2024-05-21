@@ -18,7 +18,7 @@ Sie können auf die Spracheingabefunktion auf die gleiche Weise zugreifen wie au
 - Folgen Sie den Anweisungen (siehe unten)
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <video width="80%" autoplay muted>
+    <video width="80%" autoplay loop muted>
         <source src="https://i.imgur.com/pBQokKs.mp4" type="video/mp4">
     </video>
 </div>
@@ -46,7 +46,7 @@ Jetzt müssen Sie nur noch Ihre Sprachnotiz aufnehmen. Klicken Sie auf die Mikro
 **Stellen Sie sicher, dass Sie Ihren Browser aktivieren, um Ihre Mikrofoneingabe zu erfassen!** Keine Sorge, wir speichern Ihre Stimme nicht, sondern transkribieren sie nur in Text.
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <video width="80%" autoplay muted>
+    <video width="80%" autoplay loop muted>
         <source src="https://i.imgur.com/0kjOvf5.mp4" type="video/mp4">
     </video>
 </div>
@@ -76,7 +76,7 @@ Sie können Ihren neu erstellten Artikel jetzt bearbeiten, entweder mit dem herk
 Um Ihren Artikel mit Sprache zu bearbeiten, klicken Sie einfach auf die Schaltfläche "Mit Stimme bearbeiten" am unteren Rand Ihres Artikeleditor-Bildschirms. Das Befolgen der Anweisungen funktioniert genauso wie oben, aber dieses Mal müssen Sie nicht alles noch einmal sagen, sondern nur das, was Sie ändern möchten!
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <video width="80%" autoplay muted>
+    <video width="80%" autoplay loop muted>
         <source src="https://i.imgur.com/4Xs8yzE.mp4" type="video/mp4">
     </video>
 </div>

@@ -18,7 +18,7 @@ Puoi accedere alla funzione Input vocale nello stesso modo in cui puoi creare qu
 - Segui le istruzioni (vedi sotto)
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <video width="80%" autoplay muted>
+    <video width="80%" autoplay loop muted>
         <source src="https://i.imgur.com/pBQokKs.mp4" type="video/mp4">
     </video>
 </div>
@@ -46,7 +46,7 @@ Ora tutto ciò che devi fare è registrare la tua nota vocale. Fare clic sul pul
 **Assicurati di abilitare il tuo browser per catturare l'ingresso del microfono!** Non preoccuparti, non memorizzeremo la tua voce, la trascriveremo solo in testo.
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <video width="80%" autoplay muted>
+    <video width="80%" autoplay loop muted>
         <source src="https://i.imgur.com/0kjOvf5.mp4" type="video/mp4">
     </video>
 </div>
@@ -76,7 +76,7 @@ Ora puoi modificare il tuo articolo appena creato, utilizzando l'editor di testo
 Per modificare il tuo articolo con la voce, fai semplicemente clic sul pulsante "Modifica con la voce" nella parte inferiore della schermata dell'editor dell'articolo. Seguire le istruzioni funziona come sopra, ma questa volta non devi dire tutto ancora una volta, solo quello che vorresti cambiare!
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <video width="80%" autoplay muted>
+    <video width="80%" autoplay loop muted>
         <source src="https://i.imgur.com/4Xs8yzE.mp4" type="video/mp4">
     </video>
 </div>

@@ -5,7 +5,7 @@ Das digitale Logbuch dient als **historische Aufzeichnung des Lebenszyklus einer
 Das digitale Logbuch ermöglicht es den Benutzern, **maschinenspezifische Einträge zu erstellen**, in denen sie Text- und Videoinhalte für alle ihre Kollegen in der Werkstatt freigeben können.
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <video width="80%" autoplay muted>
+    <video width="80%" autoplay loop muted>
         <source src="https://i.imgur.com/ZSVQ7Ja.mp4" type="video/mp4">
     </video>
 </div>

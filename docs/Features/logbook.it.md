@@ -5,7 +5,7 @@ Il registro digitale funge da **registrazione storica del ciclo di vita di una m
 Il diario di bordo digitale consente agli utenti di **creare voci specifiche per le singole macchine**, dove possono condividere contenuti testuali e video per tutti i loro colleghi in officina.
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <video width="80%" autoplay muted>
+    <video width="80%" autoplay loop muted>
         <source src="https://i.imgur.com/ZSVQ7Ja.mp4" type="video/mp4">
     </video>
 </div>

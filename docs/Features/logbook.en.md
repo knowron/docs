@@ -5,7 +5,7 @@ The digital logbook serves as a **historical record of a machine's lifecycle**. 
 The digital logbook allows users to **create entries specific to individual machines**, where they can share text and video content for all their colleagues in the shop floor.
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <video width="80%" autoplay muted>
+    <video width="80%" autoplay loop muted>
         <source src="https://i.imgur.com/ZSVQ7Ja.mp4" type="video/mp4">
     </video>
 </div>

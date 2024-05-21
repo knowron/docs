@@ -50,8 +50,11 @@ Puede refinar su búsqueda mediante el uso de etiquetas como filtros, aseguránd
 !!! información "**¿Dónde puedo añadir etiquetas?** "
       Echa un vistazo a cómo añadir etiquetas a [Documentos](documents.md) o [Artículos](./Articles/index.md)
 
- <p align="center"><img src="https://i.imgur.com/2EeYDkB.png" width="80%"></p>
-
+<div style="display: flex; justify-content: center; align-items: center;">
+    <video width="80%" autoplay loop muted>
+        <source src="https://i.imgur.com/PiGX4g8.mp4" type="video/mp4">
+    </video>
+</div>
 --- 
 ## Comentarios
 

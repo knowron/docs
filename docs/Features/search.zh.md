@@ -50,7 +50,11 @@
 !!! Information "**在哪里可以添加标签?**"
       了解如何向 [文档](documents.md) 或 [文章](./Articles/index.md) 添加标签
 
- <p align="center"><img src="https://i.imgur.com/2EeYDkB.png" width="80%"></p>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <video width="80%" autoplay loop muted>
+        <source src="https://i.imgur.com/PiGX4g8.mp4" type="video/mp4">
+    </video>
+</div>
 
 ---## 反馈
 

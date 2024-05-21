@@ -18,7 +18,7 @@
 - 按照说明操作（见下文）
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <video width="80%" autoplay muted>
+    <video width="80%" autoplay loop muted>
         <source src="https://i.imgur.com/pBQokKs.mp4" type="video/mp4">
     </video>
 </div>
@@ -46,7 +46,7 @@
 **请确保您启用浏览器以捕获麦克风输入！** 别担心，我们不会存储您的声音，只会将其转录为文本。
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <video width="80%" autoplay muted>
+    <video width="80%" autoplay loop muted>
         <source src="https://i.imgur.com/0kjOvf5.mp4" type="video/mp4">
     </video>
 </div>
@@ -76,7 +76,7 @@
 要使用语音编辑您的文章，只需单击文章编辑器屏幕底部的“使用语音编辑”按钮即可。按照说明工作与上述相同，但这次您不必再次说出所有内容，只需说出您想要更改的内容即可！
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <video width="80%" autoplay muted>
+    <video width="80%" autoplay loop muted>
         <source src="https://i.imgur.com/4Xs8yzE.mp4" type="video/mp4">
     </video>
 </div>

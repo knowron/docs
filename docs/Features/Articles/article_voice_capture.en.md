@@ -18,7 +18,7 @@ You can access the Voice Input feature in the same way you can create any new ar
 - Follow the instructions (see below)
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <video width="80%" autoplay muted>
+    <video width="80%" autoplay loop muted>
         <source src="https://i.imgur.com/pBQokKs.mp4" type="video/mp4">
     </video>
 </div>
@@ -46,7 +46,7 @@ Now all you have to do is record your voice note. Click on the microphone button
 **Make sure that you enable your browser to capture your microphone input!** Don’t worry, we wont store your voice, only transcribe it to text.
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <video width="80%" autoplay muted>
+    <video width="80%" autoplay loop muted>
         <source src="https://i.imgur.com/0kjOvf5.mp4" type="video/mp4">
     </video>
 </div>
@@ -76,7 +76,7 @@ You can now edit your newly-created article, either by using the traditional tex
 To edit your article with voice, simply click on the “Edit with voice” button at the bottom of your article editor screen. Following the instructions work the same as above, but this time you don’t have to say everything once again, only what you would like to change!
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <video width="80%" autoplay muted>
+    <video width="80%" autoplay loop muted>
         <source src="https://i.imgur.com/4Xs8yzE.mp4" type="video/mp4">
     </video>
 </div>

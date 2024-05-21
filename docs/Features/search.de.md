@@ -48,8 +48,11 @@ Sie können Ihre Suche durch Verwendung von Tags als Filter verfeinern, um siche
 !!! Information "**Wo kann ich Tags hinzufügen?** "
     Hier finden Sie, wie Sie Tags zu [Dokumenten](documents.md) oder [Artikeln](./Articles/index.md) hinzufügen können.
 
-<p align="center"><img src="https://i.imgur.com/2EeYDkB.png" width="80%"></p>
-
+<div style="display: flex; justify-content: center; align-items: center;">
+    <video width="80%" autoplay loop muted>
+        <source src="https://i.imgur.com/PiGX4g8.mp4" type="video/mp4">
+    </video>
+</div>
 ---
 ## Feedback
 

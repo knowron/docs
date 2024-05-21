@@ -50,7 +50,12 @@ You can refine your search by using tags as filters, ensuring that you receive r
 !!! information "**Where can I add tags?** "
       Check out how to add tags to [Documents](documents.md) or [Articles](./Articles/index.md)
 
- <p align="center"><img src="https://i.imgur.com/2EeYDkB.png" width="80%"></p>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <video width="80%" autoplay loop muted>
+        <source src="https://i.imgur.com/PiGX4g8.mp4" type="video/mp4">
+    </video>
+</div>
+
 
 --- 
 ## Feedback

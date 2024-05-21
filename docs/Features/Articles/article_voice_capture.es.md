@@ -18,7 +18,7 @@ Puede acceder a la función de entrada de voz de la misma manera que puede crear
 - Siga las instrucciones (ver más abajo)
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <video width="80%" autoplay muted>
+    <video width="80%" autoplay loop muted>
         <source src="https://i.imgur.com/pBQokKs.mp4" type="video/mp4">
     </video>
 </div>
@@ -46,7 +46,7 @@ Ahora todo lo que tienes que hacer es grabar tu nota de voz. Haga clic en el bot
 **¡Asegúrate de habilitar tu navegador para capturar la entrada de tu micrófono!** No te preocupes, no almacenaremos tu voz, solo la transcribiremos a texto.
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <video width="80%" autoplay muted>
+    <video width="80%" autoplay loop muted>
         <source src="https://i.imgur.com/0kjOvf5.mp4" type="video/mp4">
     </video>
 </div>
@@ -76,7 +76,7 @@ Ahora puedes editar tu artículo recién creado, ya sea usando el editor de text
 Para editar tu artículo con voz, simplemente haz clic en el botón "Editar con voz" en la parte inferior de la pantalla del editor de artículos. Seguir las instrucciones funciona igual que el anterior, pero esta vez no tienes que decir todo una vez más, ¡solo lo que te gustaría cambiar!
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <video width="80%" autoplay muted>
+    <video width="80%" autoplay loop muted>
         <source src="https://i.imgur.com/4Xs8yzE.mp4" type="video/mp4">
     </video>
 </div>

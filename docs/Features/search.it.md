@@ -50,7 +50,11 @@ Puoi perfezionare la tua ricerca utilizzando i tag come filtri, assicurandoti di
 !!! information "**Dove posso aggiungere i tag?** "
       Scopri come aggiungere tag a [Documenti](documents.md) o [Articoli](./Articles/index.md)
 
- <p align="center"><img src="https://i.imgur.com/2EeYDkB.png" width="80%"></p>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <video width="80%" autoplay loop muted>
+        <source src="https://i.imgur.com/PiGX4g8.mp4" type="video/mp4">
+    </video>
+</div>
 
 --- 
 ## Commenti
