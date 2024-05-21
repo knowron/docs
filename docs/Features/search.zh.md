@@ -47,8 +47,8 @@
 
 您可以通过使用标签作为过滤器来优化搜索，确保您仅从与您选择的特定标签关联的文章或文档中收到回复。此外，标签以分层结构组织，允许使用多个级别的标签类别，例如“软件”或“用户手册”。
 
-!!!信息“**在哪里可以添加标签？
-了解如何向 [文档](documents.md) 或 [文章](./Articles/index.md) 添加标签
+!!! Information "**在哪里可以添加标签?**"
+      了解如何向 [文档](documents.md) 或 [文章](./Articles/index.md) 添加标签
 
  <p align="center"><img src="https://i.imgur.com/2EeYDkB.png" width="80%"></p>
 

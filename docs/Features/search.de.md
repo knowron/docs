@@ -46,7 +46,7 @@ Zusätzlich können Sie die Dokumente basierend auf dem **Veröffentlichungsdatu
 Sie können Ihre Suche durch Verwendung von Tags als Filter verfeinern, um sicherzustellen, dass Sie ausschließlich Antworten aus Artikeln oder Dokumenten erhalten, die mit den von Ihnen gewählten Tags oder Tags verbunden sind. Tags sind auch hierarchisch organisiert und ermöglichen die Verwendung mehrerer Ebenen von Tagkategorien wie `Software` oder `Benutzerhandbücher`.
 
 !!! Information "**Wo kann ich Tags hinzufügen?** "
-     Sehen Sie sich an, wie Sie Tags zu [Dokumenten](documents.md) oder [Artikeln](./Articles/index.md) hinzufügen können.
+    Hier finden Sie, wie Sie Tags zu [Dokumenten](documents.md) oder [Artikeln](./Articles/index.md) hinzufügen können.
 
 <p align="center"><img src="https://i.imgur.com/2EeYDkB.png" width="80%"></p>
 
