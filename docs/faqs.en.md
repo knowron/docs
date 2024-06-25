@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-## How do I get a quick start on the platform - test?
+## How do I get a quick start on the platform?
  - The first step is to go to [suite.knowron.com](https://suite.knowron.com/productLines) and put the credentials you received via email. 
 
 <p align="center"><img src="https://i.imgur.com/UX8V7XZ.png" width="40%"></p>
