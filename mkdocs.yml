@@ -83,6 +83,7 @@ nav:
       - "Features/ai_powered_reports.md"
   - Control Suite Features:
       - "Features/insights.md"
+      - "Features/factory_layout.md"
       - "Features/tutorials.md"
       - "Features/documents.md"
       - "Features/logbook_cs.md"
