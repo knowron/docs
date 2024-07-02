@@ -52,6 +52,7 @@ plugins:
         zh: 中文
         it: Italiano
         es: Español
+        pl: Polski
 markdown_extensions:
   - admonition
   - pymdownx.details
