@@ -27,7 +27,7 @@ In some instances, it is possible that not all documents related to a specific p
 
 #### You were looking for something that is in an image
 
-Our current system does not support image recognition for extracting text from images. Our expertise lies in natural language processing and tasks centered around textual data. 
+Our current system does not support image recognition for extracting text from images. Our expertise lies in natural language processing and tasks centered around textual data. We also offer Object Character Recognition (OCR) to work with screenshots and documentations based on images, to extract the different text on it. For more information, please contact [support@knowron.com](mailto:support@knowron.com).
 
  <p align="center"><img src="https://i.imgur.com/A5UQTgy.png" width="100%"></p>
 

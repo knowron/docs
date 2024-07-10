@@ -1,8 +1,7 @@
 
 # Insights
 
-
-The Insights Dashboard makes sure that editors and admins can understand how well their system was performing and were empowered to close the knowledge gaps in their organization.
+The Insights Dashboard ensures that editors and admins can understand how well their system is performing and empowers them to close the knowledge gaps in their organization.
 
 Through interactive visualizations and detailed analytics, the Insights Dashboard enables editors and administrators to view the impact of their content strategy. It highlights areas of success, allowing them to replicate effective approaches, while also pinpointing potential shortcomings that may contribute to knowledge gaps
 

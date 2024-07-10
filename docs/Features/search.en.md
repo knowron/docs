@@ -1,6 +1,7 @@
 #  Search
 
-Product lines represent the machines, plants or processes your organization supports which you work with every day. Product lines are there to give the KNOWRON system context - i.e. what are you asking questions about? Before you start with your search, you have to select what product line you are interested in. You simply have to click on it and the context menu on the left of your screen will unfurl and you will be taken to the search screen. \
+Product lines represent the machines, plants or processes your organization supports which you work with every day. Product lines are there to give the KNOWRON system context - i.e. what are you asking questions about? Before you start with your search, you have to select what product line you are interested in. You simply have to click on it and the context menu on the left of your screen will unfurl and you will be taken to the search screen. 
+
 The search function allows you to ask questions about an entire product line or a particular machine in all content units created or uploaded by you or other users. These content units come in the shape of [documents](documents.md), [tutorials](tutorials.md), [articles](./Articles/index.md) or [expert answers](insights.md#expert-answers) so we can get you the most valuable result for your query.
 
 <p align="center"><img src="https://i.imgur.com/depHqSZ.png" width="80%"></p>
@@ -80,5 +81,8 @@ Downvoting the Generative Answer will prompt a window that enables you to choose
 
  <p align="center"><img src="https://i.imgur.com/eGD8ZVd.png" width="80%"></p>
 
+**Upvoting the Generative Answer**
+
+Upvoting the Generative Answer helps us understand that the provided information was useful and accurate. This feedback assists our team in recognizing high-quality responses and continuously improving the system. This interaction will make the document more relevant in future searches and will give it more visibility in future interactions.
 
 
