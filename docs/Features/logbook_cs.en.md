@@ -45,4 +45,6 @@ You can attach any image or video file from our supported [list of file types](.
 
 ## Deleting and editing logbook entries
 
-Coming soon!
+You can edit or delete preciously created entries by clicking on the side panel and deciding if you change the previous content or delete an entry in the logbook.
+
+<p align="center"><img src="https://i.imgur.com/AGI9BmZ.gif" width="80%"></p>

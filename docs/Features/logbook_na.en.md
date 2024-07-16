@@ -20,7 +20,7 @@ You **cannot** access the logbook from a Product Line.
 
     Can't find the serial number of the machine standing in front of you? Make sure the machine has been created on your [Control Suite](./machineinventory.md)!
 
-### Adding a logbook entry
+### Adding a Logbook Entry
 
 Simply tap on the "Add entry" :material-plus: button to add a new entry.
 
@@ -28,7 +28,7 @@ Simply tap on the "Add entry" :material-plus: button to add a new entry.
 
 Be sure to add a title and a category, as well as describe the work that was done on the machine. You can also attach images or videos you have previously taken. A picture is worth more than a thousand words!
 
-### Viewing logbook entries
+### Viewing Logbook Entries
 
 At any point, you can see all of the entries you and your colleagues have added for a specific machine. You can also see pictures and play the videos attached to them. 
 

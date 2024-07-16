@@ -8,7 +8,7 @@ Our goal is to make it significantly easier and faster to capture and improve th
 
 ## How to access the feature
 
-Currently, only editors (or equivalent) and above can capture documents by voice. Please contact your system admin if you believe you should have access to this feature.
+Currently, only editors (or equivalent) and above can capture documents by voice. Please contact your system administrator if you believe you should have access to this feature.
 
 You can access the Voice Input feature in the same way you can create any new article.
 - Log into the Control Suite
