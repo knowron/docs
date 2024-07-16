@@ -78,7 +78,7 @@ Now all you have to do is ask what you want to know. KNOWRON will then go throug
 
 The results are illustrated below.
 
-<p align="center"><img src="https://i.imgur.com/1G2skdh.gif" width="300"></p>
+<p align="center"><img src="https://i.imgur.com/mLXLc5T.gif" width="300"></p>
 
 ---
 
@@ -86,7 +86,7 @@ The results are illustrated below.
 
 Whenever we can, we will show you answers straight from your documentation. If you want to delve deeper, you can use filters and other features, available on the **Search Screen**. Tap on "See more Results" on the Assistant Panel or select the "Search" icon from the homescreen.
 
-<p align="center"><img src="https://i.imgur.com/X4GKmM7.gif
+<p align="center"><img src="https://i.imgur.com/5fHpzch.gif
 " width="300"></p>
 
 We can show you results from the following resources:
