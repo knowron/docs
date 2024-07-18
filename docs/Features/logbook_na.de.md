@@ -26,7 +26,7 @@ Tippen Sie einfach auf die Schaltfläche "Eintrag hinzufügen" :material-plus:, 
 
 Stellen Sie sicher, dass Sie einen Titel und eine Kategorie hinzufügen und die Arbeit beschreiben, die auf dem Computer ausgeführt wurde. Sie können auch Bilder oder Videos anhängen, die Sie zuvor aufgenommen haben. Ein Bild sagt mehr als tausend Worte!
 
-### Logbucheinträge einsehen
+### Logbucheinträge Einsehen
 
 Sie können jederzeit alle Einträge sehen, die Sie und Ihre Kollegen für eine bestimmte Maschine hinzugefügt haben. Sie können auch Bilder sehen und die angehängten Videos abspielen. 
 

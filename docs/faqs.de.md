@@ -25,13 +25,13 @@ Für eine detailliertere Beschreibung können Sie einfach unseren Schnellstartan
 
 ## Wie funktioniert die API? 
 
-Im Moment gibt es keine öffentliche API. Wenn Sie daran interessiert sind, Integrationen zu erstellen, wenden Sie sich bitte an unser Team für das Enterprise-Paket.
+Im Moment gibt es keine öffentliche API. Wenn Sie daran interessiert sind, Integrationen zu erstellen, wenden Sie sich bitte an unser Team [support@knowron.com](mailto:support@knowron.com) für das Enterprise-Paket.
 
-## Wie suche ich die hochgeladenen Dokumente?
+## Wo finde ich die hochgeladenen Dokumente?
 
 Um alle Dokumente anzuzeigen, die in das System hochgeladen wurden, können Sie zur Auswahl der Tools gehen, nachdem Sie ein Produkt ausgewählt und "Alle Dokumente" ausgewählt haben:
 
-<p align="center"><img src="https://i.imgur.com/fF703fJ.png" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/IhHamNN.png" width="90%"></p>
 
 
 ## Warum funktioniert meine Stichwortsuche nicht? 
@@ -68,12 +68,12 @@ Für Mobilgeräte müssen Sie oben rechts in die Einstellungen der Anwendung geh
 
 Sie können ein Dokument herunterladen, indem Sie auf das Bedienfeld "Aktionen" in der Tabelle zugreifen und die Option "Herunterladen" auswählen, unabhängig davon, ob Sie auf der Registerkarte "Alle Dokumente" oder auf der Registerkarte "Dokumente" klicken.
 
-<p align="center"><img src="https://i.imgur.com/NkcdoSV.png" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/XkMXsQv.png" width="90%"></p>
 
 
 ## Welche Funktionen stehen in der Plattform zur Verfügung?
 
-Weitere Informationen finden Sie in [unserer Dokumentation](./index.md).
+Weitere Informationen finden Sie in [unserer Dokumentation](./index.md) für eine detallierte Übersicht von unsere Funktionen.
 
 ## Ich habe mein Passwort vergessen, wie kann ich es wiederherstellen?
 

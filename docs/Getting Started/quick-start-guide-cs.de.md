@@ -38,7 +38,7 @@ Nach dem Anmelden sehen Sie eine Übersicht über die Produktlinien, die Ihre Ko
 
 Bevor Sie fortfahren können, müssen Sie auswählen, an welcher Produktlinie Sie interessiert sind. Sie müssen einfach darauf klicken, und das Kontextmenü auf der linken Seite Ihres Bildschirms wird sich entfalten, und Sie werden zum Suchbildschirm geleitet.
 
-<p align="center"><img src="https://i.imgur.com/HMIItzO.png" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/8mwTHUW.png" width="80%"></p>
 
 ---
 
@@ -46,7 +46,7 @@ Bevor Sie fortfahren können, müssen Sie auswählen, an welcher Produktlinie Si
 
 Jetzt müssen Sie nur noch fragen, was Sie wissen möchten. Geben Sie etwas in die Suchleiste ein und drücken Sie die Eingabetaste. KNOWRON wird dann Ihre gesamte Wissensdatenbank durchsuchen und Ihnen die relevantesten Ergebnisse anzeigen.
 
-Unten finden Sie eine Beispiel-Interaktion für die Suche nach der Frage `Bei welcher Luftfeuchtigkeit kann der Drucker verwendet werden?`
+Unten finden Sie eine Beispiel-Interaktion für die Suche nach der Frage `Was ist 3D Drücken?`
 
 <p align="center"><img src="https://i.imgur.com/depHqSZ.png" width="70%"></p>
 
@@ -92,3 +92,7 @@ Sie haben die Möglichkeit, aus den von unserem Team bereitgestellten Kontrollk�
 Das Herabstufen der Generativen Antwort löst ein Fenster aus, das es Ihnen ermöglicht, Gründe aus einer von unserem Team bereitgestellten Liste auszuwählen, oder Sie können Ihre eigene Erklärung dafür abgeben, warum Sie glauben, dass die Antwort nicht korrekt ist.
 
  <p align="center"><img src="https://i.imgur.com/eGD8ZVd.png" width="80%"></p>
+
+ **Hochstufen der Generierten Antwort**
+
+Positive Rückmeldungen durch ein Daumen-hoch-Signal verbessern signifikant die Relevanz und Priorität von Dokumenten in zukünftigen Suchen. Wenn Nutzer angeben, dass ein Dokument wertvoll ist, priorisieren unsere Algorithmen es, verbessern die Sichtbarkeit und stellen sicher, dass hochwertige Inhalte für alle Nutzer leicht zugänglich bleiben.

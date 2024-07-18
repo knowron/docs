@@ -44,4 +44,6 @@ Sie können jede Bild- oder Videodatei aus unserer unterstützten [Liste der Dat
 
 ## Logbucheinträge löschen und bearbeiten
 
-Demnächst!
+Sie können bereits erstellte Einträge bearbeiten oder löschen, indem Sie auf das Seitenpanel klicken und entscheiden, ob Sie den vorherigen Inhalt ändern oder einen Eintrag im Logbuch löschen möchten.
+
+<p align="center"><img src="https://i.imgur.com/AGI9BmZ.gif" width="80%"></p>
