@@ -6,7 +6,7 @@
 
 ## 2024
 
-- [Paquete de control de actualización de productos v1.18.0](2024/product_update_control_suite_v1.19.0.en.md)
+- [Paquete de control de actualización de productos v1.19.0](2024/product_update_control_suite_v1.19.0.en.md)
 - [Asistente nativo de actualización de producto v1.10.0](2024/product_update_native_assistant_v1.10.0.en.md)
 
 ## 2023

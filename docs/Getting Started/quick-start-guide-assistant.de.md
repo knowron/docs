@@ -78,7 +78,7 @@ Jetzt brauchen Sie nur noch zu fragen, was Sie wissen wollen. KNOWRON durchsucht
 
 Die Ergebnisse sind unten dargestellt.
 
-<p align="center"><img src="https://i.imgur.com/1G2skdh.gif" width="300"></p>
+<p align="center"><img src="https://i.imgur.com/mLXLc5T.gif" width="300"></p>
 
 ---
 
@@ -86,7 +86,7 @@ Die Ergebnisse sind unten dargestellt.
 
 Wenn möglich, zeigen wir Ihnen Antworten direkt aus Ihrer Dokumentation. Wenn Sie tiefer eintauchen möchten, können Sie Filter und andere Funktionen verwenden, die auf der **Suchseite** verfügbar sind. Tippen Sie auf "Mehr Ergebnisse sehen" im Assistenten-Panel oder wählen Sie das Symbol "Suchen" auf dem Startbildschirm.
 
-<p align="center"><img src="https://i.imgur.com/X4GKmM7.gif
+<p align="center"><img src="https://i.imgur.com/5fHpzch.gif
 " width="300"></p>
 
 Wir können Ihnen Ergebnisse aus den folgenden Quellen zeigen:

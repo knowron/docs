@@ -6,7 +6,14 @@ Besuchen Sie die Unterseiten, um mehr zu erfahren!
 
 ## 2024
 
-- [Produktupdate Control Suite v1.18.0](2024/product_update_control_suite_v1.19.0.de.md)
+### Control Suite
+- [Produktupdate Control Suite v1.31.0](2024/product_update_control_suite_v1.31.0.de.md)
+- [Produktupdate Control Suite v1.30.0](2024/product_update_control_suite_v1.30.0.de.md)
+- [Produktupdate Control Suite v1.19.0](2024/product_update_control_suite_v1.19.0.de.md)
+
+### Native Assistant
+- [Produktupdate Native Assistant v1.13.0](2024/product_update_native_assistant_v1.13.0.de.md)
+- [Produktupdate Native Assistant v1.12.0](2024/product_update_native_assistant_v1.12.0.de.md)
 - [Produktupdate Native Assistant v1.10.0](2024/product_update_native_assistant_v1.10.0.de.md)
 
 ## 2023
