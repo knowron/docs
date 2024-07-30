@@ -7,7 +7,9 @@ With the factory layout, we are expanding the capabilities of our platform and e
 All the information you need to service and interact with an assembly line is represented in our platform, and we ensure that you can access all the resources related to it in a few second.
 Your colleagues can quickly understand the current status and recent changes or services on the machine, and make questions about the line, through which our system can answer based on the context of all machines that are part of the assembly line.
 
+[comment]: KNOWRON-ONLY-START
 <div style="position: relative; padding-bottom: 56.9620253164557%; height: 0;"><iframe src="https://www.loom.com/embed/d6838879fe1b4a6085aca0a7b3c99095?sid=26cee7fd-9185-4550-be2a-7bcfaf22cc1e" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+[comment]: KNOWRON-ONLY-END
 
 ### How to get started?
 
