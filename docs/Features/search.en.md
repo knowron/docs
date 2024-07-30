@@ -10,6 +10,15 @@ The response generated is a stochastic outcome to your query, supported by the l
 
 Wanna learn more about [AI Generated Answers](answers.md)?
 
+--- 
+## **Cross-product Search**
+
+Cross-Product Search enhances the precision and efficiency of information retrieval across your knowledge database. This feature allows users to focus their queries within specific product categories or groups, ensuring more relevant search results and quicker access to specific items. By defining the search scope to include specific groups or machines, users can streamline the process of finding necessary information, reducing the need to sift through irrelevant data or identify the right machine.
+
+In addition to product-specific searches, Cross-Product Search can scan through all your documents, making it easier to locate essential information. This feature simplifies information search, making it faster and more intuitive, thereby enhancing the overall user experience.
+
+<p align="center"><img src="https://i.imgur.com/sS3mGZ7.gif" width="80%"></p>
+
 ---
 ##  **Search Results**
 

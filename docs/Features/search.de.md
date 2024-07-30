@@ -10,6 +10,14 @@ Die generierte Antwort ist ein stochastisches Ergebnis Ihrer Anfrage, unterstüt
 
 Möchten Sie mehr über [Künstlich generierte Antworten](answers.md) erfahren?
 
+--- 
+## **Produktübergreifende Suche**
+
+Die produktübergreifende Suche verbessert die Präzision und Effizienz der Informationssuche in Ihrer Wissensdatenbank. Diese Funktion ermöglicht es den Benutzern, ihre Suchanfragen auf bestimmte Produktkategorien oder Gruppen zu fokussieren, wodurch relevantere Suchergebnisse und ein schnellerer Zugang zu spezifischen Informationen gewährleistet werden. Durch die Definition des Suchumfangs, einschließlich spezifischer Gruppen oder Maschinen, können Benutzer den Prozess der Informationsbeschaffung optimieren und die Notwendigkeit verringern, irrelevante Daten zu durchforsten oder die richtige Maschine zu identifizieren.
+
+Neben produktspezifischen Suchanfragen kann die produktübergreifende Suche auch alle Ihre Dokumente durchsuchen, was das Auffinden wichtiger Informationen erleichtert. Diese Funktion vereinfacht die Informationssuche, macht sie schneller und intuitiver und verbessert dadurch das gesamte Benutzererlebnis.
+
+<p align="center"><img src="https://i.imgur.com/sS3mGZ7.gif" width="80%"></p>
 
 ---
 ## **Suchergebnisse**
