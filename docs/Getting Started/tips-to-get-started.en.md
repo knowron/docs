@@ -4,16 +4,16 @@
 
 Go to All documents and simply search for the title
 
-<p align="left"><img src="https://i.imgur.com/jLzFMT6.gif" width="50%"></p>
+<p align="left"><img src="https://i.imgur.com/MvL5r5B.gif" width="90%"></p>
 
 ________________
 
 ### **Have a question about any of the products?**
 
-Go to Search 
+Go to Search and ask a question
 
  
-<p align="left"><img src="https://i.imgur.com/jNJtQZI.gif" width="50%"></p>
+<p align="left"><img src="https://i.imgur.com/ddPjlko.gif" width="90%"></p>
 
  ___________________
 
@@ -21,4 +21,4 @@ Go to Search
 
 Select the product and search through product card
  
-<p align="left"><img src="https://i.imgur.com/N8C044V.gif" width="50%"></p>
+<p align="left"><img src="https://i.imgur.com/DXea13y.gif" width="90%"></p>
