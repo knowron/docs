@@ -7,6 +7,7 @@ Visit the child pages to learn more!
 ## 2024
 
 ### Control Suite
+- [Product Update Control Suite v1.33.0](2024/product_update_control_suite_v1.33.0.en.md)
 - [Product Update Control Suite v1.31.0](2024/product_update_control_suite_v1.31.0.en.md)
 - [Product Update Control Suite v1.30.0](2024/product_update_control_suite_v1.30.0.en.md)
 - [Product Update Control Suite v1.19.0](2024/product_update_control_suite_v1.19.0.en.md)
