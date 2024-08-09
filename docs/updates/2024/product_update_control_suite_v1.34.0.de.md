@@ -28,6 +28,8 @@ Wir freuen uns, die neue Wissensdatenbank in der Control Suite vorzustellen, die
 
 Wir haben wesentliche Verbesserungen im Tutorial-Bereich vorgenommen und ihn näher an den Rest der Control Suite angepasst. Die Tutorial-Bildschirme wurden standardisiert, um ein einheitliches Benutzererlebnis zu gewährleisten. Zusätzlich wurde eine neue Filterleiste eingeführt, die es den Benutzern ermöglicht, spezifische Tutorials einfach zu finden und zu durchsuchen. Diese Verbesserungen machen das Lernen und den Zugriff auf Schulungsmaterialien nahtloser und effizienter.
 
+### 🏭 **Verbesserungen im Fabriklayout**
 
+Wir haben zwei wesentliche Updates im Bereich des Fabriklayouts vorgenommen, um die Benutzerfreundlichkeit zu verbessern. Erstens wurde die Zielseite nach der Erstellung eines Logbuch-Eintrags basierend auf dem Benutzerfeedback neu gestaltet, um ein intuitiveres Erlebnis zu gewährleisten. Zweitens wurde die Schaltfläche zur Erstellung einer Linie an eine prominentere Position verschoben, damit sie leichter zugänglich ist, insbesondere wenn mehrere Linien vorhanden sind.
 
 
