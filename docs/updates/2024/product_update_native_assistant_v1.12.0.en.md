@@ -1,3 +1,5 @@
+# Product Update Native Assistant V1.12.0
+
 ## Native Assistant Mobile App Update: New Pages, Enhanced Report Features, and Improved Functionality
 
 We’re excited to introduce a range of new features and improvements to the Native Assistant mobile app. This update includes the creation of new pages, enhancements to report submission and review, and various bug fixes. Here’s a detailed overview of what’s new and improved!

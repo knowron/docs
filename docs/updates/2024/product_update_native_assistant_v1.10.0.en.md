@@ -1,3 +1,5 @@
+# Product Update Native Assistant V1.10.0
+
 ## Product Update on Native Assistant: Hierarchical Tags & Bug fixes
 
 Here at KNOWRON we've been working on a couple of features and improvements we think will make your life and that of your colleagues easier!

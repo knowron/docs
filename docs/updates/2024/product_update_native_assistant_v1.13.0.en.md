@@ -1,3 +1,5 @@
+# Product Update Native Assistant V1.13.0
+
 ## Native Assistant Mobile App Update: Advanced Audio Capture Enhancements
 
 We’re thrilled to announce exciting improvements to the audio capture functionality within the Native Assistant mobile app. These updates are designed to elevate the quality of voice interactions and streamline the way audio data is integrated into your reports. The latest enhancements focus on providing a more reliable and seamless audio capture experience.

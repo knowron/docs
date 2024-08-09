@@ -1,3 +1,5 @@
+# Produktupdate Native Assistant V1.10.0
+
 ## Produktupdate für Native Assistant: Hierarchische Tags & Fehlerbehebungen
 
 Wir freuen uns, einige fantastische Updates und Funktionen zu teilen, an denen wir bei KNOWRON gearbeitet haben! Diese Verbesserungen sollen Ihren Workflow optimieren und Ihr Erlebnis in Native Assistant verbessern.

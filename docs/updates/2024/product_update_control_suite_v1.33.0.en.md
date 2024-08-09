@@ -1,3 +1,5 @@
+# Product Update Control Suite V1.33.0
+
 ## Product Update on Control Suite: Cross-Product Search, French Language Support, and User Onboarding revamp
 
 We’re excited to announce several impactful updates in the Control Suite. These enhancements aim to improve user experience with new features for filtering documents, language support, and user onboarding through UserGuiding. Here’s a detailed overview of what’s new and improved!

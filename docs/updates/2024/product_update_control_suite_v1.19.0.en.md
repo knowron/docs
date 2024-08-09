@@ -1,3 +1,5 @@
+# Product Update Control Suite V1.19.0
+
 ## Product Update on Control Suite: Italian language, multiple languages on articles and many more
 
 Here at KNOWRON we've been working on a couple of features and improvements we think will make your life and that of your colleagues easier!

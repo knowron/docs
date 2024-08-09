@@ -1,3 +1,5 @@
+# Produktupdate Control Suite V1.31.0
+
 ## Produktupdate für Control Suite: Neue Produktlinien-Detailkarte, verbesserte Sprachfunktionen und optimierte Filter
 
 Wir freuen uns, eine Reihe von Updates vorzustellen, die Ihre Erfahrung mit Control Suite verbessern werden. Diese Verbesserungen umfassen neue Funktionen zur Anzeige von Produktdetails, erweiterte Sprachfunktionen, verbesserte Such- und Filteroptionen sowie eine erweiterte Lokalisierungsunterstützung. Hier ist eine detaillierte Übersicht der Neuerungen und Verbesserungen!
