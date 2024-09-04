@@ -18,7 +18,7 @@ Wir freuen uns, die neue Funktion der maschinenspezifischen Dokumentsuche bekann
 
 ### 🗂️ Schichtberichte für eine verbesserte Kommunikation
 
-Wir haben eine neue Funktion eingeführt, die es Benutzern ermöglicht, **Schichtberichte** zu speichern. Diese funktionieren ähnlich wie Logbucheinträge, sind jedoch speziell mit einer Montagelinie verknüpft. Schichtberichte ermöglichen es den Benutzern, wichtige Ereignisse während ihrer Schicht zu protokollieren und zu speichern, wodurch wichtige Informationen an einem zentralen Ort festgehalten werden. Dies erleichtert die Kommunikation von wichtigen schichtbezogenen Updates an Kollegen, verbessert die Teamkoordination insgesamt und sorgt dafür, dass alle in Echtzeit über das Geschehen informiert sind.
+Wir haben eine neue Art von Logbucheinträgen eingeführt: **Schichtberichte**. Diese Berichte sind dafür ausgelegt, Informationen speziell für Montagelinien und ganze Fabriken zu erfassen. Mit **Schichtberichten** können Techniker, Bediener und Schichtleiter wichtige Ereignisse ihrer Schichten an einem zentralen Ort protokollieren und speichern. So können​⬤
 
 <p align="center" style="padding: 20px;"><img src="https://i.imgur.com/XzAtXhC.png" width="100%"></p>
 
