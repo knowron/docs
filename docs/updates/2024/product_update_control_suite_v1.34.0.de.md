@@ -1,5 +1,7 @@
 # Produktupdate Control Suite V1.34.0
 
+### Veröffentlicht am: 14.08.2024
+
 ## Produkt-Update für Control Suite: Verbesserte Produktlinien-Filter, Wissensdatenbank und neue Tutorial-Funktionen
 
 Wir freuen uns, Ihnen mehrere wichtige Updates in der Control Suite vorstellen zu können, die Ihre Benutzererfahrung verbessern und Ihren Arbeitsablauf optimieren. Dieses Release enthält neue Funktionen für Produktlinien-Filter, Verbesserungen der Tutorial-Oberfläche und eine neue Wissensdatenbank, die darauf abzielt, Ihre Interaktionen mit der Control Suite intuitiver und effizienter zu gestalten. Nachfolgend finden Sie eine detaillierte Übersicht der Neuerungen und Verbesserungen!

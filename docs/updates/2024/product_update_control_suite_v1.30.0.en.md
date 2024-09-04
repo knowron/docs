@@ -1,5 +1,7 @@
 # Product Update Control Suite V1.30.0
 
+### Released on: 30.06.2024
+
 ## Product Update on Control Suite: Logbook Update, Voice Capture in Articles, and Fixes!
 
 We’re excited to share a range of new features and improvements that will enhance your experience with Control Suite. From new functionalities to important fixes, our latest updates are designed to streamline your workflow and improve usability. Here's a rundown of what’s new!
