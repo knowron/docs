@@ -7,6 +7,7 @@ Besuchen Sie die Unterseiten, um mehr zu erfahren!
 ## 2024
 
 ### Control Suite
+- [Produktupdate Control Suite v1.36.0](2024/product_update_control_suite_v1.36.0.de.md)
 - [Produktupdate Control Suite v1.35.0](2024/product_update_control_suite_v1.35.0.de.md)
 - [Produktupdate Control Suite v1.34.0](2024/product_update_control_suite_v1.34.0.de.md)
 - [Produktupdate Control Suite v1.33.0](2024/product_update_control_suite_v1.33.0.de.md)
