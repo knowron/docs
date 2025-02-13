@@ -80,7 +80,7 @@ Your feedback is essential for improving the Ask Assistant feature. If you find 
 - **Upvote Helpful Answers:** Let us know when the Assistant meets or exceeds your expectations.
 
 <p align="center">
-    <img src="https://i.imgur.com/BdmdwXd.png" width="50%">
+    <img src="https://i.imgur.com/BdmdwXd.png" width="70%">
 </p>
 
 By using these feedback tools, you contribute to enhancing the system's accuracy and relevance over time.
@@ -99,7 +99,7 @@ To begin a fresh interaction with the Ask Assistant, you can reset the conversat
 - Ideal when you want to switch topics or start a new inquiry unrelated to the previous one.
 
 <p align="center">
-    <img src="https://i.imgur.com/5ZDGpXj.png" width="20%">
+    <img src="https://i.imgur.com/5ZDGpXj.png" width="30%">
 </p>
 
 ### 2. **Refresh the Page**
