@@ -29,3 +29,5 @@ Managing machines is now easier than ever. With this update, users can:
 <p align="center" style="padding: 20px;"><img src="https://i.imgur.com/Jv79XRJ.gif" width="90%"></p>
 
 These changes eliminate confusion and improve the organization of machine portfolios for both users and their clients. Tracking and managing machines is now more streamlined, ensuring greater efficiency and accuracy.
+
+?
