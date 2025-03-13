@@ -5,7 +5,7 @@
 Wir haben die KNOWRON App neu gestaltet, um eine **nahtlosere, effizientere und asset-fokussierte** Benutzererfahrung zu bieten. Das neue Design führt eine **strukturierte Tab-Leiste** ein, die eine bessere Navigation ermöglicht und Ihnen schnellen Zugriff auf alle wichtigen Funktionen bietet. Mit diesem Update war es noch nie so einfach, Informationen zu finden, Assets zu verwalten und mit dem Ask Assistant zu interagieren.  
 
 [comment]: KNOWRON-ONLY-START
-<div style="position: relative; padding-bottom: 56.9620253164557%; height: 0;"><iframe src="https://www.loom.com/embed/d6838879fe1b4a6085aca0a7b3c99095?sid=26cee7fd-9185-4550-be2a-7bcfaf22cc1e" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.9620253164557%; height: 0;"><iframe src="https://www.loom.com/embed/70849c427b324d9a86b135f690508c0b?sid=0b7088f6-d980-4d03-bf5d-85c2531e8ee9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 [comment]: KNOWRON-ONLY-END
 
 ## 🔄 Überarbeitete Tab-Leiste: Schnellere & Strukturiert Navigation  
