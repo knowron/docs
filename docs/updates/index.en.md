@@ -4,6 +4,11 @@ Hello! In this page, we try to keep you up-to-date for all the features and chan
 
 Visit the child pages to learn more!
 
+## 2025
+
+### Native Assistant
+- [Product Update Native Assistant v2.00.0](2025/product_update_native_assistant_v2.00.0.en.md)
+
 ## 2024
 
 ### Control Suite
