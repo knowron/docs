@@ -3,6 +3,9 @@
 ## What is subtenancy?
 Subtenancy lets our primary customers (**Main Tenants**) give branded, self-service access to their own customers (**Subtenants**) while keeping sensitive data protected. With subtenancy, clients can **white-label** KNOWRON, resell it, or simply invite end-customers into a controlled workspace—all without extra IT overhead. 
 
+<p align="center"><img src="https://i.imgur.com/FJn7Ei0.png" width="100%"></p>
+<p align="center"><em>Whitelabeled solution for Acme GmbH (main tenant), which has given Client AG (subtenant) access to their own instance, where both Acme GmbH and Client AG machines are available.</em></p>
+
 Subtenants receive **full access to all KNOWRON features** for their own products and machines, while maintaining restricted read-only rights to the content their main tenants have decided should be visible.
 
 Specifically, subtenancy enables: 
@@ -37,9 +40,6 @@ graph TD;
     SubA --> UserA2;
     SubB --> UserB1;
 ```
-
-<p align="center"><img src="https://i.imgur.com/FJn7Ei0.png" width="100%"></p>
-<p align="center"><em>Whitelabeled solution for Acme GmbH (main tenant), which has given Client AG (subtenant) access to their own instance, where both Acme GmbH and Client AG machines are available.</em></p>
 
 ### Practical Example
 

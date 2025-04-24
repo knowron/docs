@@ -3,6 +3,9 @@
 # Was ist Subtenancy?
 Subtenancy ermöglicht es unseren **Main Tenants** (Primärkunden), ihren **Subtenants** (Kunden) einen gebrandeten Self-Service-Zugang zu geben und gleichzeitig sensible Daten zu schützen. Mit Subtenancy können Kunden KNOWRON **white-labeln**, weiterverkaufen oder Endkunden einfach in einen kontrollierten Arbeitsbereich einladen – ganz ohne zusätzlichen IT-Aufwand.  
 
+<p align="center"><img src="https://i.imgur.com/FJn7Ei0.png" width="100%"></p>
+<p align="center"><em>Whitelabeled solution for Acme GmbH (main tenant), which has given Client AG (subtenant) access to their own instance, where both Acme GmbH and Client AG machines are available.</em></p>
+
 Subtenants erhalten **vollen Zugriff auf alle KNOWRON-Funktionen** für ihre eigenen Produkte und Maschinen, verfügen jedoch nur über Lesezugriff auf Inhalte, die ihre Main Tenants ausdrücklich freigegeben haben.
 
 Konkret ermöglicht Subtenancy:  
