@@ -1,6 +1,6 @@
 # Subtenancy in KNOWRON
 
-## 1. Purpose
+## What is subtenancy?
 Subtenancy lets our primary customers (**Main Tenants**) give branded, self-service access to their own customers (**Subtenants**) while keeping sensitive data protected. With subtenancy, clients can **white-label** KNOWRON, resell it, or simply invite end-customers into a controlled workspace—all without extra IT overhead. 
 
 Subtenants receive **full access to all KNOWRON features** for their own products and machines, while maintaining restricted read-only rights to the content their main tenants have decided should be visible.
@@ -69,5 +69,4 @@ graph TD;
 
 ---
 
-## Summary
 Subtenancy in KNOWRON gives you the perfect balance: you stay in control, your customers stay empowered, and everyone wins. Ready to unlock subtenancy? **Contact our Sales team today.**
