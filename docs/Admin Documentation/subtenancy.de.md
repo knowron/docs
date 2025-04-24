@@ -39,9 +39,6 @@ graph TD;
     SubB --> UserB1;
 ```
 
-<p align="center"><img src="https://i.imgur.com/FJn7Ei0.png" width="100%"></p>
-<p align="center"><em>Weißgelabelte Lösung für Acme GmbH (Main Tenant), die Client AG (Subtenant) Zugang zu ihrer Instanz gewährt hat, in der sowohl Acme- als auch Client-AG-Maschinen verfügbar sind.</em></p>
-
 ### Praxisbeispiel
 
 1. **Main Tenant** „Acme GmbH“ lädt das „Placement-Machine-X-Wartungshandbuch“ zu seinem Produkt „Placement Machine X“ hoch und markiert es als **Public**.  
