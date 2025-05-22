@@ -19,7 +19,7 @@ Start a conversation with the assistant. It can help you reach a specific asset,
     Example Query: “Write an email explaining the above. Write it in Portuguese please.”
 
 <p align="center">
-    <img src="https://i.imgur.com/ZjFXWQN.gif" width="80%">
+    <img src="https://i.imgur.com/rYHcAiJ.gif" width="80%">
 </p>
 
 ### 2. **Search**
@@ -31,7 +31,7 @@ When asking a question or manually activating the Search skill manually, the Ass
     Example Query: “Did this machine get a head replacement recently?”
 
 <p align="center">
-    <img src="https://i.imgur.com/hbsZyi9.gif" width="80%">
+    <img src="https://i.imgur.com/oPfn9lk.gif" width="80%">
 </p>
 
 ### 3. **Document Match**
@@ -43,7 +43,7 @@ The goal is to ensure you can access information from a single place and for the
     Example Query: “Let me get the conformity declaration”
 
 <p align="center">
-    <img src="https://i.imgur.com/ck9wfyV.gif" width="80%">
+    <img src="https://i.imgur.com/WfauEQF.gif" width="80%">
 </p>
 
 ---

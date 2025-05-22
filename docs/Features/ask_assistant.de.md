@@ -20,7 +20,7 @@ Starten Sie ein Gespräch mit dem Assistant. Er kann Ihnen helfen, ein bestimmte
     Beispielanfrage: „Schreiben Sie eine E-Mail, in der Sie das oben Genannte erklären. Schreiben Sie sie bitte auf Portugiesisch.“
 
 <p align="center">
-    <img src="https://i.imgur.com/9rFjzOW.gif" width="80%">
+    <img src="https://i.imgur.com/xEPcmC4.gif" width="80%">
 </p>
 
 ### 2. **Search**
@@ -33,7 +33,7 @@ Wenn Sie eine Frage stellen oder die Suche manuell aktivieren, durchsucht der As
     Beispielanfrage: „Hat diese Maschine kürzlich einen Kopfwechsel erhalten?“
 
 <p align="center">
-    <img src="https://i.imgur.com/FS4bTIn.gif" width="80%">
+    <img src="https://i.imgur.com/TU109Sr.gif" width="80%">
 </p>
 
 ### 3. **Document Match**
@@ -46,7 +46,7 @@ Ziel ist, dass Sie von einem zentralen Ort aus auf Informationen zugreifen könn
     Beispielanfrage: „Zeig mir die Konformitätserklärung“
 
 <p align="center">
-    <img src="https://i.imgur.com/oqpTrNT.gif" width="80%">
+    <img src="https://i.imgur.com/LwEBykm.gif" width="80%">
 </p>
 
 ---
