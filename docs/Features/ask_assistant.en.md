@@ -74,7 +74,7 @@ If the results aren't what you expected:
 ### **1. Be Specific**
 Instead of asking "How does this work?" try:
 
-- "How do I calibrate the energy inverter for a new boapanel installationrd?"
+- "How do I calibrate the energy inverter for a new solar panel?"
 - "What are the troubleshooting steps for a misaligned conveyor belt in Line 3?"
 
 ### **2. Leverage Feedback**
