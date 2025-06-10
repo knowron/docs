@@ -2,9 +2,7 @@
 
 Die **Ask Assistant**-Funktion ist Ihr Zugang zu KI-gestütztem Wissensmanagement auf der KNOWRON-Plattform. Sie ermöglicht Ihnen, präzise und detaillierte Antworten auf Ihre Fragen zu erhalten. Wenn Sie ihre Fähigkeiten kennen und effektiv nutzen, steigern Sie Ihre Produktivität und finden in kürzester Zeit die relevantesten Informationen.
 
-<p align="center">
-    <img src="https://i.imgur.com/6o7r2ML.gif" width="80%">
-</p>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/0827c60ca6e649c6b9ea74eaf5457c02?sid=9ae125ee-b9a7-4682-b440-526985e136c6" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
 
