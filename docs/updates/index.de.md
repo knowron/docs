@@ -6,7 +6,7 @@ Besuchen Sie die Unterseiten, um mehr zu erfahren!
 ## 2025
 
 ### Control Suite
-- [Produktupdate Control Suite v2.00.0](2024/product_update_control_suite_v2.00.0.de.md)
+- [Produktupdate Control Suite v2.00.0](2025/product_update_control_suite_v2.00.0.de.md)
 
 ### Native Assistant
 - [Produktupdate Native Assistant v2.00.0](2025/product_update_native_assistant_v2.00.0.de.md)
