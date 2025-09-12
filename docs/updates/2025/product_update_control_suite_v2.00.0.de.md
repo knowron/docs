@@ -39,7 +39,7 @@ Ask Assistant ist mehr als nur Suche. Es ist ein **konversationaler KI-Copilot**
 
 ## **🖥️ So funktioniert’s**
 
-1. Gehe auf die Seite eines Assets: Produkts oder Maschine.  
+1. Gehe auf die Seite eines Assets: Produkt oder Maschine.  
 
     <p align="center" style="padding: 20px;"><img src="https://i.imgur.com/s2zpI99.png" width="90%"></p>
 
