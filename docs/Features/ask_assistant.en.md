@@ -124,6 +124,48 @@ Starting a new chat ensures:
 
 ---
 
+# **Focused vs. Open Mode**
+
+!!! warning Only available for admins
+    Please note that this feature is only turned in by default for admins. If you want this changed, please [contact us](mailto:support@knowron.com).
+
+## Overview  
+KNOWRON’s Assistant normally runs in **Focused Mode**, meaning it answers queries strictly using your company’s internal knowledge base.  
+
+With the new **Open Mode**, administrators can allow the system to also leverage the model’s broader training knowledge. In this mode, the assistant behaves more like a general AI assistant and can:  
+
+- **Draft content**: write emails, generate text, or create summaries.  
+- **Search beyond your company data**: answer questions not covered in your internal knowledge base.  
+- **Assist creatively**: help brainstorm, rephrase text, or provide general world knowledge.  
+- **Act like other AI assistants**: perform a wide range of general-purpose tasks, in addition to supporting your company-specific workflows.  
+
+---
+
+## Modes Explained  
+
+**Focused Mode (default)**  
+  - Answers restricted to your company’s internal knowledge.  
+  - Best for compliance, security, and accuracy in enterprise contexts.  
+
+**Open Mode**  
+  - Expands the scope to include the model’s general knowledge.  
+  - Useful for open-ended, exploratory, or creative queries.  
+
+
+## Access Control  
+- **Only administrators** can enable or disable Open Mode.  
+- Regular users will not see this setting.  
+
+
+## Request Deactivation  
+If you would like this feature to be disabled for your organization, please contact us:  
+
+📧 [**support@knowron.com**](mailto:support@knowron.com)
+
+Our team will be happy to assist.  
+
+---
+
 ## Upcoming Features
 
 ### 1. **New Skills**

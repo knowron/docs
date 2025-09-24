@@ -121,6 +121,45 @@ Um eine neue Interaktion zu beginnen, setzen Sie den Gesprächskontext zurück:
 - Sie erhalten fokussierte und präzise Interaktionen, wenn Sie das Thema wechseln.
 
 ---
+# **Fokus vs. Offener Modus**
+
+!!! warning Nur für Administratoren verfügbar
+    Bitte beachten Sie, dass diese Funktion standardmäßig nur für Administratoren aktiviert ist. Wenn Sie möchten, dass dies geändert wird, [kontaktieren Sie uns](mailto:support@knowron.com).
+
+## Überblick  
+Der KNOWRON-Assistent läuft normalerweise im **Fokus Modus**, was bedeutet, dass er Anfragen ausschließlich mit dem internen Wissensbestand Ihres Unternehmens beantwortet.  
+
+Mit dem neuen **Offenen Modus** können Administratoren dem System erlauben, auch auf das breitere Trainingswissen des Modells zuzugreifen. In diesem Modus verhält sich der Assistent mehr wie ein allgemeiner KI-Assistent und kann:  
+
+- **Inhalte verfassen**: E-Mails schreiben, Texte generieren oder Zusammenfassungen erstellen.  
+- **Über die Unternehmensdaten hinaus suchen**: Fragen beantworten, die nicht in Ihrer internen Wissensbasis abgedeckt sind.  
+- **Kreativ unterstützen**: beim Brainstorming helfen, Texte umformulieren oder allgemeines Weltwissen bereitstellen.  
+- **Wie andere KI-Assistenten agieren**: ein breites Spektrum an allgemeinen Aufgaben erfüllen – zusätzlich zur Unterstützung Ihrer unternehmensspezifischen Workflows.  
+
+
+## Modi erklärt  
+
+**Fokus Modus (Standard)**  
+  - Antworten sind auf das interne Wissen Ihres Unternehmens beschränkt.  
+  - Am besten geeignet für Compliance, Sicherheit und Genauigkeit im Unternehmenskontext.  
+
+**Offener Modus**  
+  - Erweitert den Umfang auf das allgemeine Wissen des Modells.  
+  - Nützlich für offene, explorative oder kreative Anfragen.  
+
+
+## Zugriffskontrolle  
+- **Nur Administratoren** können den Offenen Modus aktivieren oder deaktivieren.  
+- Normale Benutzer sehen diese Einstellung nicht.  
+
+
+## Deaktivierungsanfrage  
+Wenn Sie möchten, dass diese Funktion für Ihre Organisation deaktiviert wird, kontaktieren Sie uns bitte:  
+
+📧 [**support@knowron.com**](mailto:support@knowron.com)
+
+Unser Team hilft Ihnen gerne weiter.  
+---
 
 ## **Bevorstehende Funktionen**
 
