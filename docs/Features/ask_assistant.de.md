@@ -102,9 +102,9 @@ So tragen Sie dazu bei, Genauigkeit und Relevanz des Systems langfristig zu stei
 
 Um eine neue Interaktion zu beginnen, setzen Sie den Gesprächskontext zurück:
 
-### 1. **„Neue Unterhaltung“-Button**
+### 1. **„Neues Gespräch-Button**
 
-- Klicken Sie auf **„Neue Unterhaltung“** in der Oberfläche.  
+- Klicken Sie auf **„Neues Gespräch** in der Oberfläche.  
 - Der alte Kontext wird gelöscht, und Sie starten mit einer leeren Sitzung – ideal zum Themenwechsel.
 
 <p align="center">
@@ -169,4 +169,4 @@ Wir planen, weitere Fähigkeiten einzuführen, um Dokumentationsprozesse zu auto
 
 ### 2. **Chat-Verlauf**
 
-Durch das Speichern Ihrer bisherigen Interaktionen können zukünftige Sitzungen fortgesetzt und frühere Unterhaltungen bei Bedarf wieder aufgenommen werden.
+Durch das Speichern Ihrer bisherigen Interaktionen können zukünftige Sitzungen fortgesetzt und frühere Chats bei Bedarf wieder aufgenommen werden.
