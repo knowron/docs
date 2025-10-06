@@ -1,4 +1,4 @@
-# Product Update Native Assistant V2.00.0
+# Introducing the KNOWRON App 2.0
 
 ## 📱 KNOWRON App Redesign: A More Intuitive & Asset-Centric Experience  
 
