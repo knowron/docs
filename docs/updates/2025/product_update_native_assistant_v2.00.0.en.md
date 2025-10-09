@@ -5,7 +5,7 @@
 We’ve redesigned the KNOWRON app to provide a **more seamless, efficient, and asset-focused** experience. The new design introduces a **structured tab bar** for better navigation, giving you quick access to essential features. With this update, finding information, managing assets, and interacting with the Ask Assistant has never been easier. 
 
 [comment]: KNOWRON-ONLY-START
-<div style="position: relative; padding-bottom: 56.9620253164557%; height: 0;"><iframe src="https://www.loom.com/embed/2307f98e300f472699d0e464970ea73a?sid=dccfe74a-a0d7-473c-af87-c42c00859987" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.9620253164557%; height: 0;"><iframe src="https://www.loom.com/embed/0d49898a1eeb4e36a364b99e459b4a2a?sid=c32ab0d9-1705-4833-a871-ab3fe9d76bc1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 [comment]: KNOWRON-ONLY-END
 
 ## 🔄 Revamped Tab Bar: Faster & More Structured Navigation  
