@@ -1,6 +1,7 @@
 # 🌐 Supported Languages
 
 Our platform supports the following languages:
+
 -	🇩🇪 German
 -	🇪🇸 Spanish
 -	🇮🇹 Italian
