@@ -18,6 +18,7 @@ Unsere Plattform unterstützt die folgenden Sprachen:
 ## 🧩 Details zur Sprachunterstützung
 
 Eine **unterstützte Sprache** bedeutet:  
+
 - Die gesamte **Benutzeroberfläche (UI)** ist vollständig in diese Sprache übersetzt.  
 - **Dokumentenverarbeitung**, **Abruf** und **Assistentenfunktionen** funktionieren in dieser Sprache am besten.  
 
@@ -26,6 +27,7 @@ Eine **unterstützte Sprache** bedeutet:
 ## 📚 Verfügbarkeit von Dokumentation und Support
 
 Wir bieten derzeit an:  
+
 - **Dokumentation** auf **Englisch** 🇬🇧 und **Deutsch** 🇩🇪  
 - **E-Mail-Support** auf **Englisch** 🇬🇧 und **Deutsch** 🇩🇪  
 

@@ -18,6 +18,7 @@ Our platform supports the following languages:
 ## 🧩 Language Support Details
 
 A supported language means that:
+
 -	The entire user interface (UI) is fully translated into that language.
 -	Document processing, retrieval, and assistant functionalities work best in that language.
 
@@ -26,8 +27,9 @@ A supported language means that:
 ## 📚 Documentation and Support Availability
 
 We currently offer:
--	Documentation in English 🇬🇧 and German 🇩🇪
--	Email support in English 🇬🇧 and German 🇩🇪
+
+- Documentation in English 🇬🇧 and German 🇩🇪
+- Email support in English 🇬🇧 and German 🇩🇪
 
 ---
 
