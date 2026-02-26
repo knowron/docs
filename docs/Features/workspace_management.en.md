@@ -6,6 +6,8 @@
 
 Workspace Management gives you direct control over who in your organization sees what content, down to the individual machine. No waiting on KNOWRON, no back-and-forth with support. You set it up, you manage it.
 
+<p align="center"><img src="https://i.imgur.com/UYBBMTK.png" width="100%"></p>
+
 ## What is a Workspace?
 
 A Workspace defines a curated view of KNOWRON for a specific team or audience. Think of it as giving different groups their own tailored experience: your sales team sees what they need, your technicians see what they need, and content does not bleed between them.
@@ -42,7 +44,7 @@ This means every product always has a home, and users stay in control of where n
 
 Navigate to **Settings -> Workspace Management** in the Control Suite.
 
-<p align="center"><img src="PLACEHOLDER_SCREENSHOT" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/2V14ahc.png" width="100%"></p>
 
 ## What can you do?
 
