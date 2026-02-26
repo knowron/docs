@@ -6,17 +6,11 @@
 
 Workspace Management gives you direct control over who in your organization sees what content, down to the individual machine. No waiting on KNOWRON, no back-and-forth with support. You set it up, you manage it.
 
-<p align="center"><img src="PLACEHOLDER_EXPLAINER_IMAGE" width="100%"></p>
-
 ## What is a Workspace?
 
 A Workspace defines a curated view of KNOWRON for a specific team or audience. Think of it as giving different groups their own tailored experience: your sales team sees what they need, your technicians see what they need, and content does not bleed between them.
 
-A few key points:
-
-- Content is **not visible by default** in any Workspace. Visibility requires an explicit decision by an admin.
-- Anything a Workspace creates internally stays **private** to that Workspace.
-- Content can be made visible in the Workspaces you choose.
+<p align="center"><img src="https://i.imgur.com/XI3ULBw.png" width="100%"></p>
 
 !!! note "Workspaces and Client Spaces are separate"
 
@@ -59,14 +53,6 @@ From the Workspace Management screen you can create new Workspaces and view all 
 ### Control content visibility
 
 A dedicated **Workspace Administration** page lets you define exactly which products and machines are visible in each Workspace. Visibility changes require an explicit action from an admin, so content never leaks accidentally.
-
-### Invite and manage users
-
-Workspace admins can be invited directly by your organization. Once onboarded, they can invite and manage users within their own Workspace independently, with no KNOWRON involvement needed.
-
-### Monitor seat usage
-
-The dashboard shows how many Workspace seats you have already assigned across all active Workspaces, so you always know where you stand.
 
 ## Related pages
 
