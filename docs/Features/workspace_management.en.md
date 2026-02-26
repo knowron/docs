@@ -12,13 +12,15 @@ Workspace Management gives you direct control over who in your organization sees
 
 A Workspace defines a curated view of KNOWRON for a specific team or audience. Think of it as giving different groups their own tailored experience: your sales team sees what they need, your technicians see what they need — and content doesn't bleed between them.
 
-Workspaces build on top of [Subtenancy](../Admin%20Documentation/subtenancy.en.md): each Workspace is a subtenant that your organization administers directly.
-
 A few key points:
 
-- Content is **not visible by default** in any Workspace — visibility requires an explicit decision by a main tenant admin.
+- Content is **not visible by default** in any Workspace — visibility requires an explicit decision by an admin.
 - Anything a Workspace creates internally stays **private** to that Workspace.
 - Main tenant content marked as visible is available to the Workspaces you choose.
+
+!!! note "Workspaces and Client Spaces are separate"
+
+    Workspaces and [Client Spaces](../Admin%20Documentation/subtenancy.en.md) are distinct features and do not interact. Client Space users do not have access to Workspaces.
 
 ## Where to find it
 
@@ -58,6 +60,6 @@ The dashboard shows how many Workspace seats you have already assigned across al
 
 ## Related pages
 
-- [Subtenancy in KNOWRON](../Admin%20Documentation/subtenancy.en.md)
+- [Client Spaces](../Admin%20Documentation/subtenancy.en.md)
 - [Roles and Permissions](../Admin%20Documentation/Security%20and%20Access/roles_and_permissions.en.md)
 - [Product Access Groups](../Admin%20Documentation/Security%20and%20Access/product_access_groups.en.md)
