@@ -22,11 +22,11 @@ A Workspace defines a curated view of KNOWRON for a specific team or audience. T
 
 Every organization has two special Workspaces that can be configured independently or set to the same Workspace.
 
-### Global Workspace
+### 🌍 Global Workspace
 
 The Global Workspace contains all products, no matter what. Every product in your organization is always visible here. This ensures that no product is ever "orphaned" without a Workspace, which would break core product functionality.
 
-### Default Workspace
+### 🔒 Default Workspace
 
 The Default Workspace is the Workspace new users are automatically assigned to when they join your organization.
 
