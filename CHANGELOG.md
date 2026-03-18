@@ -2,6 +2,11 @@
 
 This file logs every change made to the documentation by Claude Code. One entry per session or batch of related changes.
 
+## 2026-03-18 — TODO-16: Create Public Landing Pages page
+- Created `docs/Features/public_landing_pages.en.md` — feature page covering landing page contents, three access tiers (Public/All Clients/Internal), Assistant Credits, key capabilities, and DPP/EU Machinery Regulation as a compliance use case
+- Created `docs/Features/public_landing_pages.de.md` — German translation
+- Added `Features/public_landing_pages.md` to the nav in `mkdocs.yml` under Control Suite Features
+
 ## 2026-03-18 — TODO-34: Delete non-EN/DE language variants
 - Deleted all `.es.md`, `.it.md`, `.pl.md`, `.zh.md` files (8 files under `docs/Features/Articles/`)
 
