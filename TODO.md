@@ -56,17 +56,11 @@ This file tracks documentation tasks. Update it as you work.
 - [ ] **TODO-25** Create page for **Weekly Draft Summary Email** (Core) — what it is, how to configure recipients | Priority: Low | Affects: en, de | File(s): `docs/Features/weekly_summary_email.md` | Draft: `_context/_drafts/weekly_summary_email.md`
 - [ ] **TODO-26** Expand `docs/Features/Articles/article_voice_capture.md` to fully cover **AI-powered hands-free knowledge capture** — currently covers voice in articles only; should cover logbook voice input too | Priority: Medium | Affects: en, de | Draft: `_context/_drafts/voice_capture.md`
 
----
-
-## Updates Section
-
-- [ ] **TODO-27** Write product update entry for any releases after v2.0.0 (early 2025) | Priority: High | File(s): `docs/updates/2025/`
 
 ---
 
 ## Cleanup & Deletion
 
-- [ ] **TODO-34** Delete all non-English and non-German page variants — i.e. all `.es.md`, `.it.md`, `.pl.md`, `.zh.md` files across the entire `docs/` directory | Priority: Medium | File(s): all `docs/**/*.es.md`, `docs/**/*.it.md`, `docs/**/*.pl.md`, `docs/**/*.zh.md`
 
 ---
 
@@ -84,4 +78,5 @@ This file tracks documentation tasks. Update it as you work.
 - [x] **TODO-30** Delete `docs/Features/language_priority_in_search.en.md` and `.de.md`; remove from `mkdocs.yml` nav | Completed: 2026-03-18
 - [x] **TODO-32** Delete the entire `docs/updates/` directory and remove the Updates entry from `mkdocs.yml` nav | Completed: 2026-03-18
 - [x] **TODO-33** Rename subtenancy pages to `client_spaces`; replace all "Subtenant"/"Subtenancy" references with "Client Space"/"Client Spaces" across docs and `mkdocs.yml` | Completed: 2026-03-18
+- [x] **TODO-34** Delete all non-English and non-German page variants (`.es.md`, `.it.md`, `.pl.md`, `.zh.md`) | Completed: 2026-03-18
 - [x] **TODO-31** Delete `docs/Admin Documentation/Security and Access/product_access_groups.en.md` and `.de.md`; remove from `mkdocs.yml` nav | Completed: 2026-03-18

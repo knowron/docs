@@ -2,6 +2,9 @@
 
 This file logs every change made to the documentation by Claude Code. One entry per session or batch of related changes.
 
+## 2026-03-18 — TODO-34: Delete non-EN/DE language variants
+- Deleted all `.es.md`, `.it.md`, `.pl.md`, `.zh.md` files (8 files under `docs/Features/Articles/`)
+
 ## 2026-03-18 — TODO-33: Rename subtenancy to client_spaces
 - Renamed `docs/Admin Documentation/subtenancy.en.md` → `client_spaces.en.md` and `.de.md` → `client_spaces.de.md`
 - Replaced all "Subtenancy"/"Subtenant"/"Subtenants" with "Client Spaces"/"Client Space" throughout both files
