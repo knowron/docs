@@ -22,7 +22,7 @@ Ein Workspace definiert eine eingeschränkte Ansicht von KNOWRON für ein bestim
 
 !!! note "Workspaces und Client Spaces sind getrennt"
 
-    Workspaces und [Client Spaces](../Admin%20Documentation/subtenancy.de.md) sind eigenstandige Funktionen und interagieren nicht miteinander. Benutzer eines Client Spaces haben keinen Zugriff auf Workspaces.
+    Workspaces und [Client Spaces](../Admin%20Documentation/client_spaces.de.md) sind eigenstandige Funktionen und interagieren nicht miteinander. Benutzer eines Client Spaces haben keinen Zugriff auf Workspaces.
 
 ## Besondere Workspaces
 
@@ -64,7 +64,7 @@ Uber eine eigene Seite zur **Workspace-Administration** legen Sie genau fest, we
 
 ## Verwandte Seiten
 
-- [Client Spaces](../Admin%20Documentation/subtenancy.de.md)
+- [Client Spaces](../Admin%20Documentation/client_spaces.de.md)
 - [Rollen und Berechtigungen](../Admin%20Documentation/Security%20and%20Access/roles_and_permissions.de.md)
 - [Produkt-Zugriffsgruppen](../Admin%20Documentation/Security%20and%20Access/product_access_groups.de.md)
 

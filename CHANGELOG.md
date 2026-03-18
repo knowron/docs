@@ -2,6 +2,12 @@
 
 This file logs every change made to the documentation by Claude Code. One entry per session or batch of related changes.
 
+## 2026-03-18 — TODO-33: Rename subtenancy to client_spaces
+- Renamed `docs/Admin Documentation/subtenancy.en.md` → `client_spaces.en.md` and `.de.md` → `client_spaces.de.md`
+- Replaced all "Subtenancy"/"Subtenant"/"Subtenants" with "Client Spaces"/"Client Space" throughout both files
+- Updated nav in `mkdocs.yml` from `subtenancy.md` to `client_spaces.md`
+- Updated links in `docs/Features/workspace_management.en.md` and `.de.md`
+
 ## 2026-03-18 — TODO-32: Delete docs/updates/ directory
 - Deleted the entire `docs/updates/` directory (2022, 2023, 2024, 2025 subdirectories and all files)
 - Removed the `Updates` entry from the nav in `mkdocs.yml`
