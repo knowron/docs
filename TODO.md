@@ -66,7 +66,6 @@ This file tracks documentation tasks. Update it as you work.
 
 ## Cleanup & Deletion
 
-- [ ] **TODO-34** Delete all non-English and non-German page variants — i.e. all `.es.md`, `.it.md`, `.pl.md`, `.zh.md` files across the entire `docs/` directory | Priority: Medium | File(s): all `docs/**/*.es.md`, `docs/**/*.it.md`, `docs/**/*.pl.md`, `docs/**/*.zh.md`
 
 ---
 
@@ -84,4 +83,5 @@ This file tracks documentation tasks. Update it as you work.
 - [x] **TODO-30** Delete `docs/Features/language_priority_in_search.en.md` and `.de.md`; remove from `mkdocs.yml` nav | Completed: 2026-03-18
 - [x] **TODO-32** Delete the entire `docs/updates/` directory and remove the Updates entry from `mkdocs.yml` nav | Completed: 2026-03-18
 - [x] **TODO-33** Rename subtenancy pages to `client_spaces`; replace all "Subtenant"/"Subtenancy" references with "Client Space"/"Client Spaces" across docs and `mkdocs.yml` | Completed: 2026-03-18
+- [x] **TODO-34** Delete all non-English and non-German page variants (`.es.md`, `.it.md`, `.pl.md`, `.zh.md`) | Completed: 2026-03-18
 - [x] **TODO-31** Delete `docs/Admin Documentation/Security and Access/product_access_groups.en.md` and `.de.md`; remove from `mkdocs.yml` nav | Completed: 2026-03-18
