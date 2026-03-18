@@ -66,7 +66,6 @@ A dedicated **Workspace Administration** page lets you define exactly which prod
 
 - [Client Spaces](../Admin%20Documentation/subtenancy.en.md)
 - [Roles and Permissions](../Admin%20Documentation/Security%20and%20Access/roles_and_permissions.en.md)
-- [Product Access Groups](../Admin%20Documentation/Security%20and%20Access/product_access_groups.en.md)
 
 ## Full Walkthrough
 

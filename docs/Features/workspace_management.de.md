@@ -66,7 +66,6 @@ Uber eine eigene Seite zur **Workspace-Administration** legen Sie genau fest, we
 
 - [Client Spaces](../Admin%20Documentation/subtenancy.de.md)
 - [Rollen und Berechtigungen](../Admin%20Documentation/Security%20and%20Access/roles_and_permissions.de.md)
-- [Produkt-Zugriffsgruppen](../Admin%20Documentation/Security%20and%20Access/product_access_groups.de.md)
 
 ## Komplette Anleitung
 
