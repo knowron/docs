@@ -56,11 +56,6 @@ This file tracks documentation tasks. Update it as you work.
 - [ ] **TODO-25** Create page for **Weekly Draft Summary Email** (Core) — what it is, how to configure recipients | Priority: Low | Affects: en, de | File(s): `docs/Features/weekly_summary_email.md` | Draft: `_context/_drafts/weekly_summary_email.md`
 - [ ] **TODO-26** Expand `docs/Features/Articles/article_voice_capture.md` to fully cover **AI-powered hands-free knowledge capture** — currently covers voice in articles only; should cover logbook voice input too | Priority: Medium | Affects: en, de | Draft: `_context/_drafts/voice_capture.md`
 
----
-
-## Updates Section
-
-- [ ] **TODO-27** Write product update entry for any releases after v2.0.0 (early 2025) | Priority: High | File(s): `docs/updates/2025/`
 
 ---
 
