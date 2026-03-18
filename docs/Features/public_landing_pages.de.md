@@ -9,6 +9,36 @@
 
 ---
 
+## Digitaler Produktpass und EU-Compliance
+
+Öffentliche Landingpages eignen sich hervorragend für Unternehmen, die einen **Digitalen Produktpass (DPP)** aufbauen — eine maschinenspezifische Dokumentations- und Produktdatenakte, die dem physischen Gerät über seinen gesamten Lebenszyklus folgt.
+
+Die **EU-Maschinenverordnung (EU 2023/1230)** wird digitale Produktdokumentation ab 2027 rechtlich zulässig machen. OEMs können Dokumentationspflichten dann in digitaler Form erfüllen, anstatt Papierhandbücher zu drucken und zu verteilen. Für konforme digitale Dokumentation fordert die Verordnung, dass diese:
+
+- Leicht zugänglich ist
+- Nicht hinter einer Bezahlschranke liegt
+- 10 Jahre nach Inverkehrbringen der Maschine verfügbar ist
+
+KNOWRON übernimmt die dafür nötige Infrastruktur: Langzeit-Hosting, Dokumentversionskontrolle, maschinenspezifische Genauigkeit und garantierte Verfügbarkeit über den gesamten Compliance-Zeitraum. Der QR-Code bleibt auch bei Dokumentaktualisierungen gleich — kein Neudrucken erforderlich.
+
+!!! tip "Mehr als nur Compliance"
+    Eine gut strukturierte Landingpage ist auch ein digitaler Touchpoint für Support, Vertrieb und Marketing. Jede Maschine, die Sie ausliefern, wird zu einem direkten Kanal zu Ihren Kunden.
+
+---
+
+## Wichtige Funktionen
+
+| Funktion | Details |
+|---|---|
+| **Maschinenspezifische QR-Codes** | Jede Maschine erhält einen eindeutigen, dauerhaften QR-Code, den Sie an der physischen Einheit befestigen |
+| **Abgestufte Zugriffskontrolle** | Eine URL, drei Zielgruppen — Sie bestimmen, was jede Ebene sehen kann |
+| **KI-Assistent auf öffentlichen Seiten** | Anonyme Besucher können Fragen stellen; Antworten stammen nur aus ausgewählten Quellen |
+| **Langzeit-Hosting** | KNOWRON garantiert Verfügbarkeit und Dokumentenzugang über die gesamte Compliance-Laufzeit |
+| **Versionskontrolle** | Dokumentaktualisierungen werden automatisch übernommen — kein Neudrucken oder Weiterverteilen von QR-Codes nötig |
+| **PIN-Schutz** | Öffentlichen Zugang bei sensiblen Produkten optional hinter einem PIN schützen |
+
+---
+
 ## Was auf einer Landingpage steht
 
 Jede Landingpage ist mit einer bestimmten Maschine verknüpft und enthält:
@@ -62,36 +92,6 @@ Wenn ein öffentlicher (nicht angemeldeter) Nutzer über den KI-Assistenten auf 
 - Zusätzliche Credits können in Blöcken erworben werden
 
 Damit können Sie KI-gestützte Antworten für jeden anbieten, der Ihren QR-Code scannt — ohne Ihre gesamte Wissensbasis offenzulegen oder einen Login zu verlangen.
-
----
-
-## Digitaler Produktpass und EU-Compliance
-
-Öffentliche Landingpages eignen sich hervorragend für Unternehmen, die einen **Digitalen Produktpass (DPP)** aufbauen — eine maschinenspezifische Dokumentations- und Produktdatenakte, die dem physischen Gerät über seinen gesamten Lebenszyklus folgt.
-
-Die **EU-Maschinenverordnung (EU 2023/1230)** wird digitale Produktdokumentation ab 2027 rechtlich zulässig machen. OEMs können Dokumentationspflichten dann in digitaler Form erfüllen, anstatt Papierhandbücher zu drucken und zu verteilen. Für konforme digitale Dokumentation fordert die Verordnung, dass diese:
-
-- Leicht zugänglich ist
-- Nicht hinter einer Bezahlschranke liegt
-- 10 Jahre nach Inverkehrbringen der Maschine verfügbar ist
-
-KNOWRON übernimmt die dafür nötige Infrastruktur: Langzeit-Hosting, Dokumentversionskontrolle, maschinenspezifische Genauigkeit und garantierte Verfügbarkeit über den gesamten Compliance-Zeitraum. Der QR-Code bleibt auch bei Dokumentaktualisierungen gleich — kein Neudrucken erforderlich.
-
-!!! tip "Mehr als nur Compliance"
-    Eine gut strukturierte Landingpage ist auch ein digitaler Touchpoint für Support, Vertrieb und Marketing. Jede Maschine, die Sie ausliefern, wird zu einem direkten Kanal zu Ihren Kunden.
-
----
-
-## Wichtige Funktionen
-
-| Funktion | Details |
-|---|---|
-| **Maschinenspezifische QR-Codes** | Jede Maschine erhält einen eindeutigen, dauerhaften QR-Code, den Sie an der physischen Einheit befestigen |
-| **Abgestufte Zugriffskontrolle** | Eine URL, drei Zielgruppen — Sie bestimmen, was jede Ebene sehen kann |
-| **KI-Assistent auf öffentlichen Seiten** | Anonyme Besucher können Fragen stellen; Antworten stammen nur aus ausgewählten Quellen |
-| **Langzeit-Hosting** | KNOWRON garantiert Verfügbarkeit und Dokumentenzugang über die gesamte Compliance-Laufzeit |
-| **Versionskontrolle** | Dokumentaktualisierungen werden automatisch übernommen — kein Neudrucken oder Weiterverteilen von QR-Codes nötig |
-| **PIN-Schutz** | Öffentlichen Zugang bei sensiblen Produkten optional hinter einem PIN schützen |
 
 ---
 
