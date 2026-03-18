@@ -9,6 +9,36 @@ Public Landing Pages give every machine its own URL, accessible by scanning a QR
 
 ---
 
+## Digital Product Passports and EU compliance
+
+Public Landing Pages are well-suited for companies building a **Digital Product Passport (DPP)** — a machine-level record of documentation and product data that follows the physical asset throughout its lifecycle.
+
+The **EU Machinery Regulation (EU 2023/1230)** will make digital product documentation legally permissible from 2027. OEMs will be able to fulfill documentation requirements in digital form rather than printing and distributing paper manuals. For compliant digital documentation, the regulation requires that it be:
+
+- Easily accessible
+- Free of paywalls
+- Available for 10 years after the machine is placed on the market
+
+KNOWRON handles the infrastructure requirements for this: long-term hosting, document version control, machine-specific accuracy, and guaranteed availability throughout the compliance window. The QR code stays the same even as documentation is updated — no reprinting required.
+
+!!! tip "Beyond compliance"
+    A well-structured landing page is also a digital touchpoint for support, sales, and marketing. Every machine you ship becomes a direct channel to your customers.
+
+---
+
+## Key capabilities
+
+| Capability | Detail |
+|---|---|
+| **Per-machine QR codes** | Each machine gets a unique, permanent QR code you attach to the physical unit |
+| **Tiered access control** | One URL, three audiences — you choose what each tier can see |
+| **AI Assistant on public pages** | Anonymous visitors can ask questions; responses draw only from selected sources |
+| **Long-term hosting** | KNOWRON guarantees uptime and document availability throughout the compliance timeline |
+| **Version control** | Document updates are reflected automatically — no need to reprint or redistribute QR codes |
+| **PIN protection** | Optionally restrict public access behind a PIN for sensitive products |
+
+---
+
 ## What's on a landing page
 
 Each landing page is tied to a specific machine and contains:
@@ -62,36 +92,6 @@ When a public (non-logged-in) user asks a question through the AI Assistant on a
 - Additional credits can be purchased in blocks
 
 This allows you to offer AI-powered answers to anyone who scans your QR code — without exposing your full knowledge base or requiring a login.
-
----
-
-## Digital Product Passports and EU compliance
-
-Public Landing Pages are well-suited for companies building a **Digital Product Passport (DPP)** — a machine-level record of documentation and product data that follows the physical asset throughout its lifecycle.
-
-The **EU Machinery Regulation (EU 2023/1230)** will make digital product documentation legally permissible from 2027. OEMs will be able to fulfill documentation requirements in digital form rather than printing and distributing paper manuals. For compliant digital documentation, the regulation requires that it be:
-
-- Easily accessible
-- Free of paywalls
-- Available for 10 years after the machine is placed on the market
-
-KNOWRON handles the infrastructure requirements for this: long-term hosting, document version control, machine-specific accuracy, and guaranteed availability throughout the compliance window. The QR code stays the same even as documentation is updated — no reprinting required.
-
-!!! tip "Beyond compliance"
-    A well-structured landing page is also a digital touchpoint for support, sales, and marketing. Every machine you ship becomes a direct channel to your customers.
-
----
-
-## Key capabilities
-
-| Capability | Detail |
-|---|---|
-| **Per-machine QR codes** | Each machine gets a unique, permanent QR code you attach to the physical unit |
-| **Tiered access control** | One URL, three audiences — you choose what each tier can see |
-| **AI Assistant on public pages** | Anonymous visitors can ask questions; responses draw only from selected sources |
-| **Long-term hosting** | KNOWRON guarantees uptime and document availability throughout the compliance timeline |
-| **Version control** | Document updates are reflected automatically — no need to reprint or redistribute QR codes |
-| **PIN protection** | Optionally restrict public access behind a PIN for sensitive products |
 
 ---
 
