@@ -60,7 +60,6 @@ markdown_extensions:
 nav:
   - Intro: "index.md"
   - "FAQ": "faqs.md"
-  - "Updates": "updates"
 
   - Getting Started:
       - "Native Assistant (Mobile)": "Getting Started/quick-start-guide-assistant.md"
