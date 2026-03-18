@@ -2,6 +2,11 @@
 
 This file logs every change made to the documentation by Claude Code. One entry per session or batch of related changes.
 
+## 2026-03-18 — TODO-31: Delete product_access_groups pages
+- Deleted `docs/Admin Documentation/Security and Access/product_access_groups.en.md` and `.de.md`
+- Removed `Admin Documentation/Security and Access/product_access_groups.md` from the nav in `mkdocs.yml`
+- Moved TODO-30 and TODO-31 to Completed section in `TODO.md`
+
 ## 2026-03-18 — TODO-30: Delete language_priority_in_search pages
 - Deleted `docs/Features/language_priority_in_search.en.md` and `docs/Features/language_priority_in_search.de.md`
 - Removed `Features/language_priority_in_search.md` from the nav in `mkdocs.yml`

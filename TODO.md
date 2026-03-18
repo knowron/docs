@@ -66,8 +66,6 @@ This file tracks documentation tasks. Update it as you work.
 
 ## Cleanup & Deletion
 
-- [x] **TODO-30** Delete `docs/Features/language_priority_in_search.en.md` and `.de.md`; remove from `mkdocs.yml` nav | Priority: High | File(s): `docs/Features/language_priority_in_search.en.md`, `docs/Features/language_priority_in_search.de.md`, `mkdocs.yml`
-- [ ] **TODO-31** Delete `docs/Admin Documentation/Security and Access/product_access_groups.en.md` and `.de.md`; remove from `mkdocs.yml` nav | Priority: High | File(s): `docs/Admin Documentation/Security and Access/product_access_groups.en.md`, `docs/Admin Documentation/Security and Access/product_access_groups.de.md`, `mkdocs.yml`
 - [ ] **TODO-32** Delete the entire `docs/updates/` directory (all files and subdirectories); remove the Updates entry from `mkdocs.yml` nav | Priority: High | File(s): `docs/updates/`, `mkdocs.yml`
 - [ ] **TODO-33** Rename `docs/Admin Documentation/subtenancy.en.md` and `.de.md` to `client_spaces.en.md` and `.de.md`; replace all references to "Subtenant" / "Subtenancy" with "Client Space" / "Client Spaces" across all docs files and in `mkdocs.yml`; update nav entry accordingly | Priority: High | File(s): `docs/Admin Documentation/subtenancy.en.md`, `docs/Admin Documentation/subtenancy.de.md`, `mkdocs.yml`, any file containing "subtenant" or "subtenancy"
 - [ ] **TODO-34** Delete all non-English and non-German page variants — i.e. all `.es.md`, `.it.md`, `.pl.md`, `.zh.md` files across the entire `docs/` directory | Priority: Medium | File(s): all `docs/**/*.es.md`, `docs/**/*.it.md`, `docs/**/*.pl.md`, `docs/**/*.zh.md`
@@ -85,3 +83,5 @@ This file tracks documentation tasks. Update it as you work.
 
 <!-- Move tasks here when done, with date and ID. Example: -->
 <!-- - [x] **TODO-01** Description | Completed: 2026-03-18 -->
+- [x] **TODO-30** Delete `docs/Features/language_priority_in_search.en.md` and `.de.md`; remove from `mkdocs.yml` nav | Completed: 2026-03-18
+- [x] **TODO-31** Delete `docs/Admin Documentation/Security and Access/product_access_groups.en.md` and `.de.md`; remove from `mkdocs.yml` nav | Completed: 2026-03-18
