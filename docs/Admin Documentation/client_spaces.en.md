@@ -14,7 +14,7 @@ Specifically, Client Spaces enable:
 
 - **Data Sovereignty:** Anything a Client Space creates is automatically private to that Client Space.
 
-- **Effortless Scaling:** Main Tenants can onboard dozens of customers without new tenant setups.
+- **Effortless Scaling:** Main Tenants can onboard dozens of customers without complex setups.
 
 | Actor | What it means in KNOWRON |
 |-------|--------------------------|

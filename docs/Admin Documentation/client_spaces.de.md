@@ -12,7 +12,7 @@ Konkret ermöglichen Client Spaces:
 
 - **Self-Service:** Client Spaces lösen Routineprobleme mithilfe öffentlicher Dokumente selbst und reduzieren so Support-Tickets.
 - **Datensouveränität:** Alles, was ein Client Space erstellt, ist automatisch nur für diesen Client Space sichtbar.
-- **Mühelose Skalierung:** Main Tenants können dutzende Kunden onboarden, ohne neue Tenants anlegen zu müssen.
+- **Mühelose Skalierung:** Main Tenants können dutzende Kunden onboarden, ohne komplexer Set-up.
 
 | Akteur | Bedeutung in KNOWRON |
 |--------|----------------------|
