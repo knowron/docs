@@ -2,6 +2,10 @@
 
 This file logs every change made to the documentation by Claude Code. One entry per session or batch of related changes.
 
+## 2026-03-18 — TODO-32: Delete docs/updates/ directory
+- Deleted the entire `docs/updates/` directory (2022, 2023, 2024, 2025 subdirectories and all files)
+- Removed the `Updates` entry from the nav in `mkdocs.yml`
+
 ## 2026-03-18 — TODO-31: Delete product_access_groups pages
 - Deleted `docs/Admin Documentation/Security and Access/product_access_groups.en.md` and `.de.md`
 - Removed `Admin Documentation/Security and Access/product_access_groups.md` from the nav in `mkdocs.yml`
