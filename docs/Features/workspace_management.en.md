@@ -6,6 +6,12 @@
 
 Workspace Management gives you direct control over who in your organization sees what content, down to the individual machine. No waiting on KNOWRON, no back-and-forth with support. You set it up, you manage it.
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/EdEDwv6Af8o?cc_load_policy=1&cc_lang_pref=DE" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+!!! tip "Want a full walkthrough?"
+
+    A step-by-step video guide is available [at the bottom of this page](#full-walkthrough).
+
 <p align="center"><img src="https://i.imgur.com/UYBBMTK.png" width="100%"></p>
 
 ## What is a Workspace?
@@ -61,3 +67,7 @@ A dedicated **Workspace Administration** page lets you define exactly which prod
 - [Client Spaces](../Admin%20Documentation/subtenancy.en.md)
 - [Roles and Permissions](../Admin%20Documentation/Security%20and%20Access/roles_and_permissions.en.md)
 - [Product Access Groups](../Admin%20Documentation/Security%20and%20Access/product_access_groups.en.md)
+
+## Full Walkthrough
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/xFxGJ2zw4aA?cc_load_policy=1&cc_lang_pref=DE" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

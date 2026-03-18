@@ -6,6 +6,12 @@
 
 Die Workspace-Verwaltung gibt Ihnen direkte Kontrolle darüber, wer in Ihrer Organisation welche Inhalte sieht, bis auf die einzelne Maschine herunter. Kein Warten auf KNOWRON, kein hin und her mit dem Support. Sie richten es ein, Sie verwalten es.
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/EdEDwv6Af8o?cc_load_policy=1&cc_lang_pref=DE" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+!!! tip "Komplette Anleitung gewuenscht?"
+
+    Eine schrittweise Video-Anleitung finden Sie [am Ende dieser Seite](#komplette-anleitung).
+
 <p align="center"><img src="https://i.imgur.com/UYBBMTK.png" width="100%"></p>
 
 ## Was ist ein Workspace?
@@ -61,3 +67,7 @@ Uber eine eigene Seite zur **Workspace-Administration** legen Sie genau fest, we
 - [Client Spaces](../Admin%20Documentation/subtenancy.de.md)
 - [Rollen und Berechtigungen](../Admin%20Documentation/Security%20and%20Access/roles_and_permissions.de.md)
 - [Produkt-Zugriffsgruppen](../Admin%20Documentation/Security%20and%20Access/product_access_groups.de.md)
+
+## Komplette Anleitung
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/xFxGJ2zw4aA?cc_load_policy=1&cc_lang_pref=DE" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
