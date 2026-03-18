@@ -22,7 +22,7 @@ A Workspace defines a curated view of KNOWRON for a specific team or audience. T
 
 !!! note "Workspaces and Client Spaces are separate"
 
-    Workspaces and [Client Spaces](../Admin%20Documentation/subtenancy.en.md) are distinct features and do not interact. Client Space users do not have access to Workspaces.
+    Workspaces and [Client Spaces](../Admin%20Documentation/client_spaces.en.md) are distinct features and do not interact. Client Space users do not have access to Workspaces.
 
 ## Special Workspaces
 
@@ -64,7 +64,7 @@ A dedicated **Workspace Administration** page lets you define exactly which prod
 
 ## Related pages
 
-- [Client Spaces](../Admin%20Documentation/subtenancy.en.md)
+- [Client Spaces](../Admin%20Documentation/client_spaces.en.md)
 - [Roles and Permissions](../Admin%20Documentation/Security%20and%20Access/roles_and_permissions.en.md)
 - [Product Access Groups](../Admin%20Documentation/Security%20and%20Access/product_access_groups.en.md)
 
