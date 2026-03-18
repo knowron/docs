@@ -96,7 +96,6 @@ nav:
       - "Features/inventory_na.md"
   - Admin:
       - Security and Access:
-          - "Admin Documentation/Security and Access/product_access_groups.md"
           - "Admin Documentation/Security and Access/roles_and_permissions.md"
           - "Admin Documentation/Security and Access/data_security_and_privacy.en.md"
       - "Admin Documentation/subtenancy.md"
