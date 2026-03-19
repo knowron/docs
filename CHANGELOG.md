@@ -2,6 +2,11 @@
 
 This file logs every change made to the documentation by Claude Code. One entry per session or batch of related changes.
 
+## 2026-03-19 — TODO-18: Create Content Visibility Control page
+- Created `docs/Features/content_visibility.en.md` — feature page covering the three-tier visibility model (Public / Clients / Internal), how to set visibility in the editor, module requirements (Core / View / Connect), and the distinction between external visibility control and internal Workspace Management
+- Created `docs/Features/content_visibility.de.md` — German translation
+- Added `Features/content_visibility.md` to the nav in `mkdocs.yml` under Control Suite Features, adjacent to Workspace Management
+
 ## 2026-03-19 — TODO-01: Add module indicators to all feature pages (EN + DE)
 - Added `**Available with:** KNOWRON Core` (EN) / `**Verfügbar mit:** KNOWRON Core` (DE) after the H1 on all Core feature pages
 - `public_landing_pages.en.md` and `public_landing_pages.de.md` already had the `!!! info "KNOWRON View required"` admonition — left unchanged

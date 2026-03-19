@@ -14,7 +14,6 @@ This file tracks documentation tasks. Update it as you work.
 
 ## Cross-cutting (apply to all feature pages)
 
-- [x] **TODO-01** Add a subtle package indicator (Core / View / Connect / Add-on) near the top of every feature page — e.g. as a small admonition or inline tag — so readers and sales know at a glance what's required to access the feature | Priority: High | Affects: en, de | File(s): all `docs/Features/*.md` | Completed: 2026-03-19
 
 ---
 
@@ -44,9 +43,8 @@ This file tracks documentation tasks. Update it as you work.
 ## Missing Feature Pages (no dedicated doc page exists)
 
 - [ ] **TODO-15** Create page for **Dedicated Client Spaces** (Connect module) — explain how external users get their own permissioned workspace, roles, content access | Priority: High | Affects: en, de | File(s): `docs/Features/client_spaces.md` | Draft: `_context/_drafts/client_spaces.md`
-- [x] **TODO-16** Create page for **Public Landing Pages / Digital Product Passport** (View module) — explain public access, login-free use, Assistant Credits, compliance use cases | Priority: High | Affects: en, de | File(s): `docs/Features/public_landing_pages.md` | Draft: `_context/_drafts/digital_product_passport.md` | Completed: 2026-03-18
 - [ ] **TODO-17** Create page for **Single Sign-On (SSO)** (Add-on) — how to configure, supported identity providers | Priority: High | Affects: en, de | File(s): `docs/Admin Documentation/sso.md` | Draft: `_context/_drafts/sso.md`
-- [ ] **TODO-18** Create page for **Content Visibility Control** (Core) — how to control which users/groups can see which content | Priority: High | Affects: en, de | File(s): `docs/Features/content_visibility.md` | Draft: `_context/_drafts/content_visibility.md`
+- [~] **TODO-18** Create page for **Content Visibility Control** (Core) — how to control which users/groups can see which content | Priority: High | Affects: en, de | File(s): `docs/Features/content_visibility.md` | Draft: `_context/_drafts/content_visibility.md`
 - [ ] **TODO-19** Create page for **Whitelabeling** (Add-on) — custom subdomain, branded emails, what's customizable | Priority: Medium | Affects: en, de | File(s): `docs/Features/whitelabeling.md` | Draft: `_context/_drafts/whitelabeling.md`
 - [ ] **TODO-20** Create page for **(Custom) Data Integrations** (Add-on) — what integrations are available, how to request, API overview | Priority: Medium | Affects: en, de | File(s): `docs/Admin Documentation/integrations.md` | Draft: `_context/_drafts/integrations.md`
 - [ ] **TODO-21** Create page for **Spare Part Ordering** (Core) — how to initiate orders from within KNOWRON | Priority: Medium | Affects: en, de | File(s): `docs/Features/sparepart_ordering.md` | Draft: `_context/_drafts/sparepart_ordering.md`
@@ -65,8 +63,6 @@ This file tracks documentation tasks. Update it as you work.
 ---
 
 ## Translation Gaps
-
-- [ ] **TODO-28** `Features/charts.de.md` exists with no English counterpart — complete TODO-03 first, then verify DE is in sync
 - [ ] **TODO-29** Review all `.de.md` files after EN updates are made and flag any that are out of sync
 
 ---
@@ -80,3 +76,5 @@ This file tracks documentation tasks. Update it as you work.
 - [x] **TODO-33** Rename subtenancy pages to `client_spaces`; replace all "Subtenant"/"Subtenancy" references with "Client Space"/"Client Spaces" across docs and `mkdocs.yml` | Completed: 2026-03-18
 - [x] **TODO-34** Delete all non-English and non-German page variants (`.es.md`, `.it.md`, `.pl.md`, `.zh.md`) | Completed: 2026-03-18
 - [x] **TODO-31** Delete `docs/Admin Documentation/Security and Access/product_access_groups.en.md` and `.de.md`; remove from `mkdocs.yml` nav | Completed: 2026-03-18
+- [x] **TODO-01** Add a subtle package indicator (Core / View / Connect / Add-on) near the top of every feature page — e.g. as a small admonition or inline tag — so readers and sales know at a glance what's required to access the feature | Priority: High | Affects: en, de | File(s): all `docs/Features/*.md` | Completed: 2026-03-19
+- [x] **TODO-16** Create page for **Public Landing Pages / Digital Product Passport** (View module) — explain public access, login-free use, Assistant Credits, compliance use cases | Priority: High | Affects: en, de | File(s): `docs/Features/public_landing_pages.md` | Draft: `_context/_drafts/digital_product_passport.md` | Completed: 2026-03-18
