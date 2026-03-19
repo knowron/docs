@@ -1,5 +1,7 @@
 # Artikel
 
+**Verfügbar mit:** KNOWRON Core
+
 Artikel ermöglichen es Ihnen, Redakteuren und Administratoren, freiformen Inhalt zu erstellen. Während Tutorials strukturiert sind und einen bestimmten Zweck haben, erlauben Artikel das Schreiben von allem, von häufig gestellten Fragen bis hin zu Problem-Lösungs-Artikeln für häufig auftretende Probleme. Artikel können mit jedem anderen Inhalt im Wissensdatenbank verknüpft werden.
 
 ## Wie erstellt man einen Artikel?

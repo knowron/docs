@@ -1,5 +1,7 @@
 # Support
 
+**Available with:** KNOWRON Core
+
 The `Support` screen offers multiple ways for you to get the help you need. Our goal is to make it as easy as possible for you to get the support you need. Whether you choose to use our E-mail Assistance or Connect with Regional Support feature, our team is dedicated to providing you with the highest level of assistance and support.
 
 ## E-mail Assistance

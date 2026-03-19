@@ -1,5 +1,7 @@
 # Troubleshooting
 
+**Available with:** KNOWRON Core
+
 ## What is troubleshooting
 Troubleshooting leads you through a series of simple questions that you can easily answer, so that you can systematically find what problem your machine or process is facing. 
 

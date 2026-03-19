@@ -1,4 +1,6 @@
-# Dokumente 
+# Dokumente
+
+**Verfügbar mit:** KNOWRON Core
 
 Dokumente, die sich auf Ihr Produkt oder Ihre Produktlinie beziehen, stellen eine der Inhaltseinheiten dar, die die Wissensbasis des Produkts bilden. Sie finden alle Dokumente zu einem bestimmten Produkt unter `Dokumente`.
 

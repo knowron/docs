@@ -1,5 +1,7 @@
 # Maschinenbestand
 
+**Verfügbar mit:** KNOWRON Core
+
 ## Was ist der Maschinenbestand?
 Mit der Funktion Maschinenbestand können Sie den Überblick über Ihre Maschinen behalten. Jedem Gerät sind eine eindeutige Seriennummer, Konfigurationsdaten und eine Wartungshistorie zugeordnet. Mit dieser Funktion können Sie Ihre Produkte einfach überwachen und verwalten und so deren optimale Leistung und Wartung sicherstellen.
 

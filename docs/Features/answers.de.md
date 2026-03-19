@@ -1,5 +1,7 @@
 # KI-generierte Antworten
 
+**Verfügbar mit:** KNOWRON Core
+
 Generative Frage-Antwort-Systeme nutzen die Kraft der künstlichen Intelligenz, um dynamische, kontextuell angemessene Antworten zu generieren. Sie können erwarten, dass KI-generierte Antworten erscheinen, wenn Sie eine Frage stellen. Das System nutzt fortschrittliche Algorithmen, um die eingegebene Frage mit den hochgeladenen Dokumenten abzugleichen und die relevantesten Informationen zu extrahieren. Die Genauigkeit und Verfügbarkeit der Antworten hängen auch von der Qualität der hochgeladenen Dokumente ab.
 
 #### Warum wird meine Frage nicht beantwortet?

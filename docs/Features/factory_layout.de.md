@@ -1,6 +1,8 @@
 
 # Fabrik-Layout
 
+**Verfügbar mit:** KNOWRON Core
+
 
 Mit dem Fabrik-Layout erweitern wir die Möglichkeiten unserer Plattform und stellen sicher, dass der Informationszugang flexibel und auf Ihre eigenen Prozesse abgestimmt ist. Wir können nun bestimmte Maschinen in einer Montagelinie gruppieren, die Ihre eigenen Prozesse widerspiegelt. Die Aktivierung dieser Gruppierung ermöglicht die Suche nach Informationen, die sich auf die Maschinen in der Produktlinie beziehen, sowie die Erstellung spezifischer Logbucheinträge, Berichte und Artikel, die sich auf eine bestimmte Linie beziehen.
 
