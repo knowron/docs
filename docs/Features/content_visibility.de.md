@@ -27,7 +27,7 @@ Die Stufen sind **additiv**: Interne Inhalte sind für Ihre Mitarbeiter immer si
 
 Beim Erstellen oder Bearbeiten eines Dokuments, Artikels oder Tutorials finden Sie im Editor ein Dropdown-Menü zur Sichtbarkeit. Wählen Sie die Stufe, die der vorgesehenen Zielgruppe entspricht.
 
-<!-- IMAGE: https://i.imgur.com/pNhU8xs.png, place this one at 40% width -->
+<p align="center"><img src="https://i.imgur.com/pNhU8xs.png" width="40%"></p>
 
 Die gewählte Sichtbarkeit wird einheitlich in beiden Produkten angewendet:
 

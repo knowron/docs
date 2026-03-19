@@ -27,7 +27,7 @@ The levels are **additive**: Internal content is always visible to your employee
 
 When creating or editing a document, article, or tutorial, you will find a visibility dropdown in the editor. Select the level that matches the intended audience for that piece of content.
 
-<!-- IMAGE: https://i.imgur.com/pNhU8xs.png, place this one at 40% width -->
+<p align="center"><img src="https://i.imgur.com/pNhU8xs.png" width="40%"></p>
 
 The selected visibility applies consistently across both products:
 
