@@ -87,6 +87,7 @@ nav:
       - "Features/partsinventory.md"
       - "Features/adminpanel.md"
       - "Features/workspace_management.md"
+      - "Features/content_visibility.md"
   - Native Assistant Features:
       - "Features/documents_na.md"
       - "Features/troubleshooting_na.md"
