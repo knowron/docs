@@ -43,7 +43,7 @@ This file tracks documentation tasks. Update it as you work.
 ## Missing Feature Pages (no dedicated doc page exists)
 
 - [ ] **TODO-15** Create page for **Dedicated Client Spaces** (Connect module) — explain how external users get their own permissioned workspace, roles, content access | Priority: High | Affects: en, de | File(s): `docs/Features/client_spaces.md` | Draft: `_context/_drafts/client_spaces.md`
-- [ ] **TODO-17** Create page for **Single Sign-On (SSO)** (Add-on) — how to configure, supported identity providers | Priority: High | Affects: en, de | File(s): `docs/Admin Documentation/sso.md` | Draft: `_context/_drafts/sso.md`
+- [~] **TODO-17** Create page for **Single Sign-On (SSO)** (Add-on) — how to configure, supported identity providers | Priority: High | Affects: en, de | File(s): `docs/Admin Documentation/sso.md` | Draft: `_context/_drafts/sso.md`
 - [~] **TODO-18** Create page for **Content Visibility Control** (Core) — how to control which users/groups can see which content | Priority: High | Affects: en, de | File(s): `docs/Features/content_visibility.md` | Draft: `_context/_drafts/content_visibility.md`
 - [ ] **TODO-19** Create page for **Whitelabeling** (Add-on) — custom subdomain, branded emails, what's customizable | Priority: Medium | Affects: en, de | File(s): `docs/Features/whitelabeling.md` | Draft: `_context/_drafts/whitelabeling.md`
 - [ ] **TODO-20** Create page for **(Custom) Data Integrations** (Add-on) — what integrations are available, how to request, API overview | Priority: Medium | Affects: en, de | File(s): `docs/Admin Documentation/integrations.md` | Draft: `_context/_drafts/integrations.md`
