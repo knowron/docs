@@ -1,5 +1,7 @@
 # Workspace-Verwaltung
 
+**Verfügbar mit:** KNOWRON Core
+
 !!! warning "Nur für Admins"
 
     Nur Benutzer mit der Rolle **Admin** können Workspaces erstellen und verwalten. Wenn Sie einen Workspace einrichten lassen möchten, wenden Sie sich an den KNOWRON-Admin Ihrer Organisation.

@@ -1,5 +1,7 @@
 # Workspace Management
 
+**Available with:** KNOWRON Core
+
 !!! warning "Admin-only feature"
 
     Only users with the **Admin** role can create and manage Workspaces. If you need a Workspace set up, contact your organization's KNOWRON admin.

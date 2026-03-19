@@ -1,5 +1,7 @@
 # Admin Panel
 
+**Available with:** KNOWRON Core
+
 ### **Privacy Policy**
 If you have been assigned the Admin role, you will have access to certain features that regular users do not. One of these features is the ability to update the Privacy Policy of your organization. To do so, simply navigate to the Admin and from there, you can locate the Privacy Policy section and make any necessary updates.
 

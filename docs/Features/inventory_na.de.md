@@ -1,5 +1,7 @@
 # Inventar
 
+**Verfügbar mit:** KNOWRON Core
+
 Die Funktion "Inventar" soll Ihnen einen Überblick über die von Ihnen heruntergeladenen Maschinen geben, auf die Sie jederzeit zugreifen können, wenn Sie offline sind.
 
 

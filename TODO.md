@@ -14,7 +14,7 @@ This file tracks documentation tasks. Update it as you work.
 
 ## Cross-cutting (apply to all feature pages)
 
-- [ ] **TODO-01** Add a subtle package indicator (Core / View / Connect / Add-on) near the top of every feature page — e.g. as a small admonition or inline tag — so readers and sales know at a glance what's required to access the feature | Priority: High | Affects: en, de | File(s): all `docs/Features/*.md`
+- [x] **TODO-01** Add a subtle package indicator (Core / View / Connect / Add-on) near the top of every feature page — e.g. as a small admonition or inline tag — so readers and sales know at a glance what's required to access the feature | Priority: High | Affects: en, de | File(s): all `docs/Features/*.md` | Completed: 2026-03-19
 
 ---
 

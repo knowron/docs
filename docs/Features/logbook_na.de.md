@@ -1,4 +1,7 @@
 # Fahrtenbuch auf dem Handy
+
+**Verfügbar mit:** KNOWRON Core
+
 !!! Anmerkung
 
     Das Maschinenlogbuch ist auch für die [web](./logbook_cs.md) verfügbar. Weitere allgemeine Informationen zur Logbuch-Funktion finden Sie auf unserer [Feature-Seite](./logbook.md).

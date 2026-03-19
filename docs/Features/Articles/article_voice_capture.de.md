@@ -1,5 +1,7 @@
 # Artikel per Sprache erfassen
 
+**Verfügbar mit:** KNOWRON Core
+
 Das Erfassen von Artikeln per Sprache wird derzeit nur in der Control Suite unterstützt. Es kann sowohl auf Tablets als auch auf Laptops verwendet werden, jedes Gerät mit Mikrofon funktioniert.
 
 Unsere neue Spracheingabefunktion ist maßgeschneidert für Arbeiter im Außendienst und in der Werkstatt, um die freihändige Dateneingabe direkt per Sprache zu ermöglichen. Diese Funktion nutzt unsere KI-Technologie, um die Spracheingabe für Genauigkeit zu verfeinern, und integriert bereits vorhandene Vorlagen für verschiedene Industrieszenarien, wodurch die Erfassung und Dokumentation von Fachwissen vor Ort vereinfacht wird. 
