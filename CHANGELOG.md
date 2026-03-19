@@ -2,6 +2,11 @@
 
 This file logs every change made to the documentation by Claude Code. One entry per session or batch of related changes.
 
+## 2026-03-19 — TODO-17: Create Single Sign-On (SSO) page
+- Created `docs/Admin Documentation/sso.en.md` — feature page covering how KNOWRON SSO works (user provisioning model, JIT, roles independence, SCIM), supported identity providers (Entra ID, Keycloak, OIDC/SAML), and how to get started via Customer Success
+- Created `docs/Admin Documentation/sso.de.md` — German translation
+- Added `Admin Documentation/sso.md` to the nav in `mkdocs.yml` under Admin > Security and Access
+
 ## 2026-03-19 — TODO-18: Create Content Visibility Control page
 - Created `docs/Features/content_visibility.en.md` — feature page covering the three-tier visibility model (Public / Clients / Internal), how to set visibility in the editor, module requirements (Core / View / Connect), and the distinction between external visibility control and internal Workspace Management
 - Created `docs/Features/content_visibility.de.md` — German translation
