@@ -2,6 +2,11 @@
 
 This file logs every change made to the documentation by Claude Code. One entry per session or batch of related changes.
 
+## 2026-03-20 — TODO-35: Create Content Extraction Pipeline page
+- Created `docs/Features/extraction_pipeline.en.md` — feature page covering what the pipeline does, supported document types, limitations (no image-embedded text), and the path to expanded extraction for specialized content
+- Created `docs/Features/extraction_pipeline.de.md` — German translation
+- Added `Features/extraction_pipeline.md` to the nav in `mkdocs.yml` under Control Suite Features, after `documents.md`
+
 ## 2026-03-20 — TODO-22: Create Synonym Lists page
 - Created `docs/Features/synonym_lists.en.md` — feature page covering what synonym lists are, why they matter, what doesn't need to be added, and the CS-assisted setup process
 - Created `docs/Features/synonym_lists.de.md` — German translation

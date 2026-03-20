@@ -80,6 +80,7 @@ nav:
       - "Features/factory_layout.md"
       - "Features/tutorials.md"
       - "Features/documents.md"
+      - "Features/extraction_pipeline.md"
       - "Features/logbook_cs.md"
       - Articles:
         - "Features/Articles/index.md"
