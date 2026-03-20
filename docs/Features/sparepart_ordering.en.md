@@ -17,9 +17,9 @@ Submitting a spare part request follows three steps:
 2. **Add** one or more parts to your cart
 3. **Submit** the request when you're ready
 
-<!-- IMAGE: screenshot of the spare part ordering flow in the Control Suite web app -->
+<p align="center"><img src="https://i.imgur.com/ySkoAM1.png" width="80%"></p>
 
-<!-- IMAGE: screenshot of the spare part ordering flow in the Native Assistant mobile app -->
+<p align="center"><img src="https://i.imgur.com/vwvuGBZ.png" width="40%"></p>
 
 !!! note "Parts must be set up first"
     Spare parts need to be uploaded and associated with a product line before users can order them. See [Parts Inventory](partsinventory.md) for instructions on how to set this up.

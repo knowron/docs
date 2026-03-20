@@ -17,9 +17,9 @@ Eine Ersatzteilanfrage wird in drei Schritten eingereicht:
 2. **Fügen Sie** ein oder mehrere Teile zum Warenkorb hinzu
 3. **Senden** Sie die Anfrage ab, wenn Sie fertig sind
 
-<!-- IMAGE: screenshot of the spare part ordering flow in the Control Suite web app -->
+<p align="center"><img src="https://i.imgur.com/ySkoAM1.png" width="80%"></p>
 
-<!-- IMAGE: screenshot of the spare part ordering flow in the Native Assistant mobile app -->
+<p align="center"><img src="https://i.imgur.com/vwvuGBZ.png" width="40%"></p>
 
 !!! note "Teile müssen zuerst eingerichtet werden"
     Ersatzteile müssen hochgeladen und einer Produktlinie zugeordnet werden, bevor Benutzer sie bestellen können. Weitere Informationen finden Sie unter [Ersatzteilbestand](partsinventory.md).
