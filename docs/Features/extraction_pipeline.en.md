@@ -1,4 +1,4 @@
-# Content Extraction Pipeline
+# Basic Extraction Pipeline
 
 **Available with:** KNOWRON Core
 

@@ -1,4 +1,4 @@
-# Inhaltsextraktionspipeline
+# Basis-Extraktionspipeline
 
 **Verfügbar mit:** KNOWRON Core
 
