@@ -2,6 +2,11 @@
 
 This file logs every change made to the documentation by Claude Code. One entry per session or batch of related changes.
 
+## 2026-03-20 — TODO-21: Create Spare Part Ordering page
+- Created `docs/Features/sparepart_ordering.en.md` — feature page covering how spare part ordering works (browse → cart → submit), the request-not-purchase distinction, email routing configuration (admin panel, per-Client-Space, regional contacts), request scope, and external user access via KNOWRON Connect
+- Created `docs/Features/sparepart_ordering.de.md` — German translation
+- Added `Features/sparepart_ordering.md` to the nav in `mkdocs.yml` under Control Suite Features, directly after `partsinventory.md`
+
 ## 2026-03-19 — TODO-18: Create Content Visibility Control page
 - Created `docs/Features/content_visibility.en.md` — feature page covering the three-tier visibility model (Public / Clients / Internal), how to set visibility in the editor, module requirements (Core / View / Connect), and the distinction between external visibility control and internal Workspace Management
 - Created `docs/Features/content_visibility.de.md` — German translation

@@ -85,6 +85,7 @@ nav:
         - "Features/Articles/article_voice_capture.md"
       - "Features/machineinventory.md"
       - "Features/partsinventory.md"
+      - "Features/sparepart_ordering.md"
       - "Features/adminpanel.md"
       - "Features/workspace_management.md"
       - "Features/content_visibility.md"
