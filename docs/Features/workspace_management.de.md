@@ -6,11 +6,11 @@
 
     Nur Benutzer mit der Rolle **Admin** können Workspaces erstellen und verwalten. Wenn Sie einen Workspace einrichten lassen möchten, wenden Sie sich an den KNOWRON-Admin Ihrer Organisation.
 
-Die Workspace-Verwaltung gibt Ihnen direkte Kontrolle darüber, wer in Ihrer Organisation welche Inhalte sieht, bis auf die einzelne Maschine herunter. Kein Warten auf KNOWRON, kein hin und her mit dem Support. Sie richten es ein, Sie verwalten es.
+Die Workspace-Verwaltung gibt Admins direkte Kontrolle darüber, wer in Ihrer Organisation welche Inhalte sieht – bis auf die einzelne Maschine herunter. Kein Warten auf KNOWRON, kein Hin und Her mit dem Support: Admins richten es ein, Admins verwalten es.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/EdEDwv6Af8o?cc_load_policy=1&cc_lang_pref=DE" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-!!! tip "Komplette Anleitung gewuenscht?"
+!!! tip "Komplette Anleitung gewünscht?"
 
     Eine schrittweise Video-Anleitung finden Sie [am Ende dieser Seite](#komplette-anleitung).
 
@@ -24,15 +24,15 @@ Ein Workspace definiert eine eingeschränkte Ansicht von KNOWRON für ein bestim
 
 !!! note "Workspaces und Client Spaces sind getrennt"
 
-    Workspaces und [Client Spaces](../Admin%20Documentation/client_spaces.de.md) sind eigenstandige Funktionen und interagieren nicht miteinander. Benutzer eines Client Spaces haben keinen Zugriff auf Workspaces.
+    Workspaces und [Client Spaces](../Admin%20Documentation/client_spaces.de.md) sind eigenständige Funktionen und interagieren nicht miteinander. Benutzer eines Client Spaces haben keinen Zugriff auf Workspaces.
 
 ## Besondere Workspaces
 
-Jede Organisation verfuegt ueber zwei besondere Workspaces, die unabhangig voneinander konfiguriert oder auf denselben Workspace gesetzt werden koennen.
+Jede Organisation verfügt über zwei besondere Workspaces, die unabhängig voneinander konfiguriert oder auf denselben Workspace gesetzt werden können.
 
 ### Globaler Workspace
 
-Der globale Workspace enthalt alle Produkte, ohne Ausnahme. Jedes Produkt in Ihrer Organisation ist hier immer sichtbar. Das stellt sicher, dass kein Produkt je ohne Workspace "verwaist", was die Kernfunktionalitat des Produkts beeintrachtigen wurde.
+Der globale Workspace enthält alle Produkte, ohne Ausnahme. Jedes Produkt in Ihrer Organisation ist hier immer sichtbar. Das stellt sicher, dass kein Produkt je ohne Workspace „verwaist", was die Kernfunktionalität des Produkts beeinträchtigen würde.
 
 ### Standard-Workspace
 
@@ -40,35 +40,34 @@ Der Standard-Workspace ist der Workspace, dem neue Benutzer automatisch zugewies
 
 !!! tip "Noch am Anfang?"
 
-    Wenn Sie noch keine Workspaces eingerichtet haben, sind der globale Workspace und der Standard-Workspace identisch und es gibt nur diesen einen Workspace. Sie mussen nichts konfigurieren, um loszulegen.
+    Wenn noch keine Workspaces eingerichtet wurden, sind der globale Workspace und der Standard-Workspace identisch und es gibt nur diesen einen Workspace. Admins müssen nichts konfigurieren, um loszulegen.
 
 ## Wie werden neue Produkte Workspaces zugewiesen?
 
-Wenn ein Benutzer ein neues Produkt erstellt, wird es automatisch dem **globalen Workspace** hinzugefuegt. Anschliessend wird der Benutzer gefragt, welchem weiteren Workspace er das Produkt zuordnen mochte, basierend auf den Workspaces, denen er angehort.
+Wenn ein Admin ein neues Produkt erstellt, wird es automatisch dem **globalen Workspace** hinzugefügt. Anschließend legt der Admin fest, welchem weiteren Workspace das Produkt zugeordnet werden soll – basierend auf den Workspaces, für die er zuständig ist.
 
-So hat jedes Produkt immer einen festen Platz, und Benutzer behalten die Kontrolle darueber, wo neue Inhalte landen.
+So hat jedes Produkt immer einen festen Platz, und Admins behalten die Kontrolle darüber, wo neue Inhalte sichtbar sind.
 
 ## Wo finde ich die Workspace-Verwaltung?
 
-Navigieren Sie im Control Suite zu **Einstellungen -> Workspace-Verwaltung**.
+Navigieren Sie im Control Suite zu **Einstellungen → Workspace-Verwaltung**.
 
 <p align="center"><img src="https://i.imgur.com/2V14ahc.png" width="100%"></p>
 
-## Was kann ich tun?
+## Was können Admins tun?
 
 ### Workspaces erstellen und verwalten
 
-Auf der Seite zur Workspace-Verwaltung koennen Sie neue Workspaces erstellen und alle vorhandenen auf einen Blick einsehen, einschliesslich Status und Ablaufdaten.
+Auf der Seite zur Workspace-Verwaltung können Admins neue Workspaces erstellen und alle vorhandenen auf einen Blick einsehen, einschließlich Status und Ablaufdaten.
 
 ### Sichtbarkeit von Inhalten steuern
 
-Uber eine eigene Seite zur **Workspace-Administration** legen Sie genau fest, welche Produkte und Maschinen in welchem Workspace sichtbar sind. Sichtbarkeitsanderungen erfordern eine explizite Aktion eines Admins, sodass Inhalte nie versehentlich nach aussen gelangen.
+Über eine eigene Seite zur **Workspace-Administration** legen Admins genau fest, welche Produkte und Maschinen in welchem Workspace sichtbar sind. Sichtbarkeitsänderungen erfordern eine explizite Aktion eines Admins, sodass Inhalte nie versehentlich nach außen gelangen.
 
 ## Verwandte Seiten
 
 - [Client Spaces](../Admin%20Documentation/client_spaces.de.md)
 - [Rollen und Berechtigungen](../Admin%20Documentation/Security%20and%20Access/roles_and_permissions.de.md)
-- [Produkt-Zugriffsgruppen](../Admin%20Documentation/Security%20and%20Access/product_access_groups.de.md)
 
 ## Komplette Anleitung
 
