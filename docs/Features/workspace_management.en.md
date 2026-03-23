@@ -14,7 +14,7 @@ Workspace Management gives you direct control over who in your organization sees
 
     A step-by-step video guide is available [at the bottom of this page](#full-walkthrough).
 
-<p align="center"><img src="https://i.imgur.com/UYBBMTK.png" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/1cRzaT3.png" width="100%"></p>
 
 ## What is a Workspace?
 
