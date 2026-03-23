@@ -1,4 +1,4 @@
-# Basis-Extraktionspipeline
+# Basic Extraction Pipeline
 
 **Verfügbar mit:** KNOWRON Core
 
@@ -11,7 +11,7 @@ Wenn Sie ein Dokument in KNOWRON hochladen, verarbeitet das System es automatisc
 
 ## Was die Pipeline extrahiert
 
-Die Standard-Extraktionspipeline ist für Dokumente ausgelegt, in denen Inhalte als lesbarer Text vorliegen. Sie eignet sich gut für:
+Die Basic Extraction Pipeline ist für Dokumente ausgelegt, in denen Inhalte als lesbarer Text vorliegen. Sie eignet sich gut für:
 
 - Technische Handbücher und Servicedokumentation
 - Produktspezifikationen
@@ -25,7 +25,7 @@ Für diese Dokumenttypen extrahiert die Pipeline den im Dokument vorhandenen Tex
 
 ## Was nicht abgedeckt wird
 
-Die Standard-Extraktionspipeline extrahiert keinen Text aus Bildern, die in ein Dokument eingebettet sind, sofern dieser Text nicht auch separat als tatsächlicher Text in der Datei codiert ist. Sie ist nicht geeignet für Dokumente, bei denen der primäre Inhalt visueller Natur ist, wie zum Beispiel:
+Die Basic Extraction Pipeline extrahiert keinen Text aus Bildern, die in ein Dokument eingebettet sind, sofern dieser Text nicht auch separat als tatsächlicher Text in der Datei codiert ist. Sie ist nicht geeignet für Dokumente, bei denen der primäre Inhalt visueller Natur ist, wie zum Beispiel:
 
 - Komplexe Schaltpläne
 - Technische Zeichnungen
@@ -37,7 +37,7 @@ Wenn ein Dokument dieses Typs hochgeladen wird, wird die Datei gespeichert und a
 
 ## Für die meisten technischen Dokumentationsanforderungen ausreichend
 
-Wenn Sie hauptsächlich mit Handbüchern, Spezifikationen und textreichen PDFs arbeiten, können Sie von Anfang an eine gute Extraktionsqualität erwarten. Die Standard-Pipeline deckt den Großteil der gängigen industriellen und technischen Dokumentation ab.
+Wenn Sie hauptsächlich mit Handbüchern, Spezifikationen und textreichen PDFs arbeiten, können Sie von Anfang an eine gute Extraktionsqualität erwarten. Die Basic-Pipeline deckt den Großteil der gängigen industriellen und technischen Dokumentation ab.
 
 ---
 

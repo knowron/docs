@@ -14,7 +14,7 @@ Die Workspace-Verwaltung gibt Ihnen direkte Kontrolle darüber, wer in Ihrer Org
 
     Eine schrittweise Video-Anleitung finden Sie [am Ende dieser Seite](#komplette-anleitung).
 
-<p align="center"><img src="https://i.imgur.com/UYBBMTK.png" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/1cRzaT3.png" width="100%"></p>
 
 ## Was ist ein Workspace?
 
