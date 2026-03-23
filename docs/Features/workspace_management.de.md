@@ -32,7 +32,7 @@ Jede Organisation verfügt über zwei besondere Workspaces, die unabhängig vone
 
 ### Globaler Workspace
 
-Der globale Workspace enthält alle Produkte, ohne Ausnahme. Jedes Produkt in Ihrer Organisation ist hier immer sichtbar. Das stellt sicher, dass kein Produkt je ohne Workspace „verwaist", was die Kernfunktionalität des Produkts beeinträchtigen würde.
+Der globale Workspace enthält alle Produkte, ohne Ausnahme. Jedes Produkt in Ihrer Organisation ist hier immer sichtbar. So bleibt kein Produkt ohne Workspace, was die Kernfunktionalität des Systems beeinträchtigen könnte.
 
 ### Standard-Workspace
 
