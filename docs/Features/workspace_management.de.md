@@ -10,9 +10,9 @@ Die Workspace-Verwaltung gibt Admins direkte Kontrolle darüber, wer in Ihrer Or
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/EdEDwv6Af8o?cc_load_policy=1&cc_lang_pref=DE" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-!!! tip "Komplette Anleitung gewünscht?"
+!!! tip "Komplette Anleitung"
 
-    Eine schrittweise Video-Anleitung finden Sie [am Ende dieser Seite](#komplette-anleitung).
+    Eine schrittweise Videoanleitung finden Sie [am Ende dieser Seite](#komplette-anleitung).
 
 <p align="center"><img src="https://i.imgur.com/1cRzaT3.png" width="100%"></p>
 
@@ -28,7 +28,7 @@ Ein Workspace definiert eine eingeschränkte Ansicht von KNOWRON für ein bestim
 
 ## Besondere Workspaces
 
-Jede Organisation verfügt über zwei besondere Workspaces, die unabhängig voneinander konfiguriert oder auf denselben Workspace gesetzt werden können.
+Jede Organisation verfügt über zwei besondere Workspaces, die unabhängig voneinander konfiguriert werden oder auf denselben Workspace verweisen können.
 
 ### Globaler Workspace
 
@@ -44,13 +44,13 @@ Der Standard-Workspace ist der Workspace, dem neue Benutzer automatisch zugewies
 
 ## Wie werden neue Produkte Workspaces zugewiesen?
 
-Wenn ein Admin ein neues Produkt erstellt, wird es automatisch dem **globalen Workspace** hinzugefügt. Anschließend legt der Admin fest, welchem weiteren Workspace das Produkt zugeordnet werden soll – basierend auf den Workspaces, für die er zuständig ist.
+Wenn ein Admin ein neues Produkt erstellt, wird es automatisch dem **globalen Workspace** hinzugefügt. Anschließend legt der Admin fest, welchem weiteren Workspace das Produkt zugeordnet werden soll – basierend auf den Workspaces, die er verwalten kann.
 
 So hat jedes Produkt immer einen festen Platz, und Admins behalten die Kontrolle darüber, wo neue Inhalte sichtbar sind.
 
 ## Wo finde ich die Workspace-Verwaltung?
 
-Navigieren Sie im Control Suite zu **Einstellungen → Workspace-Verwaltung**.
+Navigieren Sie in der Control Suite zu **Einstellungen → Workspace-Verwaltung**.
 
 <p align="center"><img src="https://i.imgur.com/2V14ahc.png" width="100%"></p>
 
