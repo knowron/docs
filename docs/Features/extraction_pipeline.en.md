@@ -1,7 +1,5 @@
 # Basic Extraction Pipeline
 
-**Available with:** KNOWRON Core
-
 When you upload a document to KNOWRON, the system automatically processes it to extract its content and make it searchable. This processing step — the content extraction pipeline — runs in the background without any action required from you. Once complete, the document's content is indexed and available to both Search and the AI Assistant.
 
 !!! note "Fully automatic"

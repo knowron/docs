@@ -2,9 +2,6 @@
 
 Öffentliche Landingpages geben jeder Maschine eine eigene URL, zugänglich durch das Scannen eines QR-Codes an der physischen Einheit. Kunden, Partner und Mitarbeiter scannen den Code und gelangen sofort zur richtigen Dokumentation für genau diese Maschine — ohne Login für öffentliche Inhalte.
 
-!!! info "KNOWRON View erforderlich"
-    Öffentliche Landingpages sind mit dem Modul **KNOWRON View** verfügbar. Für authentifizierten externen Kundenzugang ist zusätzlich **KNOWRON Connect** erforderlich. [Kontaktieren Sie unser Sales-Team](mailto:sales@knowron.com) für weitere Informationen.
-
 <p align="center"><img src="https://i.imgur.com/WrtIgUt.png" width="80%"></p>
 
 ---
@@ -60,7 +57,6 @@ Jeder mit physischem Zugang zur Maschine kann den Code scannen. Diese Ebene wird
 
 **Geeignet für:** Marketingbroschüren, Compliance-Dokumente (Konformitätserklärungen, Zertifikate), Maschinenspezifikationen und allgemeine Produktinformationen.
 
-**Erforderliches Modul:** KNOWRON View
 
 ### Alle Clients
 
@@ -68,35 +64,18 @@ Registrierte und authentifizierte externe Kunden — beispielsweise Käufer Ihre
 
 **Geeignet für:** Benutzer- und Wartungshandbücher, Ersatzteillisten, Support-Kontaktinformationen, allgemeine Fehlerbehebungsanleitungen, Anleitungen.
 
-**Erforderliches Modul:** KNOWRON Connect
-
 ### Intern
 
 Authentifizierte Mitarbeiter Ihres Unternehmens sehen das vollständige Bild.
 
 **Geeignet für:** F&E-Notizen, interne Service-Bulletins, detaillierte Fehlerbehebung, Wartungsprotokolle und Feldwissen erfahrener Kollegen.
 
-**Erforderliches Modul:** KNOWRON Core (Standard-Login)
-
 <p align="center"><img src="https://i.imgur.com/1ETa9nL.png" width="80%"></p>
-
----
-
-## Assistenten-Credits
-
-Wenn ein öffentlicher (nicht angemeldeter) Nutzer über den KI-Assistenten auf einer Landingpage eine Frage stellt, verbraucht diese Interaktion ein **Assistenten-Credit**.
-
-- 1 Assistenten-Credit = 1 vollständiger Frage-Antwort-Zyklus (einschließlich Folgefragen innerhalb derselben Sitzung)
-- Systemfehler oder Timeouts verbrauchen kein Credit
-- 500 Assistenten-Credits sind pro Monat im View-Modul enthalten
-- Zusätzliche Credits können in Blöcken erworben werden
-
-Damit können Sie KI-gestützte Antworten für jeden anbieten, der Ihren QR-Code scannt — ohne Ihre gesamte Wissensbasis offenzulegen oder einen Login zu verlangen.
 
 ---
 
 ## Verwandte Seiten
 
-- [Client Spaces](../Admin Documentation/client_spaces.md) — externen Kunden einen eigenen authentifizierten Arbeitsbereich geben (KNOWRON Connect)
+- [Client Spaces](../Admin Documentation/client_spaces.md) — externen Kunden einen eigenen authentifizierten Arbeitsbereich geben
 - [Maschinenbestand](machineinventory.md) — die Maschinen verwalten, die Landingpages befüllen
 - [Dokumente](documents.md) — Dokumentation hochladen und verwalten, die auf Landingpages angezeigt wird

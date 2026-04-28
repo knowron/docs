@@ -1,7 +1,5 @@
 # Capturing Articles by Voice
 
-**Available with:** KNOWRON Core
-
 Capturing articles by voice is only currently supported in the Control Suite. It can be used on both tablet and laptop, any device with a microphone will work.
 
 Our new Voice Input feature is tailor-made for blue-collar workers in field service and shop floor settings to enable hands-free data entry directly through voice. This feature leverages our AI technology to refine voice input for accuracy and integrates pre-existing templates for various industrial scenarios, simplifying the capture and documentation of field expertise. 

@@ -1,7 +1,5 @@
 # Synonym Lists
 
-**Available with:** KNOWRON Core
-
 Every organization develops its own internal language over time — abbreviations, shorthand, department-specific names, and alternative terms for the same concept. Synonym Lists let you teach KNOWRON this vocabulary so that search works the way your teams actually talk, not just the way a general-purpose system expects them to.
 
 ---

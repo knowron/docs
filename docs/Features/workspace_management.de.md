@@ -1,7 +1,5 @@
 # Workspace-Verwaltung
 
-**Verfügbar mit:** KNOWRON Core
-
 !!! warning "Nur für Admins"
 
     Nur Benutzer mit der Rolle **Admin** können Workspaces erstellen und verwalten. Wenn Sie einen Workspace einrichten lassen möchten, wenden Sie sich an den KNOWRON-Admin Ihrer Organisation.
@@ -34,7 +32,7 @@ Jede Organisation verfügt über zwei besondere Workspaces, die unabhängig vone
 
 Der globale Workspace enthält alle Produkte, ohne Ausnahme. Jedes Produkt in Ihrer Organisation ist hier immer sichtbar. So bleibt kein Produkt ohne Workspace, was die Kernfunktionalität des Systems beeinträchtigen könnte.
 
-### Standard-Workspace
+### Standard-Workspace 
 
 Der Standard-Workspace ist der Workspace, dem neue Benutzer automatisch zugewiesen werden, wenn sie Ihrer Organisation beitreten.
 

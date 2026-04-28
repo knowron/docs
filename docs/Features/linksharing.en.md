@@ -1,7 +1,5 @@
 # Link Sharing
 
-**Available with:** KNOWRON Core
-
 Link Sharing is a powerful tool designed to streamline communication and foster teamwork. It allows you to share valuable resources with their colleagues effortlessly.
 
 ## How to share a link on Control Suite?

@@ -1,7 +1,5 @@
 # Basic Extraction Pipeline
 
-**Verfügbar mit:** KNOWRON Core
-
 Wenn Sie ein Dokument in KNOWRON hochladen, verarbeitet das System es automatisch, um den Inhalt zu extrahieren und durchsuchbar zu machen. Dieser Verarbeitungsschritt — die Inhaltsextraktionspipeline — läuft im Hintergrund, ohne dass Sie etwas tun müssen. Sobald die Verarbeitung abgeschlossen ist, wird der Inhalt des Dokuments indiziert und ist sowohl für die Suche als auch für den AI-Assistenten verfügbar.
 
 !!! note "Vollständig automatisch"

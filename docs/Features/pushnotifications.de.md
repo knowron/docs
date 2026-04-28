@@ -1,7 +1,5 @@
 # Push-Benachrichtigungen
 
-**Verfügbar mit:** KNOWRON Core
-
 ### Was sind Push-Benachrichtigungen?
 Push-Benachrichtigungen sind Nachrichten, die über die Knowron-App direkt an Ihr Telefon oder Gerät gesendet werden. Diese Nachrichten können eine breite Palette von Informationen enthalten, von wichtigen Aktualisierungen und Nachrichten bis hin zu Erinnerungen. 
 

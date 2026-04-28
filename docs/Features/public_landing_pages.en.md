@@ -2,9 +2,6 @@
 
 Public Landing Pages give every machine its own URL, accessible by scanning a QR code attached to the physical unit. Customers, partners, and employees scan the code and immediately reach the right documentation for that specific machine — no login required for public content.
 
-!!! info "KNOWRON View required"
-    Public Landing Pages are available with the **KNOWRON View** module. Authenticated external client access requires **KNOWRON Connect** on top of View. [Contact our sales team](mailto:sales@knowron.com) to learn more.
-
 <p align="center"><img src="https://i.imgur.com/WrtIgUt.png" width="80%"></p>
 
 ---
@@ -60,15 +57,11 @@ Anyone with physical access to the machine can scan the code. This tier is not i
 
 **Best for:** Marketing brochures, compliance documents (conformity declarations, certificates), machine specifications, and general product information.
 
-**Required module:** KNOWRON View
-
 ### All Clients
 
 Registered and authenticated external customers — for example, buyers of your machines — can log in to access a deeper layer of content.
 
 **Best for:** User and maintenance manuals, spare parts lists, support contact information, general troubleshooting guides, how-tos.
-
-**Required module:** KNOWRON Connect
 
 ### Internal
 
@@ -76,27 +69,13 @@ Authenticated employees of your organization see the full picture.
 
 **Best for:** R&D notes, internal service bulletins, in-depth troubleshooting, maintenance logs, and field knowledge from experienced colleagues.
 
-**Required module:** KNOWRON Core (standard login)
-
 <p align="center"><img src="https://i.imgur.com/1ETa9nL.png" width="80%"></p>
 
----
-
-## Assistant Credits
-
-When a public (non-logged-in) user asks a question through the AI Assistant on a landing page, that interaction consumes an **Assistant Credit**.
-
-- 1 Assistant Credit = 1 complete question-answer cycle (including follow-up questions within the same session)
-- System errors or timeouts do not consume a credit
-- 500 Assistant Credits are included per month with the View module
-- Additional credits can be purchased in blocks
-
-This allows you to offer AI-powered answers to anyone who scans your QR code — without exposing your full knowledge base or requiring a login.
 
 ---
 
 ## Related
 
-- [Client Spaces](../Admin Documentation/client_spaces.md) — give external customers their own authenticated workspace (KNOWRON Connect)
+- [Client Spaces](../Admin%20Documentation/client_spaces.md) — give external customers their own authenticated workspace
 - [Machine Inventory](machineinventory.md) — manage the machines that power landing pages
 - [Documents](documents.md) — upload and manage the documentation exposed on landing pages

@@ -1,7 +1,5 @@
 # Logbook
 
-**Available with:** KNOWRON Core
-
 ## What is the machine logbook?
 The digital logbook serves as a **historical record of a machine's lifecycle**. Over time, it accumulates a wealth of knowledge, insights, and best practices shared by colleagues. This rich repository of information can be invaluable for troubleshooting, training new team members, or identifying patterns and trends related to the machine's performance.
 

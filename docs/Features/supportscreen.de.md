@@ -1,7 +1,5 @@
 # Support
 
-**Verfügbar mit:** KNOWRON Core
-
 Die `Support`-Bildschirmseite bietet mehrere Möglichkeiten, um Ihnen bei der Hilfe, die Sie benötigen, zu unterstützen. Unser Ziel ist es, es Ihnen so einfach wie möglich zu machen, die Unterstützung zu erhalten, die Sie benötigen. Ob Sie sich dafür entscheiden, unsere `E-Mail Unterstüzung` oder die Funktion `Kontaktieren Sie den regionalen Support` zu nutzen, unser Team ist engagiert, Ihnen das höchste Maß an Unterstützung und Hilfe anzubieten.
 
 ## E-Mail Unterstüzung

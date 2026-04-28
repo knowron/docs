@@ -1,8 +1,5 @@
 # Ersatzteilbestellung
 
-!!! info "Verfügbar mit KNOWRON Core — externer Benutzerzugriff erfordert KNOWRON Connect"
-    Interne Benutzer können die Ersatzteilbestellung mit **KNOWRON Core** nutzen. Wenn Ihre Organisation **KNOWRON Connect** verwendet, können externe Benutzer in Client Spaces ebenfalls Ersatzteilanfragen für die für sie freigegebenen Teile einreichen. [Kontaktieren Sie unser Vertriebsteam](mailto:sales@knowron.com) für weitere Informationen.
-
 Mit der Ersatzteilbestellung können Ihre Benutzer Ersatzteile direkt aus KNOWRON heraus anfordern — ohne das System wechseln zu müssen. Benutzer durchsuchen die bereits einer Maschine zugeordneten Teile, legen die benötigten Teile in den Warenkorb und senden eine Anfrage ab. KNOWRON leitet diese Anfrage per E-Mail an die zuständige Person in Ihrer Organisation weiter.
 
 Die Funktion ist sowohl in der Control Suite als auch im Native Assistant verfügbar.
@@ -39,7 +36,7 @@ Dies ist so beabsichtigt. Unternehmen handhaben Preisgestaltung, Einkaufsabläuf
 Wenn eine Anfrage abgesendet wird, sendet KNOWRON eine E-Mail an eine vorkonfigurierte Empfängeradresse. Diese Adresse kann auf drei Arten festgelegt werden:
 
 - **Admin Panel** — Administratoren können die Empfängeradresse jederzeit festlegen und aktualisieren. Dies gilt für Anfragen interner Benutzer.
-- **Pro Client Space (Connect)** — Wenn Ihre Organisation KNOWRON Connect verwendet, kann die Empfängeradresse für Anfragen externer Benutzer in einem Client Space ebenfalls im Admin Panel konfiguriert werden — separat pro Client Space.
+- **Pro Client Space** — Die Empfängeradresse für Anfragen externer Benutzer in einem Client Space kann ebenfalls im Admin Panel konfiguriert werden — separat pro Client Space.
 - **Regionale Supportkontakte** — Wenn regionale Support-E-Mail-Adressen gemeinsam mit Ihrem Customer-Success-Team hinterlegt wurden, können Anfragen stattdessen an diese Adressen weitergeleitet werden.
 
 → Unter [Admin Panel](adminpanel.md) können Sie die Empfängeradresse konfigurieren.
@@ -66,7 +63,7 @@ Die Auftragsabwicklung übernimmt Ihre Organisation anschließend gemäß ihrem 
 
 ## Externe Benutzer über Client Spaces
 
-Wenn Ihre Organisation **KNOWRON Connect** verwendet, können auch externe Benutzer — wie Kunden oder Partnertechniker — über ihren Client Space Ersatzteilanfragen einreichen. Sie sehen nur die Teile, die explizit für sie freigegeben wurden, beschränkt auf ihre Maschinen. Das eliminiert den typischen Hin-und-Her-Aufwand bei Ersatzteilanfragen: keine Unklarheiten über Teilenummern, Maschinenvarianten oder Kompatibilität. Was der Kunde einreicht, ist von vornherein korrekt.
+Externe Benutzer — wie Kunden oder Partnertechniker — können über ihren Client Space Ersatzteilanfragen einreichen. Sie sehen nur die Teile, die explizit für sie freigegeben wurden, beschränkt auf ihre Maschinen. Das eliminiert den typischen Hin-und-Her-Aufwand bei Ersatzteilanfragen: keine Unklarheiten über Teilenummern, Maschinenvarianten oder Kompatibilität. Was der Kunde einreicht, ist von vornherein korrekt.
 
 → Unter [Client Spaces](../Admin%20Documentation/client_spaces.md) erfahren Sie mehr darüber, wie der externe Benutzerzugriff funktioniert.
 
@@ -76,5 +73,5 @@ Wenn Ihre Organisation **KNOWRON Connect** verwendet, können auch externe Benut
 
 - [Ersatzteilbestand](partsinventory.md) — Ersatzteile hochladen und verwalten, bevor Bestellungen möglich sind
 - [Admin Panel](adminpanel.md) — Empfänger-E-Mail-Adresse für Ersatzteilanfragen konfigurieren
-- [Client Spaces](../Admin%20Documentation/client_spaces.md) — externen Benutzern über KNOWRON Connect Zugriff auf die Ersatzteilbestellung ermöglichen
+- [Client Spaces](../Admin%20Documentation/client_spaces.md) — externen Benutzern Zugriff auf die Ersatzteilbestellung ermöglichen
 - [Workspace-Verwaltung](workspace_management.md) — steuern, welche Benutzer auf welche Produktlinien und die zugehörigen Teile zugreifen können

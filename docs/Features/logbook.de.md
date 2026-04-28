@@ -1,7 +1,5 @@
 # Logbuch
 
-**Verfügbar mit:** KNOWRON Core
-
 ## Was ist das Maschinenlogbuch?
 Das digitale Logbuch dient als **historische Aufzeichnung des Lebenszyklus einer Maschine**. Im Laufe der Zeit sammelt sich eine Fülle von Wissen, Erkenntnissen und Best Practices an, die von Kollegen geteilt werden. Dieses umfangreiche Informationsarchiv kann von unschätzbarem Wert für die Fehlerbehebung, die Schulung neuer Teammitglieder oder die Identifizierung von Mustern und Trends im Zusammenhang mit der Leistung der Maschine sein.
 

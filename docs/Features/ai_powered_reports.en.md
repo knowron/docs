@@ -1,7 +1,5 @@
 # AI-Powered Reports
 
-**Available with:** KNOWRON Core
-
 AI-powered reports **significantly reduce the amount of time and effort necessary to fill out service reports**. Simply explain to KNOWRON app what you did like you would a co-worker and our AI will fill out the report for you. You can then check that everything is there, sign the report and submit it directly to your service manager, in the form of a .PDF. We will make sure you get a copy too.
 
 In the future, your colleagues will be able to take a look at the report directly on their phones or their laptops to understand the service history of the machine. Collaborating has never been easier.

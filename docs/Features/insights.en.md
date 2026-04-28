@@ -1,8 +1,6 @@
 
 # Insights
 
-**Available with:** KNOWRON Core
-
 
 The Insights Dashboard ensures that editors and admins can understand how well their system is performing and empowers them to close the knowledge gaps in their organization.
 
