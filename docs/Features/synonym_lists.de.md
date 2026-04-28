@@ -1,7 +1,5 @@
 # Synonymlisten
 
-**Verfügbar mit:** KNOWRON Core
-
 Jede Organisation entwickelt im Laufe der Zeit ihre eigene interne Sprache — Abkürzungen, Kurzformen, abteilungsspezifische Bezeichnungen und alternative Namen für dasselbe Konzept. Mit Synonymlisten können Sie KNOWRON dieses Vokabular beibringen, sodass die Suche so funktioniert, wie Ihre Teams tatsächlich kommunizieren — nicht nur so, wie ein allgemeines System es erwartet.
 
 ---

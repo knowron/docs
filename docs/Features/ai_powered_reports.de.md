@@ -1,7 +1,5 @@
 # KI-gestützte Berichte
 
-**Verfügbar mit:** KNOWRON Core
-
 KI-gestützte Berichte **reduzieren den Zeit- und Arbeitsaufwand für das Ausfüllen von Serviceberichten erheblich**. Erklären Sie der KNOWRON-App einfach, was Sie getan haben, wie Sie es mit einem Kollegen tun würden, und unsere KI füllt den Bericht für Sie aus. Sie können dann überprüfen, ob alles vorhanden ist, den Bericht unterschreiben und ihn in Form eines .PDF direkt an Ihren Servicemanager senden. Wir sorgen dafür, dass auch Sie ein Exemplar erhalten.
 
 In Zukunft können Ihre Kollegen den Bericht direkt auf ihren Telefonen oder Laptops einsehen, um die Servicehistorie der Maschine zu verstehen. Zusammenarbeit war noch nie so einfach.

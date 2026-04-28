@@ -1,7 +1,5 @@
 # Einblicke
 
-**Verfügbar mit:** KNOWRON Core
-
 Das Einblicke-Dashboard stellt sicher, dass Editoren und Administratoren verstehen können, wie gut ihr System funktioniert und befähigt sie, Wissenslücken in ihrer Organisation zu schließen.
 
 Durch interaktive Visualisierungen und detaillierte Analysen ermöglicht das Einblicke-Dashboard Editoren und Administratoren, die Auswirkungen ihrer Inhaltsstrategie zu sehen. Es hebt Erfolgsbereiche hervor, ermöglicht es, effektive Ansätze zu replizieren, und zeigt gleichzeitig potenzielle Schwächen auf, die zu Wissenslücken beitragen können.

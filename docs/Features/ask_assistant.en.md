@@ -1,7 +1,5 @@
 # Ask Assistant
 
-**Available with:** KNOWRON Core
-
 The **Ask Assistant** feature is your gateway to leveraging AI-driven knowledge management in the KNOWRON platform. It enables you to interact with the system to find accurate and detailed answers to your queries. By understanding its capabilities and using it effectively, you can maximize your productivity and access the most relevant information in no time.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/0d49898a1eeb4e36a364b99e459b4a2a?sid=c32ab0d9-1705-4833-a871-ab3fe9d76bc1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

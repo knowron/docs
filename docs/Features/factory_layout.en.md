@@ -1,8 +1,6 @@
 
 # Factory Layout
 
-**Available with:** KNOWRON Core
-
 With the factory layout, we are expanding the capabilities of our platform and ensuring that information access is flexible and aligned to your own processes. We can now group specific machines in an assembly line, which mirrors your production. By enabling this clustering, we can search for information related to the machines in the product line, and we can create specific logbook entries, reports and articles related to a specific line. 
 
 All the information you need to service and interact with an assembly line is represented in our platform, and we ensure that you can access all the resources related to it in a few second.

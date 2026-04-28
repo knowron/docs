@@ -1,7 +1,5 @@
 # Logbook on Web
 
-**Available with:** KNOWRON Core
-
 !!! note
 
     The machine logbook is also available for [mobile](./logbook_na.md). For more general information on the logbook feature, visit our [feature page](./logbook.md).

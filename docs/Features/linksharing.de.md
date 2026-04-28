@@ -1,7 +1,5 @@
 # Link Sharing
 
-**Verfügbar mit:** KNOWRON Core
-
 Link Sharing ist ein leistungsstolzes Werkzeug, das entwickelt wurde, um die Kommunikation zu optimieren und Teamarbeit zu fördern. Es ermöglicht Ihnen, wertvolle Ressourcen mühelos mit Ihren Kollegen zu teilen.
 
 ## Wie teilen Sie einen Link?
