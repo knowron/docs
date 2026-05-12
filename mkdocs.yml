@@ -70,6 +70,7 @@ nav:
   - Search:
       - "Features/ask_assistant.md" 
       - "Features/search.md"
+      - "Features/extended_answers.md"
       - "Features/synonym_lists.md"
   - Features:
       - "Features/logbook.md"

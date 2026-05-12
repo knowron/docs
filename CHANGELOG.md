@@ -2,6 +2,11 @@
 
 This file logs every change made to the documentation by Claude Code. One entry per session or batch of related changes.
 
+## 2026-05-12 — Create Extended Answers page
+- Created `docs/Features/extended_answers.en.md` — feature page covering what Extended Answers is, the decision flow (KB-first → prompt → labeled response), the two-condition activation model (client-level + per-query consent), and user preferences
+- Created `docs/Features/extended_answers.de.md` — German translation
+- Added `Features/extended_answers.md` to the nav in `mkdocs.yml` under the Search section, between `search.md` and `synonym_lists.md`
+
 ## 2026-03-20 — TODO-35: Create Content Extraction Pipeline page
 - Created `docs/Features/extraction_pipeline.en.md` — feature page covering what the pipeline does, supported document types, limitations (no image-embedded text), and the path to expanded extraction for specialized content
 - Created `docs/Features/extraction_pipeline.de.md` — German translation
