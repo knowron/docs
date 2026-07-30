@@ -2,6 +2,13 @@
 
 This file logs every change made to the documentation by Claude Code. One entry per session or batch of related changes.
 
+## 2026-07-30 — Rename Public Landing Pages → Product Passport (slug)
+- Renamed `docs/Features/public_landing_pages.{en,de}.md` → `docs/Features/product_passport.{en,de}.md` (page title was already "Product Passport"); new URL slug is `/Features/product_passport/`
+- Updated the nav entry in `mkdocs.yml` to `Features/product_passport.md`
+- Updated cross-reference links in `content_visibility.{en,de}.md` to point at `product_passport.md`
+- Removed the now-stale "kept as-is / add a redirect if renamed" migration comment from the top of both pages
+- No redirect from the old `/public_landing_pages/` URL was added (mkdocs-redirects is not installed); the old URL will 404
+
 ## 2026-05-12 — Create Extended Answers page
 - Created `docs/Features/extended_answers.en.md` — feature page covering what Extended Answers is, the decision flow (KB-first → prompt → labeled response), the two-condition activation model (client-level + per-query consent), and user preferences
 - Created `docs/Features/extended_answers.de.md` — German translation

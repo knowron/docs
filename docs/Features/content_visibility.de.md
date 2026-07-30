@@ -47,6 +47,6 @@ Workspaces ermöglichen es, Benutzer und Inhalte in Gruppen zu organisieren, die
 ## Verwandte Seiten
 
 - [Workspace-Management](workspace_management.md) — steuern, welche Mitarbeiter welche Inhalte sehen, nach Team oder Abteilung
-- [Öffentliche Landingpages](public_landing_pages.md) — wie öffentliche Sichtbarkeit in der Praxis funktioniert, einschließlich QR-Codes
+- [Product Passport](product_passport.md) — wie öffentliche Sichtbarkeit in der Praxis funktioniert, einschließlich QR-Codes
 - [Client Spaces](../Admin%20Documentation/client_spaces.md) — externen Kunden ihren eigenen authentifizierten Arbeitsbereich geben
 - [Admin-Panel](adminpanel.md) — Benutzerrollen und organisationsweiten Zugriff verwalten

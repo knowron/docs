@@ -47,6 +47,6 @@ Workspaces let you organize users and content into groups that mirror your compa
 ## Related
 
 - [Workspace Management](workspace_management.md) — control which employees see which content, by team or department
-- [Public Landing Pages](public_landing_pages.md) — how Public visibility works in practice, including QR codes
+- [Product Passport](product_passport.md) — how Public visibility works in practice, including QR codes
 - [Client Spaces](../Admin%20Documentation/client_spaces.md) — give external customers their own authenticated workspace
 - [Admin Panel](adminpanel.md) — manage user roles and organization-wide access

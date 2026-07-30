@@ -1,10 +1,3 @@
-<!--
-  Diese Seite hieß zuvor "Public Landing Pages".
-  Dateiname und URL-Slug bleiben unverändert, damit bestehende Links weiterhin funktionieren.
-  Falls Datei/Slug in product_passport umbenannt wird, eine Weiterleitung vom alten Pfad einrichten
-  (mkdocs redirects plugin) und das Nav-Label in mkdocs.yml aktualisieren.
--->
-
 # Product Passport
 
 *Ihre Dokumentation, nur einen Scan entfernt.*
