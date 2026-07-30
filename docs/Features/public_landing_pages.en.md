@@ -17,9 +17,12 @@ The Product Passport gives every machine or product its own URL, reachable by sc
 
 ## Why a Product Passport
 
-- **Take load off your support channels.** Customers and external field technicians reach the right documentation for the exact machine in front of them by scanning a code and get their answer in seconds, without contacting your team. Fewer of them call, email, or open a ticket to get what they need.
+- **Take load off your support channels.** Customers and field technicians reach the right documentation for the exact machine in front of them by scanning a code and get their answer in seconds, without contacting your team. Fewer of them call, email, or open a ticket to get what they need.
 - **Share documentation that is always up to date.** One QR code always points to the current version of every document. Update once, and everyone who scans sees the latest version, with no reprints and no outdated PDFs in circulation.
 - **Focus on what reaches whom, not on how to deploy it.** You decide which content each audience sees. KNOWRON handles the hosting, availability, and delivery, so your team spends its time on documentation instead of on infrastructure that is not your core competency.
+
+!!! info "Enable the Product Passport for your machines"
+    Want to give your customers self-service access to their documentation? Talk to your KNOWRON Customer Success contact, or reach out to [sales@knowron.com](mailto:sales@knowron.com), to enable the Product Passport for your machines or projects.
 
 ---
 
