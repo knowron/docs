@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+         <loc>https://docs.knowron.com/faqs/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/faqs/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/faqs/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/supported-languages/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/supported-languages/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/supported-languages/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/what-is-knowron/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/what-is-knowron/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/what-is-knowron/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Admin%20Documentation/client_spaces/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Admin%20Documentation/client_spaces/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Admin%20Documentation/client_spaces/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Admin%20Documentation/documents_upload_guidelines/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Admin%20Documentation/documents_upload_guidelines/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Admin%20Documentation/documents_upload_guidelines/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Admin%20Documentation/Security%20and%20Access/data_security_and_privacy/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Admin%20Documentation/Security%20and%20Access/data_security_and_privacy/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Admin%20Documentation/Security%20and%20Access/data_security_and_privacy/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Admin%20Documentation/Security%20and%20Access/roles_and_permissions/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Admin%20Documentation/Security%20and%20Access/roles_and_permissions/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Admin%20Documentation/Security%20and%20Access/roles_and_permissions/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Features/adminpanel/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Features/adminpanel/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Features/adminpanel/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Features/agentic_workflows/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Features/agentic_workflows/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Features/agentic_workflows/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Features/ai_powered_reports/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Features/ai_powered_reports/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Features/ai_powered_reports/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Features/answers/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Features/answers/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Features/answers/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Features/ask_assistant/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Features/ask_assistant/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Features/ask_assistant/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Features/charts.de/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Features/charts.de/"/>
+         
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Features/content_visibility/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Features/content_visibility/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Features/content_visibility/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Features/documents/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Features/documents/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Features/documents/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Features/documents_na/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Features/documents_na/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Features/documents_na/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Features/extraction_pipeline/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Features/extraction_pipeline/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Features/extraction_pipeline/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Features/factory_layout/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Features/factory_layout/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Features/factory_layout/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Features/insights/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Features/insights/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Features/insights/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Features/inventory_na/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Features/inventory_na/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Features/inventory_na/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Features/linksharing/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Features/linksharing/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Features/linksharing/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Features/logbook/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Features/logbook/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Features/logbook/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Features/logbook_cs/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Features/logbook_cs/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Features/logbook_cs/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Features/logbook_na/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Features/logbook_na/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Features/logbook_na/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Features/machine_details/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Features/machine_details/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Features/machine_details/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Features/machineinventory/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Features/machineinventory/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Features/machineinventory/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Features/partsinventory/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Features/partsinventory/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Features/partsinventory/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Features/product_passport/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Features/product_passport/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Features/product_passport/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Features/pushnotifications/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Features/pushnotifications/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Features/pushnotifications/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Features/search/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Features/search/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Features/search/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Features/sparepart_ordering/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Features/sparepart_ordering/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Features/sparepart_ordering/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Features/supportscreen/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Features/supportscreen/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Features/supportscreen/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Features/synonym_lists/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Features/synonym_lists/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Features/synonym_lists/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Features/troubleshooting_na/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Features/troubleshooting_na/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Features/troubleshooting_na/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Features/tutorials/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Features/tutorials/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Features/tutorials/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Features/workspace_management/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Features/workspace_management/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Features/workspace_management/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Features/Articles/article_voice_capture/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Features/Articles/article_voice_capture/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Features/Articles/article_voice_capture/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Features/Articles/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Features/Articles/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Features/Articles/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Getting%20Started/quick-start-guide-assistant/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Getting%20Started/quick-start-guide-assistant/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Getting%20Started/quick-start-guide-assistant/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Getting%20Started/quick-start-guide-cs/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Getting%20Started/quick-start-guide-cs/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Getting%20Started/quick-start-guide-cs/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.knowron.com/Getting%20Started/tips-to-get-started/</loc>
+         <lastmod>2026-10-22</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.knowron.com/en/Getting%20Started/tips-to-get-started/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://docs.knowron.com/de/Getting%20Started/tips-to-get-started/"/>
+         
+    </url>
+</urlset>
