@@ -1,0 +1,76 @@
+/* Chat mockup for docs/Features/agentic_workflows.*.md. Uses MkDocs Material color variables, so it follows light and dark mode. */
+.md-typeset .kn-chat {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  max-width: 34rem;
+  margin: 1.5em 0;
+  padding: 1.25rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.75rem;
+  background: var(--md-default-bg-color);
+  font-size: 0.75rem;
+}
+.md-typeset .kn-chat p,
+.md-typeset .kn-chat ul { margin: 0; }
+.md-typeset .kn-user { display: flex; justify-content: flex-end; }
+.md-typeset .kn-user p {
+  padding: 0.6rem 0.9rem;
+  border-radius: 1rem;
+  background: var(--md-code-bg-color);
+}
+.md-typeset .kn-bot { display: flex; flex-direction: column; gap: 0.6rem; }
+.md-typeset .kn-status {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: var(--md-default-fg-color--light);
+  font-style: italic;
+}
+.md-typeset .kn-num {
+  display: inline-flex;
+  flex: none;
+  align-items: center;
+  justify-content: center;
+  width: 1.4rem;
+  height: 1.4rem;
+  border-radius: 50%;
+  background: #f1693a;
+  color: #292929;
+  font-style: normal;
+  font-weight: 700;
+}
+.md-typeset .kn-card {
+  overflow: hidden;
+  border: 1px solid rgba(241, 105, 58, 0.35);
+  border-radius: 0.6rem;
+  background: rgba(241, 105, 58, 0.06);
+}
+.md-typeset .kn-question {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.6rem 0.8rem;
+  font-weight: 500;
+}
+.md-typeset .kn-options { padding: 0; list-style: none; }
+.md-typeset .kn-options li {
+  margin: 0;
+  padding: 0.45rem 0.8rem;
+  border-top: 1px solid rgba(241, 105, 58, 0.25);
+  background: var(--md-default-bg-color);
+}
+.md-typeset .kn-options li.kn-selected {
+  border-left: 4px solid #f1693a;
+  color: #d45a3b;
+  font-weight: 700;
+}
+.md-typeset .kn-options li.kn-other { color: var(--md-default-fg-color--light); }
+.md-typeset .kn-source {
+  align-self: flex-start;
+  padding: 0.2rem 0.7rem;
+  border-radius: 1rem;
+  background: var(--md-code-bg-color);
+  font-weight: 500;
+}
+.md-typeset .kn-dot { color: #f1693a; }
