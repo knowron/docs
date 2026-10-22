@@ -2,6 +2,11 @@
 
 This file logs every change made to the documentation by Claude Code. One entry per session or batch of related changes.
 
+## 2026-10-22 — German terminology fixes
+- `docs/Features/agentic_workflows.de.md`: kept the English feature name ("Agentic Workflows" in the title, H1 and nav; "Ein Agentic Workflow" in the first sentence), replaced "Kolleginnen und Kollegen" with "Teammitgliedern" and "Fingertipp" with "Klick"
+- `docs/Features/logbook_na.de.md`: fixed the mistranslated H1 and nav label "Fahrtenbuch auf dem Handy" → "Logbuch auf dem Handy"
+- Added a German glossary to `_context/style-guide.md` (Agentic Workflows kept in English, Logbuch never Fahrtenbuch, tap → Klick, Benutzer, Teammitglieder) and a pointer to it in `CLAUDE.md`
+
 ## 2026-10-22 — Disable social cards (fix failed deploy)
 - Removed the Material `social` plugin from `mkdocs.yml`: mkdocs-material 8.5.11 downloads its font from a Google Fonts URL that no longer returns a zip, which broke `mkdocs gh-deploy`
 - Reverted the social plugin's additions to `.github/workflows/ci.yml` (Cairo system libraries, pillow, cairosvg) and `requirements.txt`
