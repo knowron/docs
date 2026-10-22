@@ -2,6 +2,11 @@
 
 This file logs every change made to the documentation by Claude Code. One entry per session or batch of related changes.
 
+## 2026-10-22 — Disable social cards (fix failed deploy)
+- Removed the Material `social` plugin from `mkdocs.yml`: mkdocs-material 8.5.11 downloads its font from a Google Fonts URL that no longer returns a zip, which broke `mkdocs gh-deploy`
+- Reverted the social plugin's additions to `.github/workflows/ci.yml` (Cairo system libraries, pillow, cairosvg) and `requirements.txt`
+- Kept `site_url` and `site_description`; social cards to be revisited with a mkdocs-material 9.x upgrade
+
 ## 2026-10-22 — Archive Extended Answers page
 - Moved `docs/Features/extended_answers.{en,de}.md` to `_context/_archive/` (no longer relevant); content is kept but no longer published
 - Removed `Features/extended_answers.md` from the Search section of the nav in `mkdocs.yml`

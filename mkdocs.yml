@@ -26,11 +26,6 @@ theme:
 plugins:
   - search
   - glightbox
-  - social:
-      cards: true
-      cards_color:
-        fill: "#ff5722"   # Material "deep orange" — matches theme primary
-        text: "#ffffff"
   - tags:
       tags_extra_files:
         compatibility.md:
