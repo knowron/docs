@@ -1,4 +1,4 @@
-# Fahrtenbuch auf dem Handy
+# Logbuch auf dem Handy
 
 !!! Anmerkung
 

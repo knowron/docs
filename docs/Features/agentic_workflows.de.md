@@ -1,8 +1,8 @@
-# Agentische Workflows
+# Agentic Workflows
 
-Ein agentischer Workflow bringt dem KNOWRON-Assistenten bei, wie Ihr Team eine bestimmte Aufgabe erledigt: wann sie anfällt, was zu klären ist, wo gesucht wird und wie das Ergebnis aussehen soll.
+Ein Agentic Workflow bringt dem KNOWRON-Assistenten bei, wie Ihr Team eine bestimmte Aufgabe erledigt: wann sie anfällt, was zu klären ist, wo gesucht wird und wie das Ergebnis aussehen soll.
 
-Stellen Sie es sich wie den Leitfaden vor, den Sie neuen Kolleginnen und Kollegen mitgeben. Der Assistent erkennt, wann eine Frage einen Workflow erfordert, und folgt ihm. Ihre Benutzer fragen wie gewohnt.
+Stellen Sie es sich wie den Leitfaden vor, den Sie neuen Teammitgliedern mitgeben. Der Assistent erkennt, wann eine Frage einen Workflow erfordert, und folgt ihm. Ihre Benutzer fragen wie gewohnt.
 
 Teil von Assistant 3.0 und für alle Kunden ohne Aufpreis enthalten. Sie legen die Aufgabe fest, unser Customer-Success-Team baut den Workflow gemeinsam mit Ihnen.
 
@@ -34,7 +34,7 @@ Teil von Assistant 3.0 und für alle Kunden ohne Aufpreis enthalten. Sie legen d
 </div>
 
 1. **Erkennt die Aufgabe.** Eine Ersatzteilanfrage, keine allgemeine Frage.
-2. **Fragt nur nach, wenn es darauf ankommt.** Eine Frage, drei Vorschläge, ein Fingertipp.
+2. **Fragt nur nach, wenn es darauf ankommt.** Eine Frage, drei Vorschläge, ein Klick.
 3. **Durchsucht die richtigen Dokumente.** Die Antwort kommt mit ihrer Quelle.
 
 Bei den echten Fragen eines Kunden aus einem ganzen Jahr hätte der Assistent in 4 von 100 Fällen nachgefragt.
