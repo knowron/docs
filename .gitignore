@@ -2,3 +2,6 @@
 site/
 
 .DS_Store
+
+# Internal reference material (pricing, drafts) — never commit to this public repo
+_context/

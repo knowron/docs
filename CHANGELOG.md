@@ -2,6 +2,24 @@
 
 This file logs every change made to the documentation by Claude Code. One entry per session or batch of related changes.
 
+## 2026-10-22 — Archive Extended Answers page
+- Moved `docs/Features/extended_answers.{en,de}.md` to `_context/_archive/` (no longer relevant); content is kept but no longer published
+- Removed `Features/extended_answers.md` from the Search section of the nav in `mkdocs.yml`
+- Marked the page as archived in `_context/feature-inventory.md`
+- No redirect added; the old `/Features/extended_answers/` URL will 404
+
+## 2026-10-22 — Agentic Workflows: contact link
+- `docs/Features/agentic_workflows.{en,de}.md`: removed the "Related pages" section; linked the closing Customer Success contact line to [support@knowron.com](mailto:support@knowron.com)
+
+## 2026-10-22 — Update Agentic Workflows content
+- `docs/Features/agentic_workflows.{en,de}.md`: removed the comparison to other AI assistants; stated the feature is included at no extra cost; reworked "How you get one" (book a meeting with Customer Success, about a week to go-live); replaced "Good to know" with a "For admins" Q&A section (viewing, changing, visibility, knowledge source, languages, expanding)
+
+## 2026-10-22 — Create Agentic Workflows page
+- Created `docs/Features/agentic_workflows.en.md` — feature page (Assistant 3.0) covering what an agentic workflow is, a worked spare-parts example with a chat mockup, what a workflow defines, use-case ideas, how clients get one via Customer Success, and visibility/integration notes
+- Created `docs/Features/agentic_workflows.de.md` — full German translation
+- Added `Features/agentic_workflows.md` to the nav in `mkdocs.yml` under the Search section, after `extended_answers.md`
+- Added `docs/stylesheets/extra.css` (registered via `extra_css` in `mkdocs.yml`) with the `kn-chat` chat-mockup styles; uses Material theme variables so it works in light and dark mode
+
 ## 2026-07-30 — Rename Public Landing Pages → Product Passport (slug)
 - Renamed `docs/Features/public_landing_pages.{en,de}.md` → `docs/Features/product_passport.{en,de}.md` (page title was already "Product Passport"); new URL slug is `/Features/product_passport/`
 - Updated the nav entry in `mkdocs.yml` to `Features/product_passport.md`
